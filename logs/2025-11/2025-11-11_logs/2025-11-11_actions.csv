@@ -1,0 +1,11 @@
+timestamp,action,details
+2025-11-11T08:00:00Z,session_start,"Loaded Wix Studio and resumed MezTal project."
+2025-11-11T08:30:00Z,create_collections,"Created CMS collections: services, industries, case_studies, resources, locations, people with appropriate fields."
+2025-11-11T09:30:00Z,add_fields,"Added text, rich content, image, multi-reference, and meta fields to main collections."
+2025-11-11T10:30:00Z,setup_resources_and_people,"Completed resources and people collections with necessary fields and references."
+2025-11-11T11:30:00Z,verify_dynamic_pages,"Checked that Wix generated dynamic pages for every collection."
+2025-11-11T12:00:00Z,customize_solutions_list,"Attempted to customize Solutions list page by inserting a repeater."
+2025-11-11T13:00:00Z,repeater_binding_issue,"Could not bind repeater to services dataset; removed unconfigured dataset."
+2025-11-11T14:00:00Z,logging_to_github,"Attempted to push logs to GitHub; encountered 403 error."
+2025-11-11T15:00:00Z,store_local_logs,"Created local logs directory and wrote agent, error, learning, and actions logs."
+2025-11-11T16:00:00Z,session_end,"Wrapped up the day's work and summarised progress."
