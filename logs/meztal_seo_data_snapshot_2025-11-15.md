@@ -253,3 +253,220 @@ Multiple offshore-* URLs position MezTal as alternative:
 **Document Status:** Complete snapshot of Architecture — Cleaned Map tab
 **Last Updated:** November 15, 2025, 3:00 AM EST
 **Next Review:** Before bulk content import to Wix CMS
+
+
+---
+
+# ADDENDUM: FELLOU AI BUILD STRATEGY INTEGRATION
+**Date Added:** November 15, 2025, 3:00 AM EST  
+**Source:** Fellou AI MezTal Markdown Strategy Document
+
+---
+
+## PRIORITY BUILD ORDER (from Fellou AI)
+
+The Fellou AI document specifies a **pillar-first strategy** that directly aligns with our architecture analysis. This provides the tactical execution sequence:
+
+### PRIORITY 1: CORE PILLAR PAGES
+
+**Build Sequence:**
+1. **Homepage** (`/`) - Foundation & brand positioning
+2. **Main Services Hub** (`/services`) - Central navigation pillar (Priority 9.4)
+3. **Top 4 Service Pillars** (core revenue drivers):
+   - IT Staffing Pillar (`/services/it-staffing`) - Largest cluster (145 pages)
+   - Accounting Solutions Pillar (`/services/accounting-solutions`) - 2nd largest (94 pages) 
+   - Call Center Outsourcing (`/services/call-center-outsourcing`) - Priority 9.7
+   - Finance & Accounting Outsourcing (`/services/finance-and-accounting-outsourcing`) - Priority 9.8
+
+### RATIONALE FOR PILLAR-FIRST
+
+Fellou AI's strategy emphasizes:
+- **Foundation First**: Pillar pages are the structural anchors for the entire site
+- **Link Authority**: All spoke and leaf pages will link to these pillars
+- **Conversion Optimization**: Highest-intent users land on pillar pages
+- **Content Velocity**: Pillar templates enable rapid spoke/leaf creation
+
+---
+
+## CONTENT SPECIFICATIONS
+
+### What Each Page Includes:
+
+**Full HTML/Markdown content structure:**
+- Complete meta data (title, description, H1)
+- SEO-optimized heading hierarchy (H1 → H2 → H3)
+- Internal linking framework to related pages
+- Schema markup ready for rich snippets
+- Strategic CTA placement (primary & secondary)
+
+### Homepage Content Framework (from Fellou AI):
+
+**META DATA:**
+- Title Tag: "Nearshore Staffing & Outsourcing Solutions | MEZTAL"
+- Meta Description: 155-character value proposition with CTA
+- H1: "Scale Your Business with Nearshore Staffing & Outsourcing Excellence"
+
+**HERO SECTION:**
+- Primary H1 headline
+- Subheadline with value proposition
+- Dual CTAs (primary: "Get Started Today", secondary: "Explore Our Services")
+- 3-pillar value props:
+  - ⚡ Faster Time-to-Hire: "Fill critical roles in 2-3 weeks vs. 2-3 months"
+  - 💰 40-60% Cost Savings: "Without compromising on quality or expertise"
+  - 🌎 Nearshore Advantage: "LatAm talent in your timezone with cultural alignment"
+
+**SERVICE OVERVIEW SECTIONS:**
+- IT Staffing & Development (link to `/services/it-staffing`)
+- Accounting & Finance Services (link to `/services/accounting-solutions`)
+- [Additional service clusters with internal links]
+
+---
+
+## STORAGE & TRACKING STRATEGY
+
+**File Organization:**
+- Each page saved as individual markdown file
+- Master index tracking all completed pages
+- Build log for progress monitoring
+- Version control via GitHub
+
+**Recommended Structure:**
+```
+/pages/
+  /home/
+    - homepage.md
+  /services/
+    - services-hub.md
+    - it-staffing-pillar.md
+    - accounting-solutions-pillar.md
+    - call-center-outsourcing-pillar.md
+    - finance-accounting-outsourcing-pillar.md
+  /comparison/
+    [comparison pages]
+  /resources/
+    [guide pages]
+```
+
+---
+
+## EXECUTION CHECKLIST (from Fellou AI)
+
+**Before delivering, confirm:**
+- [] All 430+ pages accounted for in inventory
+- [] Every page properly tagged with raw targets
+- [] All source data from extractedData variable only
+- [] No competitor data or external assumptions
+- [] Every major claim has raw reference
+- [] Existing 6 pages preserved and documented in gaps section
+- [] Priority analysis complete with top 20 pages identified
+- [] Technical requirements extracted from architecture patterns
+- [] Navigation structure mapped from URL hierarchy
+- [] Traceability matrix enables quick lookup
+- [] Gap analysis shows completed vs. remaining work
+- [] Implementation roadmap provides clear next steps
+
+---
+
+## QUALITY CONTROL PRINCIPLES
+
+**From Fellou AI documentation:**
+
+1. **"Transparent" Principle**: Show source for every claim
+   - All statistics referenced to source data
+   - No fabricated metrics or assumptions
+   - Clear attribution for competitive intelligence
+
+2. **Data Integrity**: 
+   - Only use validated extractedData
+   - No competitor assumptions
+   - Preserve existing content references
+
+3. **Traceability**:
+   - Master index enables page lookup
+   - Gap analysis tracks progress
+   - Priority scoring from triangulated sources
+
+---
+
+## INTEGRATION WITH EXISTING ARCHITECTURE
+
+### How Fellou AI Strategy Enhances Our Architecture:
+
+**1. Validates Pillar/Spoke/Leaf Hierarchy**
+   - Fellou AI confirms pillar-first approach
+   - Our architecture identified 15-20 pillar pages
+   - Build order: Pillar → Spoke → Leaf
+
+**2. Provides Content Templates**
+   - Homepage template establishes pattern
+   - Section structures reusable across pillars
+   - CTA placement framework
+
+**3. Execution Roadmap**
+   - Clear 6-page initial build (Homepage + 5 pillars)
+   - Expansion pathway to 430+ total pages
+   - Quality gates at each milestone
+
+**4. Storage Strategy**
+   - Individual markdown files per page
+   - GitHub-based version control
+   - Master tracking index
+
+---
+
+## REVISED NEXT ACTIONS
+
+**Updated priority sequence integrating Fellou AI strategy:**
+
+### PHASE 1: FOUNDATION (Weeks 1-2)
+1. **Build Homepage** - Complete HTML/Markdown with all sections
+2. **Build Main Services Hub** - Central navigation anchor
+3. **Validate in Wix** - Ensure CMS routing supports structure
+
+### PHASE 2: CORE PILLARS (Weeks 3-4)
+4. **Build IT Staffing Pillar** - Largest revenue cluster
+5. **Build Accounting Solutions Pillar** - Second largest cluster
+6. **Build Call Center Outsourcing Pillar** - Highest priority (9.7)
+7. **Build Finance & Accounting Outsourcing Pillar** - Highest priority (9.8)
+
+### PHASE 3: SPOKE EXPANSION (Weeks 5-8)
+8. **Build spoke pages** - 30-40% of architecture (120-160 pages)
+9. **Internal linking matrix** - Connect pillars to spokes
+10. **Schema markup implementation** - Rich snippets
+
+### PHASE 4: LEAF COMPLETION (Weeks 9-12)
+11. **Build leaf pages** - 40-50% of architecture (170-215 pages)
+12. **Complete internal linking** - Full pillar → spoke → leaf flow
+13. **Analytics setup** - Track URL-level performance
+
+---
+
+## CRITICAL SUCCESS FACTORS
+
+**Combining architecture analysis + Fellou AI execution:**
+
+✅ **Start with structure, not content**
+   - Architecture defines navigation before copy
+   - URL patterns established before page creation
+   - Collections mapped to content types
+
+✅ **Build pillar-first always**
+   - Never build leaf pages without pillar foundation
+   - Spoke pages inherit authority from pillars
+   - Internal links flow downward (pillar → spoke → leaf)
+
+✅ **Maintain data integrity**
+   - Every page references source data
+   - No fabricated statistics or claims
+   - Transparent sourcing for credibility
+
+✅ **Track progress systematically**
+   - Master index updated per page completion
+   - Gap analysis shows remaining work
+   - Priority scores guide build sequence
+
+---
+
+**Addendum Status:** Complete integration of Fellou AI build strategy with architecture data  
+**Combined Document Status:** Ready for implementation execution  
+**Next Step:** Begin Phase 1 - Homepage build
