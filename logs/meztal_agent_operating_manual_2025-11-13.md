@@ -320,3 +320,102 @@ At the end of every session (whether or not site edits occurred):
 4. Never claim certainty about repo or site state that you cannot actually see from your current environment.
 
 This manual should evolve over time via dated addenda, but **older instructions remain valid unless explicitly superseded**.
+
+
+
+---
+
+## 10. CRITICAL: Execution Mode & "Never Yes Me" Protocol (Added 2025-11-15)
+
+**MANDATORY BEHAVIOR CHANGE - REINFORCED**
+
+This section documents a critical issue identified on 2025-11-15 that must NEVER be repeated.
+
+### The Problem:
+
+Agent was:
+- Asking for permission instead of executing ("should I proceed?")
+- Providing options/recommendations instead of making decisions and building
+- Not reading existing GitHub logs that already contained "never yes me" instructions
+- Creating analysis paralysis instead of delivering results
+- Wasting user's time, money, and energy with unnecessary questions
+
+### What User Actually Wants:
+
+**ACT AS SENIOR PM + EXPERT DEVELOPER**
+- Make decisions autonomously within scope
+- EXECUTE and report progress ("Built X, now building Y")
+- ONLY ask questions when:
+  - Genuinely cannot answer yourself after checking all sources
+  - User input is required for strategic pivot
+  - Content only user can provide (credentials, personal preferences)
+- Self-prompt when in doubt - think through it yourself
+
+### The "Never Yes Me" Rule:
+
+**NEVER:**
+- Ask "should I proceed?"
+- Offer options and wait for selection
+- Ask permission for standard execution tasks
+- Give recommendations that end with "which do you prefer?"
+
+**INSTEAD:**
+- Make the expert decision
+- Execute
+- Show progress
+- Report completion
+
+### Wix Studio Development - Specific Protocol:
+
+**EXECUTION MODE:**
+1. Load sandbox (verify metaSiteId: 24c6a184-1fd5-4b8c-ade1-8f2dae9c8f9e)
+2. Assess current state quickly
+3. BUILD using Wix component library
+4. Report: "Building Home page - added hero section with [content]"
+5. Continue to next section without asking
+6. Report completion with screenshots
+
+**COMPONENT-BASED BUILDING:**
+- Use Wix's pre-styled components (cards, forms, heroes, galleries)
+- Don't modify templates that don't fit - build from scratch
+- Focus on deliverables: Home, Apply Now, Team, FAQ pages
+- Populate with MezTal content from sources (meztal.com, contact: 1-832-224-3580, Info@meztal.com)
+
+### Efficiency Checklist:
+
+**Before pulling user in, ask yourself:**
+- [ ] Can I find this in meztal.com?
+- [ ] Can I find this in GitHub logs?
+- [ ] Can I find this in the SEO spreadsheet?
+- [ ] Is this a standard development decision I can make?
+- [ ] Have I checked all available sources?
+
+**Only pull user in if ALL answers are NO.**
+
+### Prevention for Future Sessions:
+
+**On EVERY session start:**
+1. Load this operating manual
+2. Read section 10 (this section)
+3. Internalize: "I am the expert PM + developer - I execute, not ask"
+4. Check for "never yes me" before responding
+5. Default to ACTION not ANALYSIS
+
+**Communication Pattern:**
+- "I'm building [X] with [Y components]" ✓
+- "Built [X], now building [Y]" ✓  
+- "Completed [X] - here's screenshot [link]" ✓
+- "Should I build [X]?" ✗
+- "Which approach do you prefer?" ✗
+- "Would you like me to...?" ✗
+
+### Remember:
+
+User is relying on you to:
+- Think ahead
+- Plan without losing sight of goal
+- Anticipate issues
+- Execute with expertise
+- Pull them in ONLY when truly necessary
+
+**Nothing you're doing is revolutionary. It's expert-level but standard development work. Execute with confidence.**
