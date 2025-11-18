@@ -2,8 +2,7 @@
 
 **Session Date:** 2025-11-17/18
 **Task:** Page URL hierarchy optimization + SEO field completion
-**Status:** IN PROGRESS - 17 pages completed ✅
-**✅ ADDITIONAL CORRECTIONS:** Accounting Services parent changed Solutions → Accounting & Finance (hierarchy fix)
+**Status:** IN PROGRESS - 21 pages completed (55%) ✅**✅ ADDITIONAL CORRECTIONS:** Accounting Services parent changed Solutions → Accounting & Finance (hierarchy fix)
 **✅ CRITICAL CORRECTION:** Call Center Outsourcing parent changed from Home → Solutions (hierarchy fix)
 
 ---
@@ -75,6 +74,44 @@ https://editor.wix.com/studio/792fe01d-fa28-4833-b811-b5a540f5568b?metaSiteId=24
 - Title: "Design Outsourcing Services | Nearshore Creative Teams | MezTal" (66 chars) ✅
 - Meta: Includes Guadalajara & Mexico City (160 chars) ✅
 
+- ### 9. Company (Parent Page)
+- Parent: Home
+- URL: `/company`
+- Purpose: Parent page for corporate/company information pages
+- Nested Pages:
+  - About (parent changed: Home → Company)
+  - Contact (parent changed: Home → Company)
+  - Locations (parent changed: Home → Company)
+  - Resources (parent changed: Home → Company)
+- Status: ✅ All 4 nested pages successfully configured
+
+### 10. About
+- Parent: Company ✅ (changed from Home)
+- URL: `/company/about`
+- Title & Meta: Already optimized in prior sessions
+- Status: ✅ Parent reassignment complete
+
+### 11. Contact
+- Parent: Company ✅ (changed from Home)
+- URL: `/company/contact`
+- Title: "Contact MezTal | Hire Nearshore Talent | Guadal..."
+- Meta: "Get in touch with MezTal to hire top nearshore talent..."
+- Status: ✅ Parent reassignment complete
+
+### 12. Locations
+- Parent: Company ✅ (changed from Home)
+- URL: `/company/locations`
+- Title: "Nearshore Staffing Locations | Guadalajara & Mexico City..."
+- Meta: "Explore MezTal's nearshore staffing locations in Guadalajara (GDL) and Mexico City..."
+- Status: ✅ Parent reassignment complete
+
+### 13. Resources
+- Parent: Company ✅ (changed from Home)
+- URL: `/company/resources`
+- Title: "Nearshore Staffing Resources & Guides | MezTal"
+- Meta: "Nearshore staffing resources from Guadalajara & Mexico City..."
+- Status: ✅ Parent reassignment complete
+
 ---
 
 ## 📋 REMAINING PAGES TO OPTIMIZE (~30)
@@ -128,11 +165,11 @@ Home
 │   ├── HR & Talent Acquisition
 │   └── Other service categories...
 ├── Industries
-├── Locations
-│   └── Why Guadalajara?
-├── Resources
-├── About
-└── Contact
+├── Company (Parent - contains corporate/company info pages)
+│   ├── About
+│   ├── Contact
+│   ├── Locations
+│   └── Resources
 
 (Flat under Home - SEO Landing Pages)
 ├── Call Center Outsourcing ✅
