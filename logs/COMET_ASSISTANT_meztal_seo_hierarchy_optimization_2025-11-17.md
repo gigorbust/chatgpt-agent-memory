@@ -2,6 +2,53 @@
 
 ## 📊 SESSION STATUS OVERVIEW
 
+
+## 🚨 COMET SELF-DIRECTIVE - ABSOLUTE DOCUMENTATION STANDARDS
+
+**ZERO TOLERANCE POLICY:**
+- ❌ NO placeholders like "Other...", "Additional...", "etc.", "..."
+- ❌ NO summarizing - document EVERY SINGLE item explicitly
+- ❌ NO combining items - each gets its own line
+- ❌ NO omitting details - if it exists, it's documented
+- ❌ NO assumptions - verify everything in source
+- ❌ NO lazy shortcuts - complete precision required
+
+**WHEN DOCUMENTING:**
+1. List EVERY page by its EXACT name from Wix
+2. Document EVERY field: Parent, URL, Title, Meta
+3. Verify EVERY entry against the actual Wix site
+4. If unsure about ANY detail, check the source
+5. Update counts IMMEDIATELY when items change
+
+**IF A PLACEHOLDER IS ABSOLUTELY NECESSARY:**
+1. Mark it with ⚠️ WARNING symbol
+2. Add to IMMEDIATE NEXT STEPS with specific action
+3. NEVER let it persist across sessions
+4. Treat as CRITICAL BLOCKER until resolved
+
+**VIOLATION = PROJECT FAILURE**
+
+---
+
+## 📦 DYNAMIC PAGES (CMS Templates)
+
+**Note:** These are template pages for CMS collections, not individual content pages
+
+- Case_studies (Item)
+- Case_studies (List)
+- Industries (Item)
+- Industries (List) 
+- Locations (List)
+- Resources (Item)
+- Resources (List)
+- Roles (Item)
+- Roles (List)
+- Services (Item)
+- Services (List)
+- Solutions (Item)
+- Solutions (List)
+
+**Status:** CMS templates exist but collections optimization is separate phase
 | Metric | Value | Details |
 |--------|-------|---------|
 | **Session Dates** | 2025-11-17/18 | Multi-day optimization session |
@@ -219,7 +266,10 @@ Home
 │   ├── Digital Marketing ✅
 │   ├── HR & Talent Acquisition ✅
 	│   ├── Application Development ✅│
-└── Other service categories...
+│   ├── Call Center Outsourcing ✅
+│   ├── Finance & Accounting Outsourcing ✅
+│   ├── sales-solutions (page exists - needs SEO review)
+│   └── services (lowercase page - needs review/cleanup)
 ├── Industries
 ├── Company (Parent - contains corporate/company info pages)
 │   ├── About
@@ -233,7 +283,18 @@ Home
 ├── Top IT Outsourcing Companies
 ├── Nearshore Staffing Mexico
 ├── Remote Workers Mexico
-└── Other comparison/location pages...
+├── Mexico Outsourcing
+├── Hire Developers Mexico
+├── Remote Teams Mexico
+├── Employer of Record Mexico
+├── Best Outsourcing Companies
+├── Top Software Development Companies
+├── Top BPO Companies
+├── Best IT Staffing Companies
+├── New Page (needs review/purpose determination)
+├── Apply Now
+├── Team
+└── FAQ
 ```
 
 ---
