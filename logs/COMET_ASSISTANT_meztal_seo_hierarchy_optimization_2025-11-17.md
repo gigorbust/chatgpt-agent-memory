@@ -2,8 +2,7 @@
 
 **Session Date:** 2025-11-17/18
 **Task:** Page URL hierarchy optimization + SEO field completion
-**Status:** IN PROGRESS - 21 pages completed (55%) ✅**✅ ADDITIONAL CORRECTIONS:** Accounting Services parent changed Solutions → Accounting & Finance (hierarchy fix)
-**✅ CRITICAL CORRECTION:** Call Center Outsourcing parent changed from Home → Solutions (hierarchy fix)
+**Status:** IN PROGRESS - 28 pages completed (~74%) ✅✅ **NEW ADDITIONS:** Comparison parent page created under Resources + All 6 comparison pages successfully moved to Comparison parent ✅ **ADDITIONAL CORRECTIONS:** Accounting Services parent changed Solutions → Accounting & Finance (hierarchy fix)**✅ CRITICAL CORRECTION:** Call Center Outsourcing parent changed from Home → Solutions (hierarchy fix)
 
 ---
 
@@ -25,8 +24,7 @@ https://editor.wix.com/studio/792fe01d-fa28-4833-b811-b5a540f5568b?metaSiteId=24
 
 ---
 
-## ✅ COMPLETED PAGES (8/38+) - Current Session 2025-11-18
-
+## ✅ COMPLETED PAGES (28/38+) - Current Session 2025-11-18
 ### 1. Call Center Outsourcing
 - Parent: Solutions ✅ (CORRECTED from Home - Critical hierarchy fix)- URL: `/call-center-outsourcing` ✅  
 - Title: "Call Center Outsourcing Services | Nearshore BPO | MezTal" ✅
@@ -94,23 +92,67 @@ https://editor.wix.com/studio/792fe01d-fa28-4833-b811-b5a540f5568b?metaSiteId=24
 ### 11. Contact
 - Parent: Company ✅ (changed from Home)
 - URL: `/company/contact`
-- Title: "Contact MezTal | Hire Nearshore Talent | Guadal..."
-- Meta: "Get in touch with MezTal to hire top nearshore talent..."
-- Status: ✅ Parent reassignment complete
-
-### 12. Locations
-- Parent: Company ✅ (changed from Home)
+- Title: "Contact MezTal | Hire Nearshore Talent | Guadalajara & Mexico City"
+- Meta: "Get in touch with MezTal to hire top nearshore talent or apply for jobs. Book a discovery call or find jobs easily."
+### 12. Locations- Parent: Company ✅ (changed from Home)
 - URL: `/company/locations`
-- Title: "Nearshore Staffing Locations | Guadalajara & Mexico City..."
-- Meta: "Explore MezTal's nearshore staffing locations in Guadalajara (GDL) and Mexico City..."
+- Title: "Nearshore Staffing Locations | Guadalajara & Mexico City | MezTal"- Meta: "Explore MezTal's nearshore staffing locations in Guadalajara (GDL) and Mexico City..."
 - Status: ✅ Parent reassignment complete
 
 ### 13. Resources
 - Parent: Company ✅ (changed from Home)
 - URL: `/company/resources`
 - Title: "Nearshore Staffing Resources & Guides | MezTal"
-- Meta: "Nearshore staffing resources from Guadalajara & Mexico City..."
-- Status: ✅ Parent reassignment complete
+- Meta: "Nearshore staffing resources from Guadalajara & Mexico City. Guides, case studies, FAQs, glossary. Learn about outsourcing, workflow automation, workforce management."- Status: ✅ Parent reassignment complete
+- 
+### 14. Comparison (Parent Page)
+– Parent: Resources ✅ (changed from N/A - newly created)
+– URL: `/company/resources/comparison`
+– Purpose: Parent page for competitor comparison landing pages
+– Nested Pages:
+  – Top IT Outsourcing Companies
+  – Top Software Development Companies
+  – Top BPO Companies
+  – Best Accounting Firms
+  – Best IT Staffing Companies
+  – Best Outsourcing Companies
+– Status: ✅ All 6 comparison pages successfully moved to this parent
+
+### 15. Top IT Outsourcing Companies
+– Parent: Comparison ✅ (changed from Home)
+– URL: `/company/resources/comparison/top-it-outsourcing-companies`
+– Title & Meta: Pending optimization
+– Status: ✅ Parent reassignment complete
+
+### 16. Top Software Development Companies
+– Parent: Comparison ✅ (changed from Home)
+– URL: `/company/resources/comparison/software-development-companies`
+– Title & Meta: Pending optimization
+– Status: ✅ Parent reassignment complete
+
+### 17. Top BPO Companies
+– Parent: Comparison ✅ (changed from Home)
+– URL: `/company/resources/comparison/top-bpo-companies`
+– Title & Meta: Pending optimization
+– Status: ✅ Parent reassignment complete
+
+### 18. Best Accounting Firms
+– Parent: Comparison ✅ (changed from Home)
+– URL: `/company/resources/comparison/best-accounting-firms`
+– Title & Meta: Pending optimization
+– Status: ✅ Parent reassignment complete
+
+### 19. Best IT Staffing Companies
+– Parent: Comparison ✅ (changed from Home)
+– URL: `/company/resources/comparison/best-it-staffing-companies`
+– Title & Meta: Pending optimization
+– Status: ✅ Parent reassignment complete
+
+### 20. Best Outsourcing Companies
+– Parent: Comparison ✅ (changed from Home)
+– URL: `/company/resources/comparison/best-outsourcing-companies`
+– Title & Meta: Pending optimization
+– Status: ✅ Parent reassignment complete
 
 ---
 
