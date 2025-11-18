@@ -121,7 +121,7 @@
 | 46 | RPO for Senior Living | Solutions | /solutions/hr-talent-acquisition/senior-living-rpo/ | ✅ Complete | Leaf page under HR & Talent Acquisition for RPO services |
 | 47 | Augmented Workforce Solutions | Solutions | /solutions/hr-talent-acquisition/augmented-workforce/ | ✅ Complete | Pillar page under HR & Talent Acquisition for augmented workforce |
 | 48 | Supplemental Workforce Staffing | Solutions | /solutions/hr-talent-acquisition/supplemental-workforce/ | ✅ Complete | Leaf page under HR & Talent Acquisition for supplemental staffing |
-| 49 | Outsourced Human Relations Support | Solutions | /solutions/hr-talent-acquisition/human-relations-support/ | ✅ Complete | Leaf page under HR & Talent Acquisition for HR support ||
+| 49 | Outsourced Human Relations Support | Solutions | /solutions/hr-talent-acquisition/human-relations-support/ | ✅ Complete | Leaf page under HR & Talent Acquisition for HR support |
 
 ---
 
