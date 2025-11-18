@@ -112,9 +112,9 @@
 | 31 | Nearshore Staffing Mexico | Home | /nearshore-staffing-mexico | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 32 | Remote Workers Mexico | Home | /remote-workers-mexico | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 33 | Mexico Outsourcing | Home | /mexico-outsourcing | ✅ Complete | Already had GDL & Mexico City |
-| 34 | Hire Developers Mexico | Home | /blank-9 | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
+| 34 | Hire Developers Mexico | Application Development Outsourcing | /hire-developers-mexico | ✅ Complete | **COMPREHENSIVE SEO OPTIMIZATION:** URL fixed from /blank-9; Title: "Hire Developers in Mexico | Guadalajara & Mexico City | MezTal"; Meta: 196 chars with nearshore, overlapping hours, cultural alignment; Parent: Application Development Outsourcing (SEO best practice - Development Services separate from IT Staffing) |
 | 35 | Remote Teams Mexico | Home | /remote-teams-mexico | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
-| 36 | Employer of Record Mexico | Home | /blank-17 | ✅ Complete | Already had GDL & Mexico City |
+| 36 | Employer of Record Mexico | HR & Talent Acquisition | /employer-of-record-mexico | ✅ Complete | **COMPREHENSIVE SEO OPTIMIZATION:** URL fixed from /blank-17; Title: "Employer of Record in Mexico | Guadalajara & Mexico City | MezTal"; Meta: 199 chars with benefits-focused language, compliant hiring, payroll, legal protection; Parent: HR & Talent Acquisition (SEO best practice - EOR is employment/HR service, not development) |
 | 38 | Why Guadalajara? | Locations | /locations/why-guadalajara | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 39 | Apply Now | Home | /apply-now | ✅ Complete | URL FIXED from /blank-19; Meta updated: added GDL & Mexico City, overlapping business hours |
 | 40 | Team | Home | /team | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
