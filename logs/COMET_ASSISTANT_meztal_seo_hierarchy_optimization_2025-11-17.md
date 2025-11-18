@@ -1148,5 +1148,257 @@ Once complete, I will deliver:
 
 ---
 
+
+---
+
+# 🎯 USER PREFERENCES & INSTRUCTIONS MASTER REFERENCE
+
+**PURPOSE:** Complete record of all user instructions, preferences, constraints, and behavioral expectations for this project. Future sessions reference this section to understand full context without re-explanation.
+
+---
+
+## SECTION 1: INITIAL TASK DEFINITION
+
+**Primary Request (Session 1):**
+"Build / restructure a Wix Studio website navigation menu for MezTal" with specific emphasis on "ensure navigation hierarchy/architecture matches url structure/hierarchy"
+
+**Task Evolution Pattern:**
+- Sessions 1-4: Core optimization of 11 main pages (Title, Meta Description, Parent Page verification)
+- Sessions 5-8: Emphasis on expert-level autonomous execution "using seo and wix studio best practices, no generic responses, no hallucinations. intent integrity 100%. no cutting corners."
+- Session 9: Critical shift to "Continue this project as a proactive project manager / project lead, expertise level super advanced in relevant fields (wix studio, seo, prompting LLMs specifically Comet Assistant)"
+- Session 11: **NEW REQUEST:** "Track in github instructions / requests / prompts that i / you have created for you / yourself so that if a new session looks at the github document, they will know all my preferences, etc."
+
+---
+
+## SECTION 2: CRITICAL USER CORRECTIONS & CONSTRAINTS
+
+### ⚠️ CRITICAL GEOGRAPHIC ACCURACY (Session 9 - DO NOT FORGET)
+
+**CORRECTION:** "don't list houston when talking about nearshoring"
+- ❌ Houston is US-based, NOT nearshore
+- ✅ ONLY valid nearshore locations: Guadalajara (GDL) and Mexico City (Mexico)
+- Applied to: Contact page title, Locations page title/meta
+- Status: CORRECTED AND VERIFIED ✅
+
+**IMPACT:** Any future content about nearshore capabilities must ONLY reference Guadalajara and Mexico City. No exceptions.
+
+### ABSOLUTE TECHNICAL CONSTRAINTS (NEVER VIOLATE)
+
+1. **Parent Page Assignment Method:**
+   - ❌ NEVER use drag-and-drop (User: "you can't drag and drop. use other method always")
+   - ✅ ALWAYS use SEO Basics → Parent Page dropdown ONLY
+   - Verified in: Every page optimization since Session 1
+
+2. **Field Saving Behavior:**
+   - ❌ There is NO "Save" button in Wix Studio fields
+   - ✅ MUST click OUTSIDE field after filling to trigger auto-save
+   - ✅ Green checkmark appears = saved successfully
+   - User correction (Session 4): "you might have to click off of the fields you fill in to save, if there is no save button"
+
+3. **URL Integrity:**
+   - ❌ NEVER change existing URLs (breaks backlinks and SEO equity)
+   - ✅ Only update non-URL fields (title, meta, parent)
+
+4. **GitHub File Management:**
+   - ❌ NEVER create new GitHub files (User: "did you intentionally create a new github log/doc/file instead of updating the one you created?")
+   - ✅ ALWAYS update EXISTING log file only
+   - ✅ Commit with specific action + measurable outcome
+
+### REQUIRED BEHAVIORAL COMMITMENTS
+
+**Session 2 - Emphasis (with repetition - CRITICAL):**
+- "do not quit task before it is 100% completed" ← stated TWICE for emphasis
+- Interpretation: Never assume task is done without systematic verification
+
+**Session 1-2 - Role Definition:**
+- "you are the expert and project lead. dont ask me to micromanage every decision"
+- Interpretation: Make decisions autonomously. Execute. Don't ask permission for expert-level choices.
+- Exception: Explicit permission actions only (downloads, financial data, major scope changes)
+
+**Session 5 - Scope Expansion:**
+- "while you have each page open, update all other fields and placeholders, even if they are already filled in, ensure they are search optimized"
+- Interpretation: Treat every page edit as opportunity to optimize ALL fields, not just the flagged ones
+
+**Session 7 - Precision Requirement:**
+- "be extremely precise with where you click to avoid mistake clicks please!"
+- Interpretation: Slow down, verify coordinates, use center of elements, not edges
+
+**Session 8 - Verification Process:**
+- "check to make sure it saved properly before moving onto the next"
+- Interpretation: Always wait for green checkmark before proceeding to next page
+
+**Session 10 - Workflow Process:**
+- "open new tabs instead of leaving websites we are actively working with"
+- Interpretation: Use tabs_create() to open research tabs, never navigate away from active work
+
+---
+
+## SECTION 3: WORKFLOW & METHODOLOGY
+
+### Phase-Based Execution Model
+
+This is NOT a repeatable task template. It is a **SINGLE PROJECT** with **8 sequential phases**, each with specific decision criteria:
+
+**Completed Phases:**
+- Phase 1: ✅ Core page optimization (11 pages: Title, Meta, Parent Page)
+- Phase 2: ✅ Hierarchy tree documentation with visual sitemap
+- Phase 3: ✅ Complete site inventory (38+ pages)
+- Phase 4: ✅ Live site integration + gap analysis + redundancy identification
+
+**In Progress:**
+- Phase 5: 🟡 Redundancy resolution (5 accounting/finance pages, IT staffing duplicate, testimonials)
+
+**Pending:**
+- Phase 6: SEO landing pages optimization (~23 pages)
+- Phase 7: CMS collections setup (7 collections)
+- Phase 8: Deployment readiness verification
+
+### Wix Studio Workflow (MANDATORY)
+
+**Every Page Edit Follows This Sequence:**
+1. Open Wix Studio
+2. Navigate to Site Pages panel
+3. Locate target page
+4. Click three-dot menu (···)
+5. Select "SEO Basics"
+6. Update fields in this order:
+   - Parent Page (via dropdown, NEVER drag-drop)
+   - Title Tag
+   - Meta Description
+7. Click OUTSIDE each field immediately after typing
+8. Wait for green checkmark confirmation
+9. Document changes in GitHub
+10. Commit with specific action + measurable outcome
+
+### Solutions vs Services Strategy
+
+- `/solutions` = Main Services Hub (parent for nested service pages)
+- `/services` = Standalone overview page using "Services & Solutions"
+- Individual service pages = Use "Services" in titles for better SEO
+
+---
+
+## SECTION 4: DECISION-MAKING FRAMEWORKS
+
+### Phase 5A: Accounting/Finance Redundancy Classification
+
+**Problem:** 5 accounting/finance pages competing for same buyer intent
+
+**Decision Tree for EACH page:**
+```
+Does this page serve DIFFERENT buyer intent than /solutions/accounting-finance?
+├─ YES: Does it target DIFFERENT search terms with distinct volume?
+│  ├─ YES: KEEP ✅ (Set different Parent Page, write unique content)
+│  └─ NO: CONSOLIDATE 🔗 (Merge to FAQ/anchor in core page)
+└─ NO: REDIRECT ❌ (Consolidate or eliminate)
+```
+
+**Evaluation Criteria:**
+1. **Buyer Intent:** Does page target DIFFERENT buyer need than core page?
+2. **Keyword Profile:** Does page target DIFFERENT search terms with measurable volume difference?
+3. **Target Audience:** Is the SPECIFIC USER JOURNEY different?
+
+**Classification Outcomes:**
+- KEEP: ✅ Unique intent + unique keywords = retain with optimized parent
+- CONSOLIDATE: 🔗 Similar intent but specific angle = merge to core page as FAQ/section
+- REDIRECT: ❌ Duplicate intent = eliminate or redirect
+
+---
+
+## SECTION 5: KNOWN ERRORS & FIXES (Learning Log)
+
+### Error 1: Incomplete Verification
+- **Issue:** Assumed first 2 pages were correct, didn't check remaining pages
+- **Discovery:** Application Development Outsourcing had WRONG parent
+- **Fix:** Systematically verified ALL pages
+- **Learning:** User was right: "do not quit before 100% completed"
+
+### Error 2: Field Saving Confusion
+- **Issue:** Fields appeared filled but didn't save
+- **Root Cause:** No visible "Save" button
+- **Fix:** Click outside field → green checkmark appears
+- **Learning:** Wix Studio saves fields on blur event, not explicit button
+
+### Error 3: Houston Geographic Error (CRITICAL)
+- **Issue:** Listed Houston in nearshore locations
+- **Root Cause:** Assumed Houston was part of nearshore operations
+- **Correction:** Houston is US-based, NOT nearshore
+- **Fix:** Removed Houston references, ONLY Guadalajara & Mexico City
+- **Learning:** Always verify geographic accuracy per user guidance
+
+### Error 4: Drag-and-Drop Attempts
+- **Issue:** Tried drag-and-drop for parent page changes
+- **User Constraint:** "you can't drag and drop. use other method always"
+- **Fix:** Use SEO Basics dropdown exclusively
+- **Learning:** Dropdown method is absolute, never drag-drop
+
+### Error 5: Tab Navigation Issues
+- **Issue:** Navigated away from active tabs instead of opening new ones
+- **User Instruction:** "open new tabs instead of leaving websites we are actively working with"
+- **Fix:** Used tabs_create() for research
+- **Learning:** Maintain all active work tabs simultaneously
+
+### Error 6: GitHub File Creation
+- **Issue:** Created new GitHub file for expert prompt
+- **User Correction:** "i am not looking to update self prompt in github. im looking for you to continue this project as a proactive project manager"
+- **Fix:** Update EXISTING log file only
+- **Learning:** Always update existing documentation; never create new files
+
+---
+
+## SECTION 6: SOLUTIONS / SERVICES DISTINCTION
+
+**Why This Matters:** SEO structure and buyer intent differ between solutions and services.
+
+**Implementation:**
+- Main Hub: `/solutions` (parent page for nested service pages)
+- Overview: `/services` (standalone page using "Services & Solutions" terminology)
+- Individual Pages: Use "Services" in title tags for better SEO
+
+**Example Structure:**
+- Parent: Main Services Hub → `/solutions`
+- Child: Application Development Outsourcing → `/solutions/application-development-outsourcing`
+- Title: "Application Development Outsourcing Services | MezTal"
+
+---
+
+## SECTION 7: VERIFICATION CHECKLIST (BEFORE MARKING COMPLETE)
+
+Every phase completion must verify:
+
+- ✅ All pages systematically checked (not just sample)
+- ✅ Green checkmarks confirmed for all changes
+- ✅ Parent pages verified via dropdown (not drag-drop)
+- ✅ URLs unchanged from originals
+- ✅ No generic content (all MezTal-specific)
+- ✅ Geographic accuracy (Guadalajara/Mexico City only, NO Houston)
+- ✅ GitHub committed with specific measurable outcomes
+- ✅ Future session can reference this work without confusion
+
+---
+
+## SECTION 8: FUTURE SESSION INSTRUCTIONS
+
+**When Starting New Session:**
+1. Read this entire section first (5-10 min investment saves hours)
+2. Reference specific constraints before making changes
+3. Verify current phase status in GitHub
+4. Continue from exact resume point (documented in GitHub)
+5. Maintain same quality/methodology standards
+6. Add new learnings to this reference section
+7. Commit changes with clear measurable outcomes
+
+**Key Questions Before Any Change:**
+- Is this change grounded in user preferences documented here?
+- Am I using the correct method (dropdown, not drag-drop)?
+- Will I verify with green checkmark before moving on?
+- Are geographic references accurate (Guadalajara/Mexico City only)?
+- Is this 100% complete or stopping prematurely?
+
+---
+
+**LAST UPDATED:** 2025-11-17 (Session 11)
+**STATUS:** Comprehensive reference complete. Ready for future sessions.
+**NEXT ACTION:** Resume Phase 5A accounting/finance redundancy classification in Wix Studio.
 **==Phase 5A Execution Snapshot: 🟡 IN PROGRESS==**  
 **==Will update with completed classification matrix and rationale==**
