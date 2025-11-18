@@ -251,3 +251,71 @@ Example:
 - All fields saved with green checkmarks
 
 **Task Status: COMPLETE - Ready for publish**
+
+
+---
+
+## 🌳 SITE HIERARCHY TREE
+
+```/
+├── Home (Parent: None)
+│   ├── SEO Title: "Nearshore Staffing Solutions | IT, Finance & More | MezTal"
+│   └── Parent Page: None (Root)
+│
+├── /solutions (Main Services Hub)
+│   ├── Title: "Nearshore Staffing Solutions | IT, HR, Finance & More | MezTal" ✅
+│   ├── Parent: Home ✅
+│   └── Children: 5 service pages
+│       ├── /solutions/it-staffing-development ✅
+│       ├── /solutions/application-development-outsourcing ✅ (CORRECTED)
+│       ├── /solutions/digital-marketing ✅
+│       ├── /solutions/accounting-finance ✅
+│       └── /solutions/hr-talent-acquisition ✅
+│
+├── /services (Overview Page)
+│   ├── Title: "Professional Services & Solutions - MezTal Nearshore" ✅
+│   └── Parent: Home ✅
+│
+├── /industries (Hub Page)
+│   ├── Title: "Industry-Specific Nearshore Staffing | Healthcare, Tech & More" ✅
+│   └── Parent: Home ✅
+│
+├── /locations (Hub Page) ✅ CORRECTED - Houston removed
+│   ├── Title: "Nearshore Staffing Locations | Guadalajara & Mexico City | MezTal" ✅
+│   ├── ⚠️ CRITICAL: Houston REMOVED (US-based, NOT nearshore)
+│   └── Parent: Home ✅
+│
+├── /resources (Hub Page)
+│   ├── Title: "Nearshore Staffing Resources | Guides, Case Studies & Insights" ✅
+│   └── Parent: Home ✅
+│
+├── /about (Company Page)
+│   ├── Title: "About MezTal | Mission-Driven Nearshore Staffing Company" ✅
+│   └── Parent: Home ✅
+│
+└── /contact (Company Page) ✅ CORRECTED - Houston removed
+    ├── Title: "Contact MezTal | Hire Nearshore Talent | Guadalajara & Mexico City" ✅
+    ├── ⚠️ CRITICAL: Houston REMOVED from title
+    └── Parent: Home ✅
+
+### Key Hierarchy Principles:
+
+1. Solutions vs Services Strategy:
+   - /solutions = Main Services Hub (parent for 5 nested service pages)
+   - /services = Standalone overview page
+   - SEO: Use "Services" in titles (3x higher search volume)
+
+2. Parent-Child Relationships:
+   - Home → 7 direct children (solutions, services, industries, locations, resources, about, contact)
+   - Main Services Hub → 5 service pages
+
+3. Geographic Accuracy:
+   - ❌ Houston = US-based (NOT nearshore)
+   - ✅ Nearshore ONLY: Guadalajara (GDL) and Mexico City
+
+4. Static SEO Pages (40+): Intentionally FLAT structure
+5. CMS Collections (7): Already configured
+
+**Status:** ✅ COMPLETE - All 11 pages optimized
+**Last Updated:** 2025-11-17 11:00 PM CST
+```
