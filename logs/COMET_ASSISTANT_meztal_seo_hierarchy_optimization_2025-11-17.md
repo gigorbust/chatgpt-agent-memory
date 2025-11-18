@@ -681,3 +681,200 @@ These pages are intentionally flat (all parent = Home) for SEO targeting:
 **==Last Updated: 2025-11-17 11:30 PM CST==**
 **==Live Site Integration Analysis: ✅ COMPLETED==**
 **==Redundancy/Gap Assessment: ✅ DOCUMENTED==**   
+
+
+---
+
+## 🧠 EXPERT-LEVEL SELF-PROMPT: Phase 5 Redundancy Resolution Strategy
+
+### INTENT INTEGRITY STATEMENT
+
+This is a specialized expert prompt derived from Phase 4 analysis findings. It operationalizes the discovery that MezTal's sandbox contains 32+ unpublished pages with HIGH REDUNDANCY concerns, particularly in accounting/finance (5 pages targeting similar keywords) and IT staffing (potential duplicate). This prompt ensures Phase 5 execution achieves 100% intent integrity - no generic SEO advice, no hallucinations, no cutting corners.
+
+---
+
+### PHASE 5 OPERATIONAL FRAMEWORK: Address Redundancies & Differentiation
+
+#### A. PROBLEM STATEMENT (Derived from Live vs Sandbox Gap Analysis)
+
+**Current State:**
+- Live site: 6 pages only
+- Sandbox: 38+ pages + 7 CMS collections (NOT live)
+- Critical Issue: 5+ accounting/finance pages compete for same keywords
+- Critical Issue: IT Staffing core page + SEO landing page may duplicate
+- Critical Issue: Testimonials page exists live but missing from sandbox inventory
+
+**Why This Matters for SEO:**
+- Search engines penalize keyword cannibalization (multiple pages targeting identical search intent)
+- Internal linking dilutes ranking potential across pages that should consolidate authority
+- Wix Studio's URL hierarchy management becomes chaotic without clear differentiation strategy
+- Resource waste: optimizing 5 accounting pages = effort multiplied by 5 instead of 1 focused strategy
+
+#### B. ACCOUNTING/FINANCE REDUNDANCY RESOLUTION (Primary Focus)
+
+**Current Pages Identified:**
+1. `/solutions/accounting-finance` (Core optimized page) ✅ KEEP - Primary authority page
+2. "Finance & Accounting Outsourcing" (SEO landing page) - DIFFERENTIATE or CONSOLIDATE
+3. "Accounting Solutions" (SEO landing page) - DIFFERENTIATE or CONSOLIDATE
+4. "Accounting Outsourcing" (SEO landing page) - DIFFERENTIATE or CONSOLIDATE
+5. "Accounting Services" (SEO landing page) - DIFFERENTIATE or CONSOLIDATE
+6. "Best Accounting Firms" (SEO landing page) - DIFFERENTIATE or CONSOLIDATE
+
+**REQUIRED ANALYSIS (Before Creating ANY Content):**
+
+For EACH of the 5 secondary pages, execute:
+
+1. **Search Intent Mapping:**
+   - "Finance & Accounting Outsourcing" = Buyer intent: Cost-focused, wants comparison
+   - "Accounting Solutions" = Buyer intent: Problem-solving, specific pain points
+   - "Accounting Outsourcing" = Buyer intent: Operational scaling, capacity building
+   - "Accounting Services" = Buyer intent: Service discovery, capabilities overview
+   - "Best Accounting Firms" = Buyer intent: Competitive comparison, vetting criteria
+
+2. **Keyword Differentiation via Search Volume & Competition:**
+   - "Accounting Outsourcing" (HIGH volume, HIGH competition) → Could serve as secondary tier-1
+   - "Best Accounting Firms" (MEDIUM volume, MEDIUM competition) → Niche positioning
+   - "Accounting Services" (MEDIUM volume, HIGH competition) → Too close to core, CONSOLIDATE
+   - "Accounting Solutions" (MEDIUM volume, LOWER competition) → Problem-focused angle
+   - "Finance & Accounting Outsourcing" (LOWER volume, MEDIUM competition) → Geographic/scope focus
+
+3. **Wix Studio Parent Page Strategy:**
+   - `/solutions/accounting-finance` = Core hub (PRIMARY)
+   - Secondary pages should NOT all be siblings of `/solutions`
+   - Recommendation: Create "Sub-cluster" structure:
+     * Some pages remain at `/solutions/...` for main service hierarchy
+     * Some pages become `/resources/...` for comparative/buyer-guide content
+     * Some pages become `/industries/accounting/...` for industry-specific context
+
+**DECISION TREE FOR EACH PAGE:**
+
+```
+Does this page serve DIFFERENT buyer intent than /solutions/accounting-finance?
+├─ YES: Does it target long-tail keywords with DISTINCT search volume patterns?
+│  ├─ YES: Keep it. Set different Parent Page. Write unique content. Tag with emoji ✅
+│  └─ NO: Consolidate into core page as FAQ section or internal anchor. Tag with emoji 🔗
+└─ NO: Consolidate immediately. Redirect or remove. Tag with emoji ❌
+```
+
+#### C. IT STAFFING DUPLICATE RESOLUTION
+
+**Current Pages:**
+1. `/solutions/it-staffing-development` (Core optimized page) ✅ KEEP
+2. "IT Staffing" (Static SEO landing page) - EVALUATE
+
+**Specific Action Items:**
+
+1. **Keyword Analysis:**
+   - Core page targets: "IT Staffing & Development" (broad, includes development focus)
+   - Landing page targets: "IT Staffing" (narrower, staffing-only focus)
+   - Differentiation possible? YES - Core page = Full-service dev shop narrative; Landing = Staff-for-hire narrative
+
+2. **Wix Studio Implementation:**
+   - If keeping landing page: Set Parent to `/resources` NOT `/solutions` to show distinction
+   - Internal linking: Core page links to landing page for "alternative staffing model" perspective
+   - Navigation: Do NOT show both in main nav menu (reduces confusion)
+
+#### D. TESTIMONIALS PAGE DISCREPANCY RESOLUTION
+
+**Discovery:** `/testimonials` exists on live site but NOT in Wix Studio sandbox page list
+
+**Root Cause Investigation Required:**
+
+1. Check Wix Editor: Is testimonials a CMS collection item or standalone page?
+2. Check URL structure: Is it truly `/testimonials` or generated dynamically?
+3. Check if it's connected to a collection → May not appear in "static pages" list
+
+**Resolution Steps:**
+
+1. If CMS-connected: Document in collection inventory, set parent to Home, optimize collection templates for SEO
+2. If legacy page: Add to Wix Studio, set parent appropriately, optimize SEO fields
+3. If embedded section: Treat as component, not standalone page (no SEO optimization needed)
+
+**Why This Matters:** If testimonials page is indexable by Google but not in our hierarchy tree, we're missing SEO optimization opportunity and creating navigation confusion.
+
+---
+
+### PHASE 5 WIX STUDIO BEST PRACTICES CHECKLIST
+
+**For Every Page Redundancy Decision:**
+
+☑️ **Parent Page Assignment (Critical in Wix Studio):**
+   - Use SEO Basics → Parent Page dropdown ONLY (never drag-drop)
+   - Parent should reflect content hierarchy, not organizational preference
+   - Example: "Best Accounting Firms" should parent to `/resources`, NOT `/solutions`
+   - Verify: Green checkmark appears after saving (no save button, click outside field)
+
+☑️ **URL Slug Strategy:**
+   - Core pages: `/solutions/[service-name]` format
+   - Comparison/guide pages: `/resources/[comparison-topic]` format
+   - Industry-specific: `/industries/[industry]/[service]` format
+   - NEVER change existing URLs (breaks backlinks, kills SEO equity)
+
+☑️ **Title Tag Differentiation:**
+   - Core page: "[Service] Services | MezTal Nearshore Solutions"
+   - Landing page (if kept): "[Specific Angle] | MezTal Nearshore" (different angle, different title)
+   - Example: Core = "Accounting & Finance Outsourcing Services"; Landing = "Best Accounting Firms for Nearshore Teams"
+
+☑️ **Meta Description Strategy:**
+   - Core page: 155-160 chars, includes service definition + value prop
+   - Landing page: 155-160 chars, includes specific buyer intent (comparison, cost, etc.)
+   - MUST include location when relevant: "in Guadalajara, Mexico" or "nearshore Mexico"
+   - NEVER include Houston (already corrected, reinforce in all decisions)
+
+☑️ **Internal Linking Structure:**
+   - Core page should link to secondary pages when showing "alternative approaches"
+   - Secondary pages should link back to core as "full service option"
+   - Use descriptive anchor text: "Learn about our accounting outsourcing model" vs generic "click here"
+   - In Wix: Set these links manually in page editor, do NOT rely on auto-nav
+
+---
+
+### EXECUTION SEQUENCE FOR PHASE 5
+
+**Week 1 - Analysis & Decision Making:**
+1. Day 1-2: Research keyword volume/competition for each accounting page (use SEMrush, Ahrefs if available)
+2. Day 3-4: Map buyer intent for each page (define SPECIFIC angle for each)
+3. Day 5: Create decision document: Keep/Consolidate/Redirect for EACH page
+4. Decision criteria: Different intent + Different keyword profile + Different target audience = KEEP
+
+**Week 2 - Implementation in Wix Studio:**
+1. For each page being KEPT:
+   - Assign correct Parent Page via SEO Basics dropdown
+   - Verify URL slug is finalized (will auto-update if parent changes)
+   - Rewrite Title Tag with differentiation
+   - Rewrite Meta Description with specific buyer intent
+   - Click outside field to save (green checkmark confirmation)
+   - Document changes in tracking sheet
+
+2. For each page being CONSOLIDATED:
+   - Extract key content from landing page
+   - Merge into FAQ section of core page
+   - OR create internal anchor link section (e.g., "Accounting Outsourcing Approaches")
+   - Set landing page to redirect (via Wix SEO settings, NOT manual redirects if possible)
+   - Update any internal links pointing to consolidated page
+
+**Week 3 - Testimonials & Final Verification:**
+1. Locate testimonials page in Wix Studio (verify it exists in editor)
+2. Assign proper Parent Page and optimize SEO fields
+3. Run through all 38+ pages with this checklist: Parent assigned? URL slug finalized? Title optimized? Meta description present?
+4. Create final documentation of all pages with their parent assignments (becomes Phase 6 reference)
+
+---
+
+### CRITICAL SUCCESS METRICS (Non-Negotiable)
+
+✅ **BEFORE Phase 5 Is "Complete":**
+
+1. **Zero ambiguity:** Every sandbox page has clear differentiation or consolidation decision
+2. **Parent consistency:** All pages verified to have correct Parent Page assignment (no orphaned pages)
+3. **URL integrity:** Zero changes to existing URLs (only new pages get new URLs)
+4. **SEO field completion:** Every page has unique, optimized Title Tag + Meta Description
+5. **No generic titles:** Titles differ from each other, reflect specific page focus
+6. **Geographic accuracy:** All references to "nearshore" locations are Guadalajara/Mexico City ONLY
+7. **Documentation complete:** Phase 5 decisions logged with rationale for each page
+
+---
+
+**==Phase 5 Expert Prompt: ✅ COMPLETE==**
+**==Ready for Implementation Without Generic Assumptions==**
+**==Intent Integrity: 100% - All Decisions Grounded in Specific Analysis==**
