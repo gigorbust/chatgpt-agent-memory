@@ -216,9 +216,10 @@ Home
 │   │   └── Tax Services ✅
 │   ├── Administrative Outsourcing ✅
 │   ├── Design Outsourcing ✅
-│   ├── Digital Marketing
-│   ├── HR & Talent Acquisition
-│   └── Other service categories...
+│   ├── Digital Marketing ✅
+│   ├── HR & Talent Acquisition ✅
+	│   ├── Application Development ✅│
+└── Other service categories...
 ├── Industries
 ├── Company (Parent - contains corporate/company info pages)
 │   ├── About
