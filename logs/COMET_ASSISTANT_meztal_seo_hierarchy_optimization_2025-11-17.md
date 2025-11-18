@@ -220,7 +220,6 @@ Home
 │   ├── Team
 │   └── FAQ
 │
-└── Test/Placeholder
 ```
 
 ---
