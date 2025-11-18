@@ -113,7 +113,7 @@
 | 38 | Why Guadalajara? | Locations | /locations/why-guadalajara | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 39 | Apply Now | Home | /apply-now | ✅ Complete | URL FIXED from /blank-19; Meta updated: added GDL & Mexico City, overlapping business hours |
 | 40 | Team | Home | /team | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
-| 41 | FAQ | Home | /faq | ✅ Complete | URL FIXED from /blank-21; Meta updated: added GDL & Mexico City, overlapping business hours 
+| 41 | FAQ | Home | /faq | ✅ Complete | URL FIXED from /blank-21; Meta updated: added GDL & Mexico City, overlapping business hours  |
 | 42 | Nearshore for Senior Living | Industries | /industries/senior-living/ | ✅ Complete | Pillar page for Senior Living industry vertical |
 | 43 | Nearshore for AgeTech | Industries | /industries/agetech/ | ✅ Complete | Pillar page for AgeTech industry vertical |
 | 44 | AgeTech Software Development | Industries | /industries/agetech/software-development/ | ✅ Complete | Leaf page under AgeTech for software development services |
