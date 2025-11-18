@@ -334,6 +334,9 @@ Before claiming ANY page is "complete", I MUST:
 ✅ Verified | 🔧 Fixed | Meta updated: added GDL & Mexico City, overlapping business hours |
 | 4 | Locations | Company | /company/locations | ✅ | ✅ | ✅ Verified | ✅ Complete | Already had GDL & Mexico City in meta |
 | 5 | Company | Home | /company | ✅ | ✅ | ✅ Verified | 🔧 Fixed | Title & meta updated: added GDL & Mexico City, overlapping business hours |
+| 6 | Resources | Company | /company/resources | ✅ | ✅ | ✅ Verified | ✅ Complete | Already had GDL & Mexico City in meta |
+| 7 | About | Company | /company/about | ✅ | ✅ | ✅ Verified | ✅ Complete | Already had GDL & Mexico in meta |
+| 8 | Contact | Company | /company/contact | ✅ | ✅ | ✅ Verified | 🔧 Fixed | Meta updated: added GDL & Mexico City, overlapping business hours |
 
 ⚠️ **NEXT IMMEDIATE ACTION:**
 Systematically open EVERY page in Wix and verify ALL SEO fields.
