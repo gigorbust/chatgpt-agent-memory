@@ -1400,5 +1400,104 @@ Every phase completion must verify:
 **LAST UPDATED:** 2025-11-17 (Session 11)
 **STATUS:** Comprehensive reference complete. Ready for future sessions.
 **NEXT ACTION:** Resume Phase 5A accounting/finance redundancy classification in Wix Studio.
+
+---
+
+# 🎨 SECTION 9: WIX STUDIO LEFT SIDEBAR ICON GUIDE
+
+**PURPOSE:** Quick reference for identifying left sidebar icons in Wix Studio. Each icon can be identified by HOVERING over it to reveal tooltip.
+
+**CRITICAL REMINDER:** Use HOVER to identify icons before clicking - this prevents clicking the wrong panels!
+
+---
+
+## Sidebar Icons (Top to Bottom)
+
+### Icon 1: Layers (Hamburger stack icon - top left)
+- **What it does:** Shows layer hierarchy of the current page (elements/components)
+- **When to use:** Editing individual elements on a page
+- **NOT needed for:** Site-wide page management
+- **How to identify:** Hover shows "Layers"
+
+### Icon 2: Pages/Site Pages (Second icon from top)
+- **✅ THIS IS THE ONE FOR PHASE 5A!**
+- **What it does:** Shows complete list of all pages in the site
+- **When to use:** Accessing pages for SEO editing (title, meta, parent)
+- **Pages visible:** All 38+ pages including accounting/finance pages
+- **How to identify:** Hover shows "Pages" or "Site Pages"
+- **Critical for:** Phase 5A redundancy classification - access each accounting page here!
+
+### Icon 3: Assets
+- **What it does:** Media/image library
+- **When to use:** Uploading or managing images
+- **NOT needed for:** Page structure or SEO
+- **How to identify:** Hover shows "Assets"
+
+### Icon 4: Design (or similar - paintbrush/design icon)
+- **What it does:** Design/styling tools
+- **When to use:** Modifying design elements
+- **NOT needed for:** SEO or page hierarchy
+- **How to identify:** Hover shows design-related label
+
+### Icon 5: Global Sections
+- **What it does:** Reusable global sections (headers, footers, etc.)
+- **When to use:** Editing sections used across multiple pages
+- **NOT needed for:** Individual page SEO
+- **How to identify:** Hover shows "Global Sections"
+
+### Icon 6: Add/Elements (with + symbol)
+- **What it does:** Add new elements to page (buttons, text, images, etc.)
+- **When to use:** Adding content to a page
+- **NOT needed for:** Page structure or SEO
+- **How to identify:** Hover shows "Add Elements" or similar
+
+### Icon 7: My Business / Apps (mobile/business icon)
+- **What it does:** Business features, chat, apps
+- **When to use:** Business management tasks
+- **NOT needed for:** SEO or page editing
+- **How to identify:** Hover shows "My Business" or app-related label
+
+---
+
+## CORRECT WORKFLOW FOR WIX STUDIO (Phase 5A)
+
+**For accessing pages to edit SEO (Title, Meta, Parent):**
+
+1. ✅ Click Icon #2 (Pages/Site Pages) → Opens full page list
+2. Find page name in list (e.g., "Accounting & Finance")
+3. Right-click OR click three-dot menu (···) next to page name
+4. Select "SEO Basics"
+5. Edit fields (Parent page dropdown, Title, Meta)
+6. Click outside field to save (green checkmark appears)
+7. Move to next page
+
+**NEVER:**
+- ❌ Click Icon #5 (Global Sections) - that's for shared components, not pages
+- ❌ Click Icon #6 (Add Elements) - that's for adding content, not page structure
+- ❌ Click Icon #1 (Layers) - that's for element hierarchy within current page
+
+---
+
+## SESSION 11 DISCOVERY
+
+**Problem Encountered:** Was clicking wrong icons repeatedly (Icons #1, #5, #6) instead of Icon #2 (Pages)
+
+**Root Cause:** Did not hover over icons to read tooltips first
+
+**Solution:** Always hover over sidebar icons to identify them before clicking
+
+**Result:** Found Pages panel → identified 5 accounting/finance pages for Phase 5A classification
+
+**Pages Found (Phase 5A):**
+1. Accounting & Finance
+2. Accounting Solutions
+3. Accounting Outsourcing
+4. Finance & Accounting Outsourcing
+5. Payroll Outsourcing
+
+---
+
+**LAST UPDATED:** 2025-11-18 (Session 12)
+**STATUS:** Sidebar icon guide complete. Ready for Phase 5A execution.
 **==Phase 5A Execution Snapshot: 🟡 IN PROGRESS==**  
 **==Will update with completed classification matrix and rationale==**
