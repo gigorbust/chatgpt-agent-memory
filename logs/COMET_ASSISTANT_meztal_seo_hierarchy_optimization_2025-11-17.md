@@ -367,7 +367,7 @@ Before claiming ANY page is "complete", I MUST:
 | 35 | Remote Teams Mexico | Home | /remote-teams-mexico | ✅ | ✅ | ✅ Verified | ✅ Complete | Already had GDL & Mexico City + overlapping business hours in meta |
 | 36 | Employer of Record Mexico | Home | /blank-17 | ✅ | ✅ | ✅ Verified | ✅ Complete | Already had GDL & Mexico City in meta |
 | 37 | New Page | Home | /blank-18 | ⚠️ | ⚠️ | ⚠️ Placeholder | ⚠️ Incomplete | Test/placeholder page with no real content or meta |
-| 39 | Apply Now | Home | /blank-19 | ✅ | ✅ | ✅ Verified | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
+/blank-19 | Home | /blank-19 | ✅ | ✅ | ✅ Verified | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
 | 40 | Team | Home | /team | ✅ | ✅ | ✅ Verified | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
 | 41 | FAQ | Home | /blank-21 | ✅ | ✅ | ✅ Verified | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
 38 pages complete Why Guadalajara? | Locations | /locations/why-guadalajara | ✅ | ✅ | ✅ Verified | ✅ Complete | Already had GDL & Mexico City + overlapping business hours in meta |verified and documented.
