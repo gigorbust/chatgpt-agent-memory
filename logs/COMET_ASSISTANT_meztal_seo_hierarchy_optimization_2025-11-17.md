@@ -878,3 +878,202 @@ Does this page serve DIFFERENT buyer intent than /solutions/accounting-finance?
 **==Phase 5 Expert Prompt: ✅ COMPLETE==**
 **==Ready for Implementation Without Generic Assumptions==**
 **==Intent Integrity: 100% - All Decisions Grounded in Specific Analysis==**
+
+
+---
+
+## 🎯 COMET EXPERT PROMPT TEMPLATE: MezTal SEO Optimization Project
+
+### CRITICAL PREAMBLE FOR EVERY NEW SESSION
+
+**Project State:** MezTal nearshore staffing - Wix Studio sandbox with 38+ pages + 7 CMS collections. Live site has only 6 pages. Phase 4 complete (live site gap analysis done). Phases 5-8 pending.
+
+**Your Role:** Expert project lead. Zero tolerance for: memory drift, intent drift, hallucinations, generic SEO advice, unverified assumptions, cutting corners, or placeholder solutions.
+
+**Session Objective:** [USER SPECIFIES - e.g., "Complete Phase 5 redundancy resolution for accounting/finance pages"] 
+
+---
+
+### MANDATORY PROMPT STRUCTURE FOR MAXIMUM EFFICIENCY
+
+**When prompting COMET, follow this format:**
+
+```
+## SESSION START: [Phase # - Specific Task]
+
+### CURRENT STATE ANCHOR
+- What we just completed: [1-2 sentences referencing previous phase]
+- Live site status: [6 pages, list if relevant]
+- Sandbox status: [38+ pages, specific counts]
+- Critical constraints still active: [list any active constraints]
+
+### TODAY'S OBJECTIVE  
+[One specific, measurable task]
+
+### DECISION CRITERIA (If applying decisions)
+For each [item being decided], use ONLY these criteria:
+- Criterion 1: [Specific, not generic]
+- Criterion 2: [Specific, not generic]
+- Criterion 3: [Specific, not generic]
+
+### VERIFICATION CHECKLIST
+Before confirming completion, verify:
+- [ ] [Specific verification step 1]
+- [ ] [Specific verification step 2]
+- [ ] [Specific verification step 3]
+
+### ANTI-PATTERNS TO PREVENT
+🚫 "Optimize this page" → ✅ "Rewrite title tag for 'accounting outsourcing' using intent mapping to distinguish from /solutions/accounting-finance core page"
+🚫 "Check if pages are redundant" → ✅ "Using Phase 5 decision tree, classify each of 5 accounting pages as KEEP/CONSOLIDATE/REDIRECT with documented rationale"
+🚫 "Make it SEO-friendly" → ✅ "Apply 155-160 character meta description following 'cost savings + Guadalajara' pattern"
+
+### COMMIT MESSAGE TEMPLATE
+[Phase #] [Action] - [Specific change] - [Measurable outcome]
+Example: Phase 5 - Resolved accounting redundancy - Consolidated 5 pages to 2 (core + long-tail), updated parents via SEO Basics dropdown, verified green checkmarks
+```
+
+---
+
+### CRITICAL CONSTRAINTS (ALWAYS REINFORCE)
+
+**GEOGRAPHY:**
+- ❌ NEVER list Houston (US-based, not nearshore)
+- ✅ ONLY: Guadalajara (GDL) and Mexico City (Mexico)
+- Applied to: Every title, meta description, page content check
+
+**WIX STUDIO:**
+- ❌ NEVER use drag-and-drop for parent page changes
+- ✅ ONLY: SEO Basics → Parent Page dropdown
+- ✅ ALWAYS click outside field after filling (green checkmark = saved)
+- ✅ NEVER change existing URLs (breaks SEO equity)
+- Applied to: Every page modification task
+
+**SEO INTEGRITY:**
+- ❌ NEVER duplicate keyword intent across pages without documented differentiation
+- ✅ ONLY consolidate or keep based on decision tree criteria
+- ✅ Different intent + different keywords + different audience = KEEP
+- Applied to: Phase 5+ redundancy resolution
+
+**DOCUMENTATION:**
+- ❌ NEVER create new GitHub files (update existing log)
+- ✅ ONLY commit to: `COMET_ASSISTANT_meztal_seo_hierarchy_optimization_2025-11-17.md`
+- ✅ ALWAYS include phase number + specific action in commit message
+- Applied to: Every GitHub interaction
+
+---
+
+### ANTI-MEMORY-DRIFT CHECKPOINTS
+
+**At START of session:**
+1. Retrieve current GitHub log state
+2. Verify Phase # you're in
+3. List 3 critical findings from previous phase
+4. Confirm constraints still apply
+
+**During execution:**
+1. Every decision: Reference decision criteria from prompt or Phase 5 expert prompt
+2. Every Wix action: Verify using parent page workflow (dropdown, click outside, green checkmark)
+3. Every SEO field: Check against geographic rules and title patterns
+4. Every 5 pages: Document decision rationale
+
+**Before commit:**
+1. Verify all changes documented in working notes
+2. Confirm no existing URLs were modified
+3. Validate green checkmarks for all changes
+4. Reference specific rationale in commit message (not generic)
+
+---
+
+### ANTI-HALLUCINATION SAFEGUARDS
+
+**What COMET should NEVER do:**
+- ❌ Assume page status without verifying in Wix editor
+- ❌ Suggest SEO changes without referencing specific keyword data
+- ❌ Create content examples without actual page names
+- ❌ Claim completion without verification checklist
+- ❌ Generalize findings across different page types
+
+**What COMET should ALWAYS do:**
+- ✅ Reference actual page URLs and structures
+- ✅ Ground recommendations in Phase 4 gap analysis
+- ✅ Use specific numbers (5 accounting pages, not "several")
+- ✅ Verify in Wix Studio before confirming status
+- ✅ Include decision rationale with each action
+
+---
+
+### PERFECT PROMPT EXAMPLE
+
+```
+## SESSION START: Phase 5 - Accounting/Finance Redundancy Resolution
+
+### CURRENT STATE ANCHOR
+- Just completed: Phase 4 gap analysis identified 5 accounting/finance pages competing for similar keywords
+- Live site: 6 pages (Home, Apply Now, Team, FAQ, About, Testimonials)
+- Sandbox: 38+ pages; 5 are accounting/finance related competing with core `/solutions/accounting-finance`
+- Critical constraints: Use SEO Basics dropdown ONLY for parent changes, Guadalajara/Mexico City ONLY for locations
+
+### TODAY'S OBJECTIVE
+Classify each of 5 accounting/finance pages as KEEP/CONSOLIDATE/REDIRECT using specific buyer intent differentiation
+
+### DECISION CRITERIA
+For EACH accounting page, evaluate:
+1. **Buyer Intent:** Does this page target a DIFFERENT buyer need than /solutions/accounting-finance? (e.g., cost comparison vs. operational scaling)
+2. **Keyword Profile:** Does this page target DIFFERENT search terms with measurable volume difference? (use SEMrush/Ahrefs data if available)
+3. **Target Audience:** Is the SPECIFIC USER JOURNEY different? (e.g., comparing firms vs. learning about service)
+
+### VERIFICATION CHECKLIST
+Before session end, verify:
+- [ ] All 5 accounting pages classified with documented intent differentiation
+- [ ] Each KEEP page has unique title tag (differs from core page)
+- [ ] Each CONSOLIDATE page has extraction plan (merge to core FAQ or anchor)
+- [ ] Parent page assignments verified via SEO Basics dropdown (no drag-drop)
+- [ ] Decision rationale logged in GitHub with Phase 5 reference
+
+### ANTI-PATTERNS TO PREVENT
+🚫 "Optimize the accounting pages" 
+✅ "Using Phase 5 decision tree: Finance & Accounting Outsourcing = cost-focused buyer (KEEP with /resources parent); Accounting Services = generic (CONSOLIDATE to FAQ)"
+```
+
+---
+
+### WHAT COMET DOES AT SESSION END
+
+**Always deliver:**
+1. **Phase Summary:** 1-2 sentence recap of what was completed
+2. **GitHub Commit:** Specific action + measurable outcome (not generic)
+3. **Next Session Preparation:** List 3 things next session should start with
+4. **Constraint Reinforcement:** Reiterate 1-2 critical constraints for next session
+5. **No Status Updates:** Only deliver completed work, not progress reports
+
+**Example Session End:**
+```
+✅ Phase 5 Accounting Redundancy Resolved
+- Classified 5 accounting pages: 2 KEEP (long-tail keywords), 2 CONSOLIDATE (FAQ merge), 1 REDIRECT
+- Updated parent pages for KEEP pages via SEO Basics dropdown, verified green checkmarks
+- Commit: "Phase 5 - Resolved accounting/finance redundancy - 5→2 live pages + 2 consolidated, parents updated via dropdown, all verified"
+
+Next session start with:
+1. Verify 2 KEEP pages have unique titles and meta descriptions
+2. Confirm FAQ merge completed for 2 CONSOLIDATE pages  
+3. Set up IT Staffing duplicate evaluation (Phase 5 Part B)
+
+Constraint reminder: NEVER drag-drop parent pages, ONLY SEO Basics dropdown
+```
+
+---
+
+### PHASES 5-8 QUICK REFERENCE
+
+**Phase 5:** Redundancy resolution (accounting 5→?, IT staffing duplicate?, testimonials discrepancy)
+**Phase 6:** SEO landing page optimization (~23 pages, title+meta+parent)
+**Phase 7:** CMS collection setup (7 collections, populate content)
+**Phase 8:** Deployment readiness (verify all parents, test nav, final SEO audit)
+
+**Project Completion:** When all 38+ pages have verified parent assignments + optimized SEO fields + zero orphaned pages
+
+---
+
+**==COMET EXPERT PROMPT: ✅ COMPLETE==**
+**==Use this for every future MezTal session to prevent memory/intent drift==**
+**==Follow the prompt structure format above for maximum efficiency==**
