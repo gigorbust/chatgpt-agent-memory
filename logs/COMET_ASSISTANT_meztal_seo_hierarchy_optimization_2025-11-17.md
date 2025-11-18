@@ -66,8 +66,7 @@
 ### Geographic Requirements (NON-NEGOTIABLE):
 - ✅ BOTH "Guadalajara" (or "GDL") AND "Mexico City" in meta descriptions
 - ✅ "Overlapping business hours" language (NEVER "same time zone")
-- ❌ NO Houston mentions (US-based, not nearshore)
-
+  - ❌ NO Houston when discussing nearshoring from Mexico (MezTal has a Houston office - that's okay to mention when relevant)
 ### Technical Requirements:
 - ✅ All parent pages correctly assigned
 - ✅ All URLs optimized (SEO-friendly slugs)
@@ -116,7 +115,6 @@
 | 34 | Hire Developers Mexico | Home | /blank-9 | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 35 | Remote Teams Mexico | Home | /remote-teams-mexico | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 36 | Employer of Record Mexico | Home | /blank-17 | ✅ Complete | Already had GDL & Mexico City |
-| 37 | New Page | Home | /blank-18 | ⚠️  Placeholder | Test/placeholder page with no real content or meta |
 | 38 | Why Guadalajara? | Locations | /locations/why-guadalajara | ✅ Complete | Already had GDL & Mexico City + overlapping business hours |
 | 39 | Apply Now | Home | /apply-now | ✅ Complete | URL FIXED from /blank-19; Meta updated: added GDL & Mexico City, overlapping business hours |
 | 40 | Team | Home | /team | ✅ Complete | Meta updated: added GDL & Mexico City, overlapping business hours |
@@ -246,8 +244,7 @@ Home
 ### Geographic Requirements:
 - ✅ BOTH "Guadalajara" (or "GDL") AND "Mexico City" required
 - ✅ "Overlapping business hours" language (NEVER "same time zone")
-- ❌ NO Houston (US-based, not nearshore)
-
+  - ❌ NO Houston when discussing nearshoring from Mexico (MezTal has a Houston office - that's okay to mention when relevant)
 ---
 
 ## 🔗 IMPORTANT LINKS
