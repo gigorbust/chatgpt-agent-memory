@@ -1501,3 +1501,112 @@ Every phase completion must verify:
 **STATUS:** Sidebar icon guide complete. Ready for Phase 5A execution.
 **==Phase 5A Execution Snapshot: 🟡 IN PROGRESS==**  
 **==Will update with completed classification matrix and rationale==**
+
+
+---
+
+# 📊 SECTION 10: PHASE 5A DETAILED EXECUTION LOG
+
+**Session 12 - 2025-11-18: Phase 5A Accounting/Finance Redundancy Analysis**
+
+## Current Status: 5 Pages Analyzed ✅
+
+All 5 accounting/finance pages have been systematically accessed and documented in Wix Studio Site Pages panel (Icon #2).
+
+---
+
+## PAGE-BY-PAGE ANALYSIS
+
+### Page 1: Accounting & Finance
+- **Current Parent:** Main Services Hub ✅
+- **URL:** `/solutions/accounting-finance`
+- **URL Structure:** Main hub page
+- **Title:** "Accounting & Finance Services | Nearshore Fi..."
+- **Meta Description:** "Explore MezTal's Accounting & Finance solutions..."
+- **Status:** CORE/PRIMARY PAGE for accounting services
+- **Decision:** KEEP ✅ (This is the main entry point for accounting/finance)
+
+### Page 2: Accounting Solutions
+- **Current Parent:** Main Services Hub
+- **URL:** `/solutions/accounting-solutions`
+- **URL Structure:** Parallel to Page 1
+- **Title:** "Accounting Solutions | MezTal (Sandbox)"
+- **Meta Description:** "Search engines may show a different description"
+- **Status:** HIGH REDUNDANCY with Page 1 - nearly identical intent and structure
+- **Decision:** CONSOLIDATE 🔗 (Too similar to Page 1; merge into FAQ/section of Page 1)
+
+### Page 3: Accounting Outsourcing
+- **Current Parent:** Accounting Solutions (Page 2)
+- **URL:** `/accounting-outsourcing`
+- **URL Structure:** Different path (NOT /solutions/...)
+- **Title:** "Accounting Outsourcing Services - MezTal Mexco..."
+- **Meta Description:** "Outsource your accounting operations to MezTal..."
+- **Target Buyer Intent:** Outsourcing-specific (different from general accounting services)
+- **Status:** DISTINCT FROM PAGES 1-2 - Different buyer journey
+- **Decision:** KEEP ✅ BUT CLARIFY PARENT (Currently child of Page 2, should be clarified to Main Services Hub as sibling)
+
+### Page 4: Finance & Accounting Outsourcing
+- **Current Parent:** Services
+- **URL:** `/services/finance-accounting-outsourcing`
+- **URL Structure:** Under `/services` path (NOT `/solutions`)
+- **Title:** "Finance & Accounting Outsourcing Services -..."
+- **Meta Description:** "Expert finance and accounting outsourcing services from MezTal..."
+- **Target Buyer Intent:** Finance + Accounting combo for outsourcing
+- **Status:** CRITICAL INCONSISTENCY - Uses different parent path
+- **Decision:** KEEP ✅ BUT RESTRUCTURE (Move to `/solutions` path for consistency, make it clear this targets finance+accounting segment)
+
+### Page 5: Payroll Outsourcing
+- **Current Parent:** Accounting Solutions (Page 2)
+- **URL:** `/accounting-outsourcing/blank-25`
+- **URL Structure:** MALFORMED - contains "blank-25" suffix
+- **Title:** "Payroll Outsourcing | MezTal (Sandbox)"
+- **Meta Description:** "Search engines may show a different description"
+- **Status:** MALFORMED URL, needs correction
+- **Decision:** KEEP ✅ BUT FIX URL (Should be `/solutions/payroll-outsourcing`, remove "blank-25")
+
+---
+
+## KEY FINDINGS
+
+**Redundancy Issue:**
+- Pages 1 & 2 have significant overlap in buyer intent (both are general accounting/finance entry points)
+- Both target same parent services hub
+- Page 2 appears to be duplicate of Page 1
+
+**Structural Issues:**
+- Page 3: Good distinct intent but confusing parent hierarchy
+- Page 4: Critical inconsistency - uses Services path instead of Solutions
+- Page 5: URL slug contains "blank-25" (likely placeholder that wasn't cleaned up)
+
+**Hierarchy Problems:**
+- Pages 3 & 5 shouldn't be children of Page 2 (they're more like siblings)
+- Page 4 should use same path structure as Pages 1-3
+- Current structure creates confusion for SEO crawlers and users
+
+---
+
+## RECOMMENDED CLASSIFICATIONS
+
+**Phase 5A Final Recommendations:**
+
+| Page | Action | New Parent | Notes |
+|------|--------|-----------|-------|
+| 1. Accounting & Finance | KEEP ✅ | Main Services Hub | Core offering page |
+| 2. Accounting Solutions | CONSOLIDATE 🔗 | DELETE/MERGE | Duplicate of Page 1 |
+| 3. Accounting Outsourcing | KEEP ✅ | Main Services Hub | Distinct outsourcing focus |
+| 4. Finance & Accounting Outsourcing | KEEP ✅ | Main Services Hub | Restructure URL path |
+| 5. Payroll Outsourcing | KEEP ✅ | Main Services Hub | Fix malformed URL |
+
+**Next Steps (Pending User Approval):**
+1. Delete/Consolidate Page 2 (Accounting Solutions) into Page 1 FAQ
+2. Update Page 3 parent from "Accounting Solutions" → "Main Services Hub"
+3. Update Page 4 URL from `/services/finance-accounting-outsourcing` → `/solutions/finance-accounting-outsourcing`
+4. Fix Page 5 URL from `/accounting-outsourcing/blank-25` → `/solutions/payroll-outsourcing`
+5. Update all parent page assignments via SEO Basics dropdown
+6. Verify green checkmarks for all changes
+
+---
+
+**STATUS:** Phase 5A Analysis COMPLETE - Awaiting user guidance on consolidation/restructuring decisions
+**LAST UPDATED:** 2025-11-18 Session 12
+**REMAINING WORK:** Execute parent page updates and URL fixes based on recommendations
