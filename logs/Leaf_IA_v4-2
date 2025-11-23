@@ -1,0 +1,107 @@
+MezTal.com Sitemap – Hub → Cluster → Leaf (v4.2)
+
+Home
+├── (Sections, tiles linking to key hubs: Hire Talent, Industries, Why Mexico, Resources, Blog, Contact)
+
+Hire Talent (Services Hub)
+├── Accounting & Finance Staffing
+│   ├── Hire Staff Accountant in Mexico        (Role leaf, CMS: Roles)
+│   ├── Hire Senior Accountant in Mexico       (Role leaf)
+│   ├── Hire Controller in Mexico              (Role leaf)
+│   └── ... (other finance roles as needed)
+├── IT & Data Staffing
+│   ├── Hire Data Engineer in Mexico           (Role leaf)
+│   ├── Hire Business Analyst in Mexico        (Role leaf)
+│   ├── Hire Software Developer in Mexico      (Role leaf)
+│   └── ... (other IT/Data roles)
+├── Marketing & Creative Staffing
+│   ├── Hire Marketing Assistant in Mexico     (Role leaf)
+│   ├── Hire PPC Specialist in Mexico          (Role leaf)
+│   ├── Hire UI Designer in Mexico             (Role leaf)
+│   └── ... (other marketing/creative roles)
+├── HR & Talent / Employer of Record
+│   ├── Hire Recruiter in Mexico               (Role leaf)
+│   ├── Hire HR Generalist in Mexico           (Role leaf)
+│   ├── Employer of Record Mexico              (Service/EOR leaf)
+│   └── ... (HR/Talent roles)
+├── Operations & Admin Support
+│   ├── Hire Executive Assistant in Mexico     (Role leaf)
+│   ├── Hire Operations Coordinator in Mexico  (Role leaf)
+│   └── ... (other ops/admin roles)
+├── Customer Support & Call Center
+│   ├── Call Center Outsourcing                (Service leaf)
+│   ├── Hire Customer Support Rep in Mexico    (Role leaf)
+│   └── ... (other support roles)
+└── Sales & RevOps
+    ├── Hire Sales Development Rep in Mexico   (Role leaf)
+    ├── Hire RevOps Analyst in Mexico          (Role leaf)
+    └── ... (other sales/RevOps roles)
+
+Industries (Hub)
+├── Senior Living & Aging Services (Pillar)
+│   ├── Senior Living Accounting Services      (Industry leaf)
+│   ├── RPO for Senior Living                  (Industry leaf)
+│   └── (future subservices as needed)
+├── AgeTech & Elder Care Tech (Pillar)
+│   ├── AgeTech Software Development           (Industry leaf)
+│   ├── Nearshore for Elder Care Technology    (Industry leaf)
+│   └── (future subservices as needed)
+├── Healthcare & Health Services (Pillar)
+│   └── (future subservices as needed)
+├── B2B SaaS & Digital (Pillar)
+│   └── (future subservices as needed)
+└── Property & Real Estate (Pillar)
+    └── (future subservices as needed)
+
+Why Mexico (Hub)
+├── Why Mexico (overview page)
+├── Nearshore Staffing Mexico                  (Geo/SEO leaf)
+├── Remote Workers Mexico                      (Geo/SEO leaf)
+├── Mexico Outsourcing                         (Geo/SEO leaf)
+├── Remote Teams Mexico                        (Geo/SEO leaf)
+├── Employer of Record Mexico                  (Geo/EOR leaf)
+└── Cost of Living: Guadalajara vs Mexico City (Comparison leaf)
+
+Resources (Hub)
+├── Case Studies (CMS list)
+│   ├── Case Study: Senior Living Operator     (leaf)
+│   ├── Case Study: Tech / SaaS Company        (leaf)
+│   └── ... (others)
+├── Buyer Guides (CMS list)
+│   ├── Guide: How to Hire Developers in Mexico           (leaf)
+│   ├── Guide: How to Manage a Nearshore Team            (leaf)
+│   └── ... (others)
+├── Comparison Pages (CMS list)
+│   ├── Offshoring vs Nearshoring                         (leaf)
+│   ├── Best IT Staffing Companies                        (leaf)
+│   ├── Best Recruitment Agencies                         (leaf)
+│   └── ... (others)
+├── Pricing                                               (FAQ/Pricing leaf)
+└── FAQ                                                   (FAQ leaf)
+
+Blog (Hub)
+├── Category: Senior Living & Aging
+│   ├── Post: [Title 1]                                  (leaf)
+│   └── ...
+├── Category: Events & Conferences
+│   ├── Post: [Title 2]                                  (leaf)
+│   └── ...
+├── Category: MezTal Team & Culture
+├── Category: Nearshore & Talent Strategy
+└── Category: Leadership & Insights
+
+Company (Hub)
+├── About MezTal                                         (static leaf)
+├── Team                                                 (Team CMS list)
+│   └── (optional profile leaves if desired)
+├── Locations                                            (Location CMS list)
+│   ├── Guadalajara                                      (leaf or section)
+│   └── Mexico City                                      (leaf or section)
+└── LinkedIn Hub                                         (static leaf with embed)
+
+Contact                                                   (leaf)
+
+Careers (Hub)
+├── Careers Overview & Culture                           (leaf)
+├── Workable Job List (embedded)                         (dynamic)
+└── Candidate FAQ                                        (leaf or Resource)
