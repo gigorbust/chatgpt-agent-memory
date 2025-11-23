@@ -1,0 +1,83 @@
+Fellou
+
+MezTal.com Website Audit and Strategic Development Outline (Sandbox Environment)I. Project Scope and Initial Assessment
+Initial Request: Assess and improve the new MezTal.com site (Wix Studio editor sandbox) using an SEO guide, create missing pillar pages, and align with a visual sitemap.
+Key Initial Task: Identify and address blank/placeholder pages.
+II. Current Site Structure and SEO Gaps (Audit Findings)
+Current Main Pages:
+Home
+Solutions
+Industries
+Locations
+Resources
+About
+Contact
+Service/Division Pages (5):
+IT Staffing & Development
+Digital Marketing
+Accounting & Finance
+HR & Talent Acquisition
+Blank Pages (5)
+Current Dynamic Collections (CMS):
+Case Studies
+Industries
+Locations
+Resources
+Roles
+Services
+Solutions
+Missing Pillar Pages (Identified from SEO Sheet):
+Numerous /services/ pages (e.g., accounting-outsourcing, payroll-services).
+Numerous /comparison/ pages (e.g., best-accounting-firms).
+These missing pages were not yet created as navigable main pages.
+III. Strategic Direction and Renaming (SEO & Project Lead Integration)
+Pillar Page Prioritization: Build core pillar pages first.
+Homepage
+Main Services Hub
+IT Staffing Pillar
+Accounting Solutions Pillar
+Call Center Outsourcing
+Finance & Accounting Outsourcing
+Renaming/Reconceptualizing Pages:
+"IT Staffing & Development" was changed to "IT Staffing" (with URL /services/it-staffing).
+"Accounting & Finance" was split into "Accounting Solutions" and "Finance & Accounting Outsourcing."
+"IT Staffing" was subsequently renamed to "Nearshore IT Staffing" to align with SEO strategy.
+Strategic Consolidation: Five separate low-value "hire [role]" pages were consolidated into one consolidated, authoritative IT Hub page ("Nearshore IT Staffing & Data Engineering").
+IV. Site Architecture Recommendation (SEO Expert Assessment)
+Service-Related Pages: Recommended to use the /services/ prefix (e.g., /services/accounting-solutions).
+Audience-Specific Pages (Solutions): Recommended to use the /solutions/ prefix (e.g., /solutions/for-agencies).
+Industry Pages: Recommended to use the /industries/ prefix.
+V. Actionable Steps and Autonomous Work Completed
+Blank Pages: To be deleted or repurposed.
+Pillar Pages: Individual pillar pages for high-priority SEO pages were to be created and linked in the navigation.
+Structural Improvements Completed (Autonomous Work):
+CMS Collections were populated (Solutions, Services, Resources).
+Dynamic Page Infrastructure for Services, Solutions, Industries, and Resources was REBUILT and functional.
+Autonomous work fixed broken dataset connections and recreated corrupted/missing dynamic pages.
+VI. Comprehensive Site Analysis (November 15, 2025 - Weaknesses and Gaps)
+GitHub Status: Repository returned a 404 error (Access needed).
+Content/CMS Gaps (Low Real Content): Only 8 total real content items across Solutions, Services, Resources, and Locations collections.
+Empty/Incomplete Collections: Case Studies, Industries (minimal), People, and Roles collections were empty or incomplete.
+Weaknesses Identified:
+Content Gaps (Case Studies, Roles).
+Visual Design (default templates being used).
+Data Display Issues (Solutions list showing 4 instead of 3 items).
+Missing Pages for Parity (vs. Live Site):
+Apply Now
+Team
+FAQ
+Missing Collections for Parity (vs. Live Site):
+Testimonials
+Team Members
+FAQ
+VII. Final Strategic Recommendations and Status
+Critical Issues Identified:
+URL Structure Inconsistency
+Missing Parent Page Infrastructure
+Incomplete Market Segmentation
+Final Pages Created (Reported):
+Senior Living Accounting Services
+Clinical Staffing Services
+Nearshore Talent Sourcing Services
+Deferred Pages: Marketing/Creative pages were deferred pending vertical strategy development.
+Final Status: All pages from the last set of instructions are reported as created, optimized, and documented in the GitHub log, with all Wix pages matching the log.
