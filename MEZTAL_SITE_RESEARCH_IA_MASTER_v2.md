@@ -1,9 +1,3 @@
-Next is pretty straightforward, and we’re at an inflection point where things can finally start getting *built* instead of just analyzed.
-
-Also quick note (per the system): some of your previously uploaded files in this chat have expired on my side. If you ever want me to literally re‑parse any of those spreadsheets/PDFs again (not just what you pasted), you’ll need to re‑upload them. That doesn’t block us right now because the GitHub‑ready log we just wrote is already self‑contained.
-
-Here’s what I recommend next, in order:
-
 ---
 
 ### Step 1 – Lock the spec in GitHub (no more drift)
@@ -58,9 +52,3 @@ Once you confirm “IA v1 is locked” (or tell me any final tweaks), the next m
 That becomes the **single prompt** you paste into Relume’s project setup to auto‑generate the sitemap and wireframes.
 
 ---
-
-If you’re good with the IA as written in `MEZTAL_SITE_RESEARCH_IA_MASTER_v2.md`, just say something like:
-
-> “IA v1 locked – generate the Relume prompt.”
-
-And I’ll move straight to crafting the 5,000‑character prompt for you.
