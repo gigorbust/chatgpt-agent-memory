@@ -1,0 +1,31 @@
+Topic Cluster,Page Type,Proposed URL,Primary Keyword,Secondary Keywords,Content Type,Funnel Stage,Persona,Triangulated Priority Score
+Nearshore IT Staffing,Pillar,/nearshore-it-staffing,nearshore IT staffing,nearshore it services,Landing Page,MOFU,"CTO, CIO",8.8
+Nearshore IT Staffing,Spoke,/nearshore-it-staffing/nearshoring-software-development,nearshore software development,nearshore software development services,Landing Page,MOFU,"CTO, VP of Engineering",10
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-nearshoring-developers,hire nearshore developers,hire a developer,Landing Page,BOFU,"CTO, HR Director",9.1
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-development-team,nearshore development team,hire dedicated development team,Landing Page,MOFU,"CTO, HR Director",8.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-python-developer-nearshoring,hire Python developer nearshore,hire senior python developer nearshore,Landing Page,BOFU,"VP of Engineering, CTO",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-java-developer-nearshoring,hire Java developer nearshore,hire senior java developer nearshore,Landing Page,BOFU,"CTO, Enterprise Architect",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-react-developer-nearshoring,hire React developer nearshore,,Landing Page,BOFU,"CTO, VP of Engineering",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-node-js-developer-nearshoring,hire Node.js developer nearshore,,Landing Page,BOFU,"CTO, Back-End Lead",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-cloud-engineer,nearshore cloud engineer,hire cloud architect nearshore,Landing Page,BOFU,"Head of Infrastructure, CTO",9.7
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-devops-engineer,nearshore DevOps engineer,nearshore for devops,Landing Page,BOFU,"CTO, Head of Infrastructure",9.3
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-data-scientist,nearshore data scientist,hire machine learning engineer nearshore,Landing Page,BOFU,"Chief Data Officer, CTO",9.5
+Nearshore IT Staffing,Spoke,/comparison/nearshoring-vs-offshoring,nearshoring vs offshoring,"nearshore vs onshore vs offshore, offshore development",Comparison Page,MOFU,"CFO, COO, CEO",9.5
+Nearshore IT Staffing,Spoke,/resources/how-to-hire-developers-in-mexico,how to hire developers in mexico,cost to hire a developer in mexico,Guide,TOFU,"CTO, Founder, HR Director",9
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-qa-services,nearshore qa services,"nearshore QA tester, nearshore software testing services",Landing Page,MOFU,"QA Lead, Head of Eng.",9.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-staff-augmentation,nearshore staff augmentation,it staff augmentation services,Landing Page,MOFU,"IT Director, CTO",9.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-angular-developer-nearshoring,hire Angular developer nearshore,,Landing Page,BOFU,"CTO, Front-End Lead",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-net-developer,nearshore .NET developer,nearshore C# developer,Landing Page,BOFU,"CTO, Software Architect",9.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-mobile-app-developers,nearshore mobile app developers,"hire mobile developer, hire iOS developer nearshore, hire Android developer nearshore",Landing Page,BOFU,"CTO, Head of Mobile",9.2
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-data-analyst,nearshore data analyst,,Landing Page,MOFU,"Chief Data Officer, COO",9.3
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/hire-data-engineer-nearshoring,hire data engineer nearshore,hire a cloud data engineer,Landing Page,BOFU,"Head of Data, CTO",9.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-it-support,nearshore it support,"IT help desk services nearshore, outsourced technical support",Landing Page,MOFU,"IT Director, CIO",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-project-manager,nearshore project manager,"hire senior it project manager, nearshore technical project manager",Landing Page,BOFU,"CTO, Head of Product",8.9
+Nearshore IT Staffing,Spoke,/resources/how-to-manage-a-nearshore-team,how to manage a nearshore team,how to manage nearshore developers,Guide / Whitepaper,TOFU,"CTO, HR Director",8.8
+Nearshore IT Staffing,Leaf,/resources/nearshore-agile-development,nearshore agile development,nearshore agile development team,Blog Post,MOFU,CTO,7.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-rpa-developer,nearshore RPA developer,,Landing Page,BOFU,"COO, Head of Automation",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-salesforce-developer,nearshore Salesforce developer,outsourced salesforce administrator,Landing Page,BOFU,"CIO, Head of Sales Ops",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-qa-automation-engineer,nearshore qa automation engineer,,Landing Page,BOFU,"QA Lead, Head of Engineering",9
+Nearshore IT Staffing,Spoke,/comparison/staff-augmentation-vs-managed-services,staff augmentation vs managed services,nearshore vs managed services,Guide / Comparison,MOFU,"CTO, CIO, IT Director",8.9
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-cybersecurity-analyst,nearshore cybersecurity analyst,,Landing Page,BOFU,"CISO, Head of Security",9.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/nearshoring-database-administrator,nearshore database administrator,hire SQL developer nearshore,Landing Page,BOFU,Head of Infrastructure,9.3

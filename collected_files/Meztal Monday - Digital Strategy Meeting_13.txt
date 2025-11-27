@@ -1,0 +1,188 @@
+Sarah Thomas  00:01
+And people, I bet, I bet there's a report and workable of where they found our job in order to apply, because the apply link sometimes gets posted on LinkedIn. Sometimes it's in like indeed, or in Mexico, it's called OCC. But we could pull an external applicant, finding us, like in through Oracle, is that helpful, if it's applicants or because that's not a client?
+
+George Gayl  00:31
+Yeah, yeah, that's helpful. Sure. I think everything's helpful. And I don't know if what the most efficient way to do it is this, for you to pull all the reports. Or if you felt comfortable just giving me, like analytics access make, maybe when you select what kind of access you could do, admin or viewer, just maybe if you even if you do viewer, then I'll be able to just go in and pull the reports and save you time, I think. But totally whatever works best. But yeah, if you use any software for like, if you pay for any of premium services, like, you know, for your website, or your CMS or, yeah, basically, the more you are able to kind of provide, I can get a better picture of the whole thing. Like, really, the more analytics, the better. I think, to create, help create this, yeah,
+
+Sarah Thomas  01:31
+well, a big part of it is, since we have not had a digital strategy, we have not we have, like, basic and rudimentary analytics, because we haven't added any analytics features to anything, that's also advice we need of like, Hey, this is like, G Suite, wherever you call it. Now you don't have anything workspace, yes, yeah, workspace, you don't have anything added onto or the website you didn't add this layer on it. If you do, then I get a lot more information that kind of thing like we need to know to do. Because, sure, do it,
+
+George Gayl  02:05
+yeah. Well, once they know what you have, then I can figure out and see what you don't have and where the gaps are that we can, like, Google Webmaster Tools, Google Analytics, like those are just a couple of examples off the top of my head that I think you said you don't, you're not sure if you have or you don't have, so, so that's easy for that to set up. I just need access to WordPress and and, you know, I can make, make an admin account for Google Analytics and stuff. So, yeah, we can kind of extrapolate that to anything that I think might help, but that would be a good start the Google Suite stuff.
+
+Sarah Thomas  02:46
+What's the best option for Okay, so all software systems, either analytics, access, review or analytics, reports from any software system we have. What about what? What I'm what? What do you see our steps are to reach people who we don't know? Yeah, because that's the only method we do now. So is it like, Okay, I would see or maybe you need to think about it. So I'm not trying to put you on the spot, but I want but I want to maximize your like keywords on your website, so that when people search for staffing in senior living, they find you or I like. What information would you need to know about either our industry or our target clients or our current clients? What would you need to know so you know how to make that search impactful? Like, how can I, is that the method? Or you just, do you? Do we know nothing about this? So like, do you think random people outside of our do we start with our current industry, and so that people who are in our current industries can find us in a digital way, because they do not right now, they only see our LinkedIn. They don't search our web, website. No one finds our website because they search for staffing.
+
+George Gayl  04:08
+No one finds it doesn't mean they're not searching.
+
+Sarah Thomas  04:10
+So, yeah, they don't find that. So by
+
+George Gayl  04:14
+having the analytics, we'll be able to see if the if someone like found you, even if it's like page 10 of Google, which was very rare, but that that person like to see how they found you and what they looked at. What could is one example of, like, a small thing we could do to like, okay, maybe we should create, like, a blog post about this long tail keyword, and then maybe okay with little so
+
+Sarah Thomas  04:39
+I can tell you, for instance, you know what's one thing we should Well, I can tell you, for instance, that there are paid Industry Association outlets, media outlets that. I have featured me as a speaker, and I have done interviews, and I have plugged mezhdule or used mezcal, or said the name or talked about it, or I'm on stage doing it, and then there's a recap, thanks, or there's an interview, and we talk about why that's important. None of that content has been used, except for us reposting on LinkedIn, but they have analytics of, like, you reach this 10,000 people, and we never, like, drive them back to our website. And so I don't know how it has that LinkedIn has, well, yes, but the only thing is LinkedIn, yeah, yeah. I mean, so I don't know how to drive people to our services. Yeah. And do we start by driving people to our services who are already in our current industry network. Because I know what they search for. I know they come to me to figure out how to search for. Okay, it'd be great to have that list. So I so what is that list of like, what the words are that people search for?
+
+George Gayl  06:00
+Yeah, all right. So pretend, pretend you're your entire business is only senior level between No no, like the interaction you have with your potential customer. Pretend it's all through a screen. So the only way that they're going to be able to interact with you is not like, just pretend. This is just an exercise. Yeah, they're not gonna be able to be able to call you and ask any questions. You can't talk to them. So they're like, imagine you're them. How do you if you're looking for your service, you go to Google, right? Probably. So a content strategy is going to be like, the one of the top things we're going to do, and that means identifying the really important topics, not necessarily keywords, even just like topics like that you are an authority on and that are somehow relevant to the type of customer that you want to reach. And then, once we analyze these topics, we can figure out, okay, like this is big enough to be its own page, or this is this would be great, because it could be like applied to a blog post, so we can create, like the structure and like an optimized structure of the site based on that keyword strategy, and make sure there's a page for every primary and secondary keyword, maybe three keywords per page, Max, and Then for anything else that's more long tail, that's more like news or industry trends, or anything you want to basically, you want to keep putting out content that makes you look like an authority in this space, which you're doing already. We can repurpose so many of your linkedins to put them into like a content schedule for for blog posts and stuff. So it's going to be, I don't think it's going to be a lot of heavy lifting, really, with all stuff that's been already aggregated in that dashboard, in your Excel sheet and stuff. So the content strategy isn't going to be number one. Then once you have something to to show the potential customer, then you can think about how to distribute it out. But before you have something to distribute out, and it needs to be something that, it needs to be either a page or a blog post on your site, there isn't a whole lot to do, because right now you would, you know, you could promote your LinkedIn posts on X or on Facebook, but and when you in, that's something you could do, but you could also by repurposing the content on LinkedIn, put it on your blog post, and then you can share it on x and Facebook, and, you know, wherever, and then drive you back to your site. And then they can go and find you on LinkedIn. Or, you know, there's just so many like, different ways to kind of read, okay,
+
+Sarah Thomas  08:46
+so let's content strategy is one thing. Let's talk about social media strategy at some point. Let's just make that so I don't, we don't have, man, we don't have any other social media other than LinkedIn. LinkedIn LinkedIn is the most professional social media, and I don't want people posting and tagging photos with a bunch of alcohol and the happy hours and all of that stuff. So I've stayed away from Instagram because it's risky. There's a there's a lot of risk, because care is a shit show for HR, and it makes us look back. And so now, is it worth manning a Facebook page or manning a link or an x page that are handled that just repurposes LinkedIn stuff and Manning comments I would like to know and not write the second but like I'd like to know the risk of, can you just shut comments off? Can you because we've lost some control over LinkedIn, they changed their policies in the last couple of months that you can actually comment even if we shut comments off. And so that person blasted us. We had. LinkedIn expert come in. We had we had Leo come in. We could not take that post off. That's so dumb. I
+
+George Gayl  10:06
+remember you telling me about, yeah, that's crazy, and
+
+Sarah Thomas  10:09
+that's not worth it to me. Yeah. I mean, on LinkedIn, it's fine, because most people aren't trolling LinkedIn to say some bashful comment, but I don't want to be on the more social channels where those personal attacks happen? Yeah, so let's think about it, because maybe x is fairly safer. Because what are you gonna do argue on x that we ran an event or our content? Like, that's
+
+George Gayl  10:34
+the thing. It's like, it depends on the content you're putting out. If you're not putting out photos of a holiday party. And it's like more, like expert, like recommendations, like top five things to consider, if looking for a staffing company outside of the US, yeah, you know. And then the comments are not going to be crazy stuff that you don't want there. He want
+
+Sarah Thomas  10:56
+people to engage. I think the one that happened was a flip. Think
+
+George Gayl  10:59
+so too. I'd love to learn more about your meeting with the LinkedIn person and what they were able to do. We don't have to get into that now.
+
+Sarah Thomas  11:07
+Yeah, I mean all we did post job, and they've last us for having work, overworking Mexican employees and violating labor law. Yeah, that's weird, and tagging us, saying that we were an unethical business practice and we were underpaying and like, she was a, she was just like a HR consultant in Mexico, wanting to drive business. No, she didn't have a big reach or anything, and she wasn't related to anyone here, competitor. No, she wants to, like, show herself as an expert. HR, consultant, looking that we, I see we're an attackable organization, because she knows. HR, yeah, but she was wrong in everything that she said it was false, yeah, false. Not even opinion, but she was making claims that were false, yeah.
+
+George Gayl  11:58
+What this should post any other stuff at other companies, like,
+
+Sarah Thomas  12:02
+I didn't, we didn't want to engage with her at all, because he said, Don't engage because it's gonna, like, increase the viewability and so, yeah,
+
+George Gayl  12:11
+yeah, weird. Well, anyway, I think, I think the type of content, like, you can control the type of kind of content you put out, you can absolutely moderated. The kind of comments are coming in, I'm pretty sure with like the Admin Tools for Facebook, for meta, like the meta workspace, or workplace, or whatever you you can have just kind of all like your page, your Instagram, your anything meta is can be really fine tuned. I think you can turn off comments altogether if you want, you can. I would recommend not doing that until I would just do like moderated on Instagram. Well, whatever, yeah, whatever you want, I
+
+Sarah Thomas  12:50
+would consider x, and I'd consider Facebook on the pages side, because I think that the younger generation doesn't use Facebook, but our clients do, and so I think it would be, don't use it as much. I think they're all over Tiktok, and they're all over WhatsApp, and they're all over Instagram, and I don't want it to become their social channel for bashing this,
+
+George Gayl  13:11
+which, yeah, I'm not sure how that would work. Like, because, like, people just scroll through photos. They don't like, meet at a page, and like, you know, like, no, but like,
+
+Sarah Thomas  13:24
+if they're reposting things to their story, making a comment, or if they're posting their own photos and tagging, which will happen, they're gonna be out at three in the morning with digits understood, which is I Got a picture of. And like, Go care. No
+
+George Gayl  13:43
+Yeah, that's probably, probably,
+
+Sarah Thomas  13:46
+it's, it's not where our clients are gonna find us. Yeah, it's not where the employees that I want
+
+George Gayl  13:52
+you might be able to turn off comments or so I wouldn't possibly, yeah, um, looking but, yeah, that's interesting. Yeah, thank you. You can definitely do like no tagging in photos, but I don't know about mentions.
+
+Sarah Thomas  14:12
+Mentions, it's truly not my ideal target. Anyway, I understand that's cool. Okay, so what else?
+
+George Gayl  14:27
+What else any, if you have any automations set up currently of any type, that would be cool, if you use any automation software like Zapier or make or anything, any, any social media dashboards that you're comfortable with sharing that would be great, just so I could go in and not if you have that social media dashboards, like meta dashboard as an account.
+
+Sarah Thomas  15:00
+Yeah, so is that what you're talking about? You, you
+
+George Gayl  15:01
+don't have, you have a Facebook page. Really could have sworn aside on there. Okay, then, yeah, that makes it easier for you to start for me. Yeah, there's if you, if you want to give me access to LinkedIn, that that's it would be, that would be great, but whatever.
+
+Sarah Thomas  15:22
+No, we're maximizing LinkedIn, and we're crushing it, but I'm sure we, as we expand, I want it, they're very strategic
+
+George Gayl  15:31
+and so good. Yeah, it'll have to be, for sure.
+
+Sarah Thomas  15:35
+But what else do you need? Do you need if we were to target using a digital approach with our current industries. What can I help you with? You started rattling a few things. Like, is it its associations, its conferences we go to every year? Is it associations they're involved with? Is it licensing that they have? Is it networks that they're in? Like, what do you need to know about our
+
+George Gayl  16:01
+Okay? Well, for for creating content for yourself as a content strategy, or for a content for outreach to where your customers are, because those are kind of two different things, and we should do both. Both should be done. But the types of organizations that that mess tell is a part of the kinds of licenses that mess tell has all of that stuff would be great for, like creating your content strategy for outreach, yes, for me, for outreach to potential customers and clients. Yes, where they like, if you have the more information you have of where, what they're doing online, what kind of pages they follow, what what kind of industry leaders are there that you're indirectly or directly competing with? A list of your competitors would be really good too, just to see what they're doing, where there are potential gaps that they're missing.
+
+Sarah Thomas  16:58
+Yeah, because I will say there's about two, two that came in this last, like, six to nine months, and they are direct competitors with the same type of model. They are attacking senior living as if they know senior living, and they don't. They came from other industries. They still are targeting other industries. They did all these other industries. And they're trying to, like, customize, to look like they, know, Senior Living, but we are the Senior Living experts, and we need to be, like, owning that space. And this is the first time we've had any competitor. But they are crushing us because they have bigger ad whatever, and they have bigger like, positioning, positioning, because their fault, for instance, actually paychecks started a PEO in senior living, and that competes with what we do in senior living, and they have huge campaigns of everything, so it can't beat them, but we have longer time in greater credibility. So I need help to like, well, that's
+
+George Gayl  17:57
+perfect. That's a great example they're in. They're spending big advertising money. So, you know, they're they're being very strategic. We can just see what they're doing and save a lot of, you know, basically be lows and build, build lows next to Home Depot, and figure out what what they like, realize after studying the market and what kind of keywords they're going after, what their content routers looks like, and figure out where they're going. So, but that's a perfect example of the kind of info that would be useful.
+
+Sarah Thomas  18:28
+So Naomi, did I afford you? The one that rich gave to me and said, Hey, these guys just pitched to me for like that. They basically do what you do. And then I sent it to Vince. But did I copy you to I forward it because we should add it to the list while we're creating this. And it's basically like, it does. It does look like they're competitors, but the differentiator that we have is that we know live and breathe this industry, and they're like, we call them tourists. People come in and think that there's a big market there, and then they leave this market because it's tough, and you need resilience, and you need relationships, and you need to care. They don't care. So they come in, they hire a marketing person for a little bit, and then they pull out and they go back into some big industry. And I kind of want to exploit that, because we're not going anywhere. We've been here 25 years, and don't worry, your salesperson will switch to a different company, and you won't have anyone here. Like, eventually, it's
+
+George Gayl  19:30
+great messaging right there. Like, that could be a blog post,
+
+Sarah Thomas  19:34
+yeah? Well, it's kind of rude, but no. Well, you
+
+George Gayl  19:37
+can massage them, yeah? The niceness of it. But you know, if you have any collateral from competitors or even from partners or anything, that's basically anything that
+
+Sarah Thomas  19:58
+they have paid clients. Times like PepsiCo Julia,
+
+George Gayl  20:03
+that's great life. We'll see. You know that's good now we know what kind of customers are looking for these services. We can see what kind of content is being targeted at those customers that can help us create content that that either that we need to be there and have content as well, or figure out where there's like a missing gap, where that we can address that they didn't think of or didn't get to yet. But I'm looking forward to to doing some some analysis and strategy around it,
+
+Sarah Thomas  20:44
+yeah, and like, how are they? Another thing that is, I would say, in the last year, but like, I don't know. It's probably because of my presence online, of what I do. And Vince is getting it a bit too, and Luis is starting to get it more. But mine is every day, like, let us take over your payroll. Oh, we have an HR specialist for you. Outsource your recruiting, take your we are recruiting specialists, add to your team. And like, I don't want that. Like, we get flooded, and it's with people who often have outsourced teams or offshore teams in India, in China, in the Philippines. It's cheap labor, but it's also like, we do this for you now, and some of their messaging is the same as our messaging. Like, let us take this burden off of you. Let us help you with this. But they are annoying as F like they every day bug me, and I don't want that strategy for who we reach, because we become noisy, Charles, last like time you took a vacation, I saw his out of office. His out of office said, and no, I don't need an engineer from your outsourcing company as his out of office, because he's bombarded so much. And I was like, Dude, that's our sale. Selling message like, and you put it as a joke, because you get annoyed by people coming at you, but it kind of made a point to me, of like, if he's so annoyed by it, then that he's putting his out of office as a joke and perpetuating that joke. Thanks. But doesn't help as a partner of missile, however, I don't want to be that annoyance. So where can we make sure we reach them without being like that? I don't want ad cam. I don't want email campaigns that look flash flooding,
+
+George Gayl  22:23
+yeah, yeah. I mean, this is all. We're not even talking about paid anything. This is just inbound marketing, okay, so you put out content and you try to get people to come to you before you start doing outbound marketing. That's a totally different thing. You need a whole, you know, totally different budget. This is just like a content strategy to so that you have content to send out, whether you want to do it through an email, yes, but that's the frequency, and your messaging is completely under your control through MailChimp.
+
+Sarah Thomas  22:55
+We talked about this after you left, like I went to Ziegler finance. I went to the Ziegler language every all these LPs and investors in the fund are all senior living operators, and all these age tech startups, every single one of the people who were attended there, every single company is a target of ours, and we have the list of the target of people who were there and we didn't. We've been super busy since I got back, like we didn't do a recap of me on a panel that usually people pay to get to attend, and I didn't have to pay. I was an expert on labor management, on labor resources and on staff. These are things that people are searching for, and that could be a content that we could do. Yeah, we normally do a recap on LinkedIn, but, like, should be a blog on our website, I would think to say, like, we just did this, but also that we are the expert. And here's a summary of what just happened. Here's the other companies that we're representing there. And yeah, but I we need help on what to do with that, other than just put it on LinkedIn. Yeah.
+
+George Gayl  23:58
+I mean, you can repurpose it make edited like videos of highlights that you could put on YouTube, which will rank well on Google, and you optimize it for the people that we're trying to reach by analyzing what kind of keywords they're using and what's relevant. For you to be the expert in that, I
+
+Sarah Thomas  24:20
+think we probably need help, because it's important about me just managing LinkedIn, and she's grabbing everything she can for content from things. I'm off going One to One to One to One to One. But can you use that to then create a blog? Or can you help to, oh, 100%
+
+George Gayl  24:34
+that's going to be the best thing to do to. I mean, you, you'll already have a pipeline of content that you just, you know, put out once every few days, or blog posts every couple of days, or something, or once a week. Whatever you want to do. What was I gonna say? I. Yeah, any any content you have from your from your like presentations, whether it's video or audio or photo with an article or anything, I think if it's not already in that list, it probably is, but maybe mostly doing your hard drive or something. Maybe you have some,
+
+Sarah Thomas  25:20
+we mostly do it, but not perfectly, not all the time. Like, basically, she's excellent of taking my picture and, like, advertisement for the upcoming thing and saying, I'm going to be there come but I don't always give a great summary of what happened while we were there so that she does post event content.
+
+George Gayl  25:41
+Yeah, and like, what you Yeah, as you like, if you have a presentation on a certain topic, it's gonna be a good opportunity to have some content around that particular topic. If you haven't already covered it, or if you have, then you can maybe spin it to something a little bit different. But it would be great to know really one second before I forget, because I almost didn't. It would be great to know the types of like, like you're saying. You don't want to just do like a shotgun blast to anyone who's looking for staffing, right? You want to do the opposite, and be really strategic and laser focused. So if the more information you give about like, the really like specific niche niches, or niches of of the type of clients you have, the type of clients you're going you're trying to get, the more kind of like specific and, you know, like, unique and not general, the better, because I think then we'll be able to, like, create some content for, you know, ideally, we can create personas for, like, different types of companies, or different types of roles, like, if you're trying to go for the HR people, we can have a content strategy for targeting HR in a specific industry, in a specific area that that maybe is looking for something that you offer that your competitors don't, and then create content around that to try to try to get them, and then once you have that content that you can also share on other platforms, but initially it'll be like figuring out how like your target audience is trying to find you, how they have found you, and how you'd like them to find you. And then from that, we'll be able to to kind of create the different arms of the strategy, different problems of it. I yeah, I'm guessing, like your current client list, is that public, did you share it on your site, like logos on your site,
+
+Sarah Thomas  27:58
+that would be not allowed to share a bunch of them our MSA states. We're
+
+George Gayl  28:02
+not allowed to. So understood. Oh, you can share with me.
+
+Sarah Thomas  28:05
+Oh, no, I can. I would just publicly put them. You can't put them on our website. That'd
+
+George Gayl  28:09
+be good to know. So you can see what other, what
+
+Sarah Thomas  28:13
+other, but we can get the current client list. So
+
+George Gayl  28:19
+positions that they hire you for. I think that's going to be actually really helpful. Is the type of specific positions that you offer and the type of specific positions that
+
+Sarah Thomas  28:32
+and that's on that page that we extended, and some of the clients are even on their influencer. We're allowed to have public but they have but the the categories and the titles are all on that good, yeah?
+
+George Gayl  28:44
+Delia will, will want to create a page for each position to offer, because it's just like the staffing industry is very, very competitive. So you're going to want to optimize one like, one page per position, and that can be systemized, sure, yeah. But if you want to, like, rank high for a low competition, where it's gonna have to be, like, really,
+
+Sarah Thomas  29:08
+maybe, unless we do blogs about why this type of role is great to work so that that is featured. I don't want a page for all 50 different I don't 50 page website.
+
+George Gayl  29:17
+Why not? You don't have to have it in the main navigation. You could just have it in the site map. It'll be accessible by anyone searching for you in Google, but it won't necessarily be something that is in the like navigation when someone's already on your site, but to get them on your site, you can always just create, like a subdomain, or just pages that are only accessible through like a footer link.
+
+Sarah Thomas  29:44
+I need to learn about that.
+
+George Gayl  29:47
+Yeah. As long as there's internal linking, Google will be able to access it and crawl it. You don't have to have it prominent in order to rank on Google and on other search engines. Yeah. And I'm so happy to be helping with this, because I it's been a while since I had an SEO like social media client other than myself. So,
+
+
+Transcribed by https://otter.ai

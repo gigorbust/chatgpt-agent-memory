@@ -1,0 +1,9 @@
+Location,Primary_Keywords,Secondary_Keywords,Market_Opportunity,Content_Priority,Target_Page,Notes
+Mexico (General),"nearshore mexico, mexico outsourcing, mexico developers","software development mexico, tech talent mexico",HIGH,HIGH,/why-mexico,Country-level positioning
+Guadalajara,"guadalajara developers, guadalajara tech, staffing guadalajara","guadalajara software development, tech companies guadalajara",HIGH,HIGH,/locations/guadalajara,Primary hub - Silicon Valley of Mexico
+Mexico City,"mexico city developers, cdmx tech, software developers mexico city","mexico city outsourcing, tech talent cdmx",HIGH,HIGH,/locations/mexico-city,Largest market opportunity
+Monterrey,"monterrey developers, monterrey tech, hire engineers monterrey","software development monterrey, tech companies monterrey",MEDIUM,MEDIUM,/locations/monterrey,Industrial + tech hybrid market
+Tijuana,"tijuana developers, border nearshoring, tijuana tech","software development tijuana, nearshore tijuana",MEDIUM,LOW,/locations/tijuana,Border advantage positioning
+Leon,"leon developers, leon tech, guanajuato tech","software development leon, tech companies leon",LOW,LOW,Future consideration,Emerging market
+Puebla,"puebla developers, puebla tech, staffing puebla","software development puebla, tech companies puebla",LOW,LOW,Future consideration,Cost advantage market
+Queretaro,"queretaro developers, queretaro tech, bajio tech","software development queretaro, aerospace software",MEDIUM,LOW,Future consideration,Aerospace and automotive focus

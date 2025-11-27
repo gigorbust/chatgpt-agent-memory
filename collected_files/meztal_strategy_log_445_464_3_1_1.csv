@@ -1,0 +1,21 @@
+Category,Detail,Status,Notes
+Reminder,Each row = 1 prompt → 1 strategy → 1 output type,✅ Row Anatomy,No combo rows
+Check,"Verify that every input keyword has at least one associated funnel, persona, or intent tag",✅ Input Mapping,No orphaned entries
+Reminder,Only log fallback content routing if explicitly discussed by user,✅ Explicit Fallback,No assumed UX paths
+Clarification,Use tab-level scoping for grouping insights by content type,✅ Sheet Sectioning,One tab = one strategy domain
+Instruction,Link back to original tab/source in Notes if row came from source doc,✅ Source Backlink,For traceability
+Reminder,Every AI suggestion must either be verified or tagged as 'unverified',✅ Verification Rule,No blind trust
+Metadata,"Each row may also include tooling context in Notes (e.g. GPT version, plugin used)",✅ Tool Context,For reproducibility
+Clarification,Rows triggered by screenshots or diagrams must link visual,✅ Visual Link,Add to 'Wireframes' tab
+Content,"Clarify if entry is meant for main site, blog, landing page, or glossary",✅ Content Destination,No content floating
+Instruction,"For FAQs, flag whether it's pre-sales, technical, or onboarding",✅ FAQ Tagging,Improves structure
+Reminder,Use consistent language for job roles across all rows,✅ Job Title Normalization,Founder ≠ CEO ≠ Operator
+Instruction,Add AI hallucination warnings when user asked for non-AI interpretation,✅ Hallucination Blocker,Protect against misattribution
+Check,Highlight contradictions between persona × funnel × keyword triads,✅ Conflict Detection,Tag for QA
+Clarification,"If row appears redundant, log and tag it with 'Duplication - Review'",✅ Redundancy Filter,Do not auto-remove
+Reminder,No rows should link to deprecated URLs unless tagged as legacy,✅ URL Hygiene,Prevents misrouting
+Instruction,Every system-level behavior should be documented in Notes only,✅ System Sidecar,Avoid overloading strategy columns
+Sync,Each glossary term must map to at least one piece of content,✅ Glossary → Content Link,Improve semantic cohesion
+Audit,"Once every 100 rows, review for tag integrity and duplication",✅ QA Loop,Keep structure intact
+Clarification,No funnel tags should be reused across multiple unrelated personas,✅ Funnel Separation,Avoid user confusion
+Reminder,Always prioritize rows based on downstream user impact,✅ Impact Ranking,Not just frequency

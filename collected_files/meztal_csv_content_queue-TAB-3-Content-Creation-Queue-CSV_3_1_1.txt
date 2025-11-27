@@ -1,0 +1,15 @@
+Content_Title,Target_Keywords,Content_Type,Priority,Estimated_Volume,Page_URL,Status,Notes
+Ultimate Guide to Nearshoring,"nearshore, what is nearshoring, nearshoring benefits",Guide,HIGH,2020,/resources/nearshoring-guide,PLANNED,Combine top educational keywords
+Nearshore vs Offshore Development,"nearshore vs offshore, nearshoring vs offshoring",Comparison,HIGH,910,/comparison/nearshore-vs-offshore,PLANNED,Easy win - low difficulty
+How to Hire Nearshore Developers,"hire nearshore developers, nearshore developers",How-To,HIGH,260,/hire/developers,PLANNED,Commercial intent content
+Nearshore Software Development Services,"nearshore software development, nearshore development",Service,HIGH,1780,/services/software-development,PLANNED,High-volume service page
+EOR Services in Mexico,"employer of record mexico, eor mexico, peo",Service,HIGH,55300,/services/eor-mexico,UPDATE,Massive opportunity - optimize existing
+IT Staff Augmentation Guide,"it staff augmentation mexico, staff augmentation",Service,HIGH,TBD,/services/it-staff-augmentation,UPDATE,Optimize existing page
+Guadalajara Tech Ecosystem,"staffing solutions guadalajara, guadalajara tech",Location,MEDIUM,TBD,/locations/guadalajara,UPDATE,Local market focus
+Healthcare Nearshore Staffing,"nearshore healthcare staffing, healthcare outsourcing",Industry,MEDIUM,TBD,/industries/healthcare,UPDATE,Vertical specialization
+Talent Acquisition in Mexico,"talent acquisition, mexico recruitment",Resource,MEDIUM,14800,/resources/talent-acquisition,NEW,High-volume educational content
+Nearshore IT Services Guide,"nearshore it, it outsourcing mexico",Service,HIGH,590,/services/it-services,NEW,IT-focused service page
+PEO Services Complete Guide,"peo, professional employer organization",Resource,VERY HIGH,40500,/resources/peo-guide,NEW,Highest volume opportunity
+What is EOR (Employer of Record),"eor, employer of record definition",Educational,HIGH,14800,/resources/what-is-eor,NEW,High-volume educational
+Mexico Tech Talent Overview,"mexico developers, tech talent mexico",Location,MEDIUM,TBD,/locations/mexico,NEW,Country-level positioning
+Nearshore Cost Calculator,"nearshore cost calculator, development cost estimator",Tool,MEDIUM,TBD,/tools/cost-calculator,NEW,Interactive content opportunity

@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MezTal Master SEO Strategy Spreadsheet</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            line-height: 1.4;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: 300;
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 0;
+            background: white;
+            border-radius: 10px 10px 0 0;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .tab {
+            padding: 15px 25px;
+            cursor: pointer;
+            background: #f8f9fa;
+            border: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            color: #495057;
+        }
+        .tab.active {
+            background: #667eea;
+            color: white;
+        }
+        .tab:hover {
+            background: #e9ecef;
+        }
+        .tab.active:hover {
+            background: #5a6fd8;
+        }
+        .tab-content {
+            display: none;
+            background: white;
+            border-radius: 0 0 10px 10px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .table-container {
+            overflow-x: auto;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        th {
+            background: #f8f9fa;
+            color: #495057;
+            font-weight: 600;
+            padding: 15px 12px;
+            text-align: left;
+            border-bottom: 2px solid #dee2e6;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e9ecef;
+            vertical-align: top;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        tr:hover {
+            background-color: #e3f2fd;
+        }
+        .priority-high { color: #dc3545; font-weight: bold; }
+        .priority-medium { color: #fd7e14; font-weight: bold; }
+        .priority-low { color: #28a745; font-weight: bold; }
+        .status-complete { background: #d4edda; color: #155724; padding: 4px 8px; border-radius: 4px; }
+        .status-progress { background: #fff3cd; color: #856404; padding: 4px 8px; border-radius: 4px; }
+        .status-pending { background: #f8d7da; color: #721c24; padding: 4px 8px; border-radius: 4px; }
+        .link { color: #0066cc; text-decoration: none; }
+        .link:hover { text-decoration: underline; }
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            border-left: 4px solid #667eea;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        .stat-label {
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+        .export-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            margin: 10px 5px;
+        }
+        .export-btn:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>MezTal Master SEO Strategy</h1>
+        <p>Comprehensive Digital Marketing & SEO Roadmap</p>
+    </div>
+
+    <div class="summary-stats">
+        <div class="stat-card">
+            <div class="stat-number">12</div>
+            <div class="stat-label">Direct Competitors</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">569</div>
+            <div class="stat-label">Target Prospects</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">36</div>
+            <div class="stat-label">Content Sources</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">11</div>
+            <div class="stat-label">SEO Tasks Identified</div>
+        </div>
+    </div>
+
+    <div class="tabs">
+        <button class="tab active" onclick="showTab('strategy')">SEO Strategy Overview</button>
+        <button class="tab" onclick="showTab('keywords')">Keywords & Content</button>
+        <button class="tab" onclick="showTab('competitors')">Competitive Analysis</button>
+        <button class="tab" onclick="showTab('content')">Content Sources</button>
+        <button class="tab" onclick="showTab('technical')">Technical SEO</button>
+        <button class="tab" onclick="showTab('prospects')">Target Prospects</button>
+    </div>
+
+    <div id="strategy" class="tab-content active">
+        <div style="padding: 20px;">
+            <h2>SEO Strategy Roadmap</h2>
+            <div style="margin: 20px 0;">
+                <button class="export-btn" onclick="exportToCSV('strategy-table')">Export Strategy to CSV</button>
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="strategy-table">
+                <thead>
+                    <tr>
+                        <th>Phase</th>
+                        <th>Task</th>
+                        <th>Priority</th>
+                        <th>Status</th>
+                        <th>Owner</th>
+                        <th>Timeline</th>
+                        <th>KPIs</th>
+                        <th>Notes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Phase 1: Foundation</strong></td>
+                        <td>Website Audit & Gap Analysis</td>
+                        <td class="priority-high">High</td>
+                        <td class="status-complete">Complete</td>
+                        <td>George Gayl</td>
+                        <td>Week 1</td>
+                        <td>Audit report delivered</td>
+                        <td>Comprehensive audit completed per SOW</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 1: Foundation</strong></td>
+                        <td>Competitor Analysis</td>
+                        <td class="priority-high">High</td>
+                        <td class="status-complete">Complete</td>
+                        <td>George Gayl</td>
+                        <td>Week 1-2</td>
+                        <td>12 competitors identified</td>
+                        <td>Focus on nearshore/offshore staffing companies</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 1: Foundation</strong></td>
+                        <td>Keyword Research & Content Mapping</td>
+                        <td class="priority-high">High</td>
+                        <td class="status-progress">In Progress</td>
+                        <td>George Gayl</td>
+                        <td>Week 2</td>
+                        <td>Target keyword list, content map</td>
+                        <td>Map to staffing, Mexico nearshore, DACA support</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 2: Website</strong></td>
+                        <td>Website Rebuild & Redesign</td>
+                        <td class="priority-high">High</td>
+                        <td class="status-progress">In Progress</td>
+                        <td>George Gayl</td>
+                        <td>Week 3-6</td>
+                        <td>New site live, mobile responsive</td>
+                        <td>Align with MezTal branding, improve UX</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 2: Website</strong></td>
+                        <td>Analytics & Tracking Setup</td>
+                        <td class="priority-high">High</td>
+                        <td class="status-pending">Pending</td>
+                        <td>George Gayl</td>
+                        <td>Week 4</td>
+                        <td>GA4 and GSC integrated</td>
+                        <td>Google Analytics 4, Search Console setup</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 3: Content</strong></td>
+                        <td>SEO On-Page Optimization</td>
+                        <td class="priority-medium">Medium</td>
+                        <td class="status-pending">Pending</td>
+                        <td>George Gayl</td>
+                        <td>Week 5-6</td>
+                        <td>All pages optimized</td>
+                        <td>Titles, meta descriptions, headers, URLs</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 3: Content</strong></td>
+                        <td>Content Strategy Implementation</td>
+                        <td class="priority-medium">Medium</td>
+                        <td class="status-pending">Pending</td>
+                        <td>George Gayl</td>
+                        <td>Week 6-8</td>
+                        <td>Blog launched, 4 posts live</td>
+                        <td>PAS, BAB, AIDA frameworks, LinkedIn integration</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 3: Content</strong></td>
+                        <td>DACA Support Content Hub</td>
+                        <td class="priority-medium">Medium</td>
+                        <td class="status-pending">Pending</td>
+                        <td>Content Team</td>
+                        <td>Week 8-10</td>
+                        <td>Dedicated DACA section live</td>
+                        <td>Resource hub, employer checklist, partnerships</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 4: Technical</strong></td>
+                        <td>Technical SEO Enhancements</td>
+                        <td class="priority-medium">Medium</td>
+                        <td class="status-pending">Pending</td>
+                        <td>George Gayl</td>
+                        <td>Week 7-8</td>
+                        <td>Schema markup, improved speed</td>
+                        <td>Structured data, site speed optimization</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 4: Technical</strong></td>
+                        <td>Internal Linking & Navigation</td>
+                        <td class="priority-low">Low</td>
+                        <td class="status-pending">Pending</td>
+                        <td>George Gayl</td>
+                        <td>Week 8</td>
+                        <td>Improved site architecture</td>
+                        <td>SEO-focused internal linking structure</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Phase 5: Conversion</strong></td>
+                        <td>Lead Capture Optimization</td>
+                        <td class="priority-medium">Medium</td>
+                        <td class="status-pending">Pending</td>
+                        <td>George Gayl</td>
+                        <td>Week 9</td>
+                        <td>Forms integrated, conversion tracking</td>
+                        <td>Strategic form placement, HubSpot integration</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="keywords" class="tab-content">
+        <div style="padding: 20px;">
+            <h2>Keyword Research & Content Strategy</h2>
+            <div style="margin: 20px 0;">
+                <button class="export-btn" onclick="exportToCSV('keywords-table')">Export Keywords to CSV</button>
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="keywords-table">
+                <thead>
+                    <tr>
+                        <th>Keyword Cluster</th>
+                        <th>Primary Keywords</th>
+                        <th>Search Volume Est.</th>
+                        <th>Competition</th>
+                        <th>Target Page</th>
+                        <th>Content Type</th>
+                        <th>Sales Framework</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Nearshore Staffing</strong></td>
+                        <td>nearshore staffing, Mexico staffing, nearshore developers</td>
+                        <td>2,400/month</td>
+                        <td>Medium</td>
+                        <td>Homepage, Services</td>
+                        <td>Landing Page</td>
+                        <td>PAS (Problem-Agitate-Solution)</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Remote Teams Mexico</strong></td>
+                        <td>remote teams Mexico, hire developers Mexico</td>
+                        <td>1,200/month</td>
+                        <td>Medium</td>
+                        <td>Services Page</td>
+                        <td>Service Page</td>
+                        <td>BAB (Before-After-Bridge)</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>DACA Employment Support</strong></td>
+                        <td>DACA employment, deportation employment help</td>
+                        <td>800/month</td>
+                        <td>Low</td>
+                        <td>DACA Support Hub</td>
+                        <td>Resource Hub</td>
+                        <td>AIDA (Attention-Interest-Desire-Action)</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Offshore vs Nearshore</strong></td>
+                        <td>offshore vs nearshore, nearshore benefits</td>
+                        <td>1,600/month</td>
+                        <td>Medium</td>
+                        <td>Blog</td>
+                        <td>Blog Post</td>
+                        <td>Problem-Solution</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Staff Augmentation</strong></td>
+                        <td>staff augmentation Mexico, IT staff augmentation</td>
+                        <td>3,200/month</td>
+                        <td>High</td>
+                        <td>Services</td>
+                        <td>Service Page</td>
+                        <td>Features-Benefits</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Cross-Border Employment</strong></td>
+                        <td>cross border employment, Mexico US employment</td>
+                        <td>600/month</td>
+                        <td>Low</td>
+                        <td>About/Services</td>
+                        <td>Explanation Page</td>
+                        <td>Educational</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Remote Work Solutions</strong></td>
+                        <td>remote work solutions, distributed team management</td>
+                        <td>2,800/month</td>
+                        <td>Medium</td>
+                        <td>Blog, Resources</td>
+                        <td>Blog Series</td>
+                        <td>How-To Guide</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Employer of Record</strong></td>
+                        <td>employer of record Mexico, EOR services</td>
+                        <td>1,800/month</td>
+                        <td>High</td>
+                        <td>Services</td>
+                        <td>Service Page</td>
+                        <td>Trust-Building</td>
+                        <td class="status-pending">Pending</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="competitors" class="tab-content">
+        <div style="padding: 20px;">
+            <h2>Competitive Analysis</h2>
+            <div style="margin: 20px 0;">
+                <button class="export-btn" onclick="exportToCSV('competitors-table')">Export Competitors to CSV</button>
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="competitors-table">
+                <thead>
+                    <tr>
+                        <th>Company</th>
+                        <th>Type</th>
+                        <th>Location</th>
+                        <th>Website</th>
+                        <th>Strengths</th>
+                        <th>SEO Opportunities</th>
+                        <th>Content Gaps</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Microsourcing</td>
+                        <td>Offshore</td>
+                        <td>Philippines</td>
+                        <td><a href="https://microsourcing.com" class="link">microsourcing.com</a></td>
+                        <td>Established brand, case studies</td>
+                        <td>Limited nearshore content</td>
+                        <td>No DACA/immigration support</td>
+                    </tr>
+                    <tr>
+                        <td>Emapta</td>
+                        <td>Offshore</td>
+                        <td>Philippines</td>
+                        <td><a href="https://emapta.com" class="link">emapta.com</a></td>
+                        <td>Strong SEO presence</td>
+                        <td>Not focused on Mexico</td>
+                        <td>Limited social responsibility</td>
+                    </tr>
+                    <tr>
+                        <td>Intugo</td>
+                        <td>Nearshore</td>
+                        <td>Mexico</td>
+                        <td><a href="https://intugo.co" class="link">intugo.co</a></td>
+                        <td>Mexico focus, cultural alignment</td>
+                        <td>Limited content marketing</td>
+                        <td>No specialized support programs</td>
+                    </tr>
+                    <tr>
+                        <td>Coderio</td>
+                        <td>Nearshore</td>
+                        <td>Multi-LatAm</td>
+                        <td><a href="https://coderio.co" class="link">coderio.co</a></td>
+                        <td>Multiple countries</td>
+                        <td>Generic positioning</td>
+                        <td>No immigration/DACA content</td>
+                    </tr>
+                    <tr>
+                        <td>BairesDev</td>
+                        <td>Nearshore</td>
+                        <td>LatAm</td>
+                        <td><a href="https://bairesdev.com" class="link">bairesdev.com</a></td>
+                        <td>Large scale, strong tech focus</td>
+                        <td>Software development heavy</td>
+                        <td>Limited broader staffing solutions</td>
+                    </tr>
+                    <tr>
+                        <td>Near</td>
+                        <td>Nearshore</td>
+                        <td>LatAm</td>
+                        <td><a href="https://hirewithnear.com" class="link">hirewithnear.com</a></td>
+                        <td>Modern branding, good UX</td>
+                        <td>Generic content</td>
+                        <td>No specialized support services</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="content" class="tab-content">
+        <div style="padding: 20px;">
+            <h2>Content Sources & RSS Feeds</h2>
+            <p>36 content sources identified for industry monitoring and content inspiration</p>
+            <div style="margin: 20px 0;">
+                <button class="export-btn" onclick="exportToCSV('content-table')">Export Content Sources to CSV</button>
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="content-table">
+                <thead>
+                    <tr>
+                        <th>Source Name</th>
+                        <th>Category</th>
+                        <th>URL</th>
+                        <th>Reliability Score</th>
+                        <th>Content Potential</th>
+                        <th>Notes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>The Float Life</td>
+                        <td>Accessories & Gear</td>
+                        <td><a href="https://thefloatlife.com" class="link">thefloatlife.com</a></td>
+                        <td>100%</td>
+                        <td>Community engagement insights</td>
+                        <td>Good for understanding community building</td>
+                    </tr>
+                    <tr>
+                        <td>Freshly Charged</td>
+                        <td>Reviews & News</td>
+                        <td><a href="https://freshlycharged.com" class="link">freshlycharged.com</a></td>
+                        <td>95%</td>
+                        <td>Industry news format</td>
+                        <td>Model for industry news content</td>
+                    </tr>
+                    <tr>
+                        <td>Onewheel Forum</td>
+                        <td>Community</td>
+                        <td><a href="https://owforum.co.uk/recent.rss" class="link">owforum.co.uk</a></td>
+                        <td>90%</td>
+                        <td>Community discussion topics</td>
+                        <td>Shows community engagement strategies</td>
+                    </tr>
+                    <tr>
+                        <td>Craft & Ride</td>
+                        <td>Accessories & Gear</td>
+                        <td><a href="https://craftandride.com" class="link">craftandride.com</a></td>
+                        <td>98%</td>
+                        <td>Product content strategy</td>
+                        <td>E-commerce content approach</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="technical" class="tab-content">
+        <div style="padding: 20px;">
+            <h2>Technical SEO Checklist</h2>
+            <div style="margin: 20px 0;">
+                <button class="export-btn" onclick="exportToCSV('technical-table')">Export Technical Tasks to CSV</button>
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="technical-table">
+                <thead>
+                    <tr>
+                        <th>Technical Aspect</th>
+                        <th>Current Status</th>
+                        <th>Priority</th>
+                        <th>Action Required</th>
+                        <th>Tools Needed</th>
+                        <th>Timeline</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Site Speed Optimization</td>
+                        <td class="status-pending">Needs Audit</td>
+                        <td class="priority-high">High</td>
+                        <td>Image optimization, caching, script minification</td>
+                        <td>GTmetrix, PageSpeed Insights</td>
+                        <td>Week 7</td>
+                    </tr>
+                    <tr>
+                        <td>Mobile Responsiveness</td>
+                        <td class="status-progress">In Progress</td>
+                        <td class="priority-high">High</td>
+                        <td>Ensure complete mobile optimization</td>
+                        <td>Google Mobile-Friendly Test</td>
+                        <td>Week 6</td>
+                    </tr>
+                    <tr>
+                        <td>Schema Markup</td>
+                        <td class="status-pending">Not Implemented</td>
+                        <td class="priority-medium">Medium</td>
+                        <td>Implement Organization, Service, Article schemas</td>
+                        <td>Schema.org, Google Rich Results Test</td>
+                        <td>Week 8</td>
+                    </tr>
+                    <tr>
+                        <td>XML Sitemap</td>
+                        <td class="status-pending">Needs Update</td>
+                        <td class="priority-high">High</td>
+                        <td>Generate and submit updated sitemap</td>
+                        <td>Google Search Console</td>
+                        <td>Week 4</td>
+                    </tr>
+                    <tr>
+                        <td>SSL Certificate</td>
+                        <td class="status-complete">Active</td>
+                        <td class="priority-high">High</td>
+                        <td>Maintain and monitor</td>
+                        <td>SSL monitoring tools</td>
+                        <td>Ongoing</td>
+                    </tr>
+                    <tr>
+                        <td>Internal Linking</td>
+                        <td class="status-pending">Needs Optimization</td>
+                        <td class="priority-medium">Medium</td>
+                        <td>Create strategic internal linking structure</td>
+                        <td>Site architecture planning</td>
+                        <td>Week 8</td>
+                    </tr>
+                    <tr>
+                        <td>Broken Links</td>
+                        <td class="status-pending">Needs Audit</td>
+                        <td class="priority-medium">Medium</td>
+                        <td>Identify and fix broken links</td>
+                        <td>Screaming Frog, Broken Link Checker</td>
+                        <td>Week 5</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="prospects" class="tab-content">
+        <div style="padding: 20px;">
+            <h2>Target Prospects Analysis</h2>
+            <p>569 target prospects identified across senior living, healthcare, and related industries</p>
+            <div style="margin: 20px 0;">
+                <button class="export-btn" onclick="exportToCSV('prospects-table')">Export Prospects to CSV</button>
+            </div>
+        </div>
+        <div class="table-container">
+            <table id="prospects-table">
+                <thead>
+                    <tr>
+                        <th>Industry Segment</th>
+                        <th>Example Companies</th>
+                        <th>Count</th>
+                        <th>SEO Opportunity</th>
+                        <th>Content Strategy</th>
+                        <th>Priority</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Senior Living</td>
+                        <td>Amica Senior Lifestyles, Anthem Memory Care, Aperion Care</td>
+                        <td>~150</td>
+                        <td>Senior care staffing content</td>
+                        <td>Specialized healthcare staffing solutions</td>
+                        <td class="priority-high">High</td>
+                    </tr>
+                    <tr>
+                        <td>Healthcare</td>
+                        <td>Apple Rehab, Aegis Assisted Living</td>
+                        <td>~120</td>
+                        <td>Healthcare compliance, certifications</td>
+                        <td>Healthcare staffing expertise</td>
+                        <td class="priority-high">High</td>
+                    </tr>
+                    <tr>
+                        <td>Associations</td>
+                        <td>American Seniors Housing Association (ASHA)</td>
+                        <td>~50</td>
+                        <td>Industry partnerships, credibility</td>
+                        <td>Thought leadership content</td>
+                        <td class="priority-medium">Medium</td>
+                    </tr>
+                    <tr>
+                        <td>Technology</td>
+                        <td>Various tech companies</td>
+                        <td>~80</td>
+                        <td>Tech talent acquisition</td>
+                        <td>Developer staffing solutions</td>
+                        <td class="priority-high">High</td>
+                    </tr>
+                    <tr>
+                        <td>General Business</td>
+                        <td>Various service companies</td>
+                        <td>~169</td>
+                        <td>General staffing services</td>
+                        <td>Broad business solutions</td>
+                        <td class="priority-medium">Medium</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabName) {
+            // Hide all tab contents
+            const contents = document.querySelectorAll('.tab-content');
+            contents.forEach(content => content.classList.remove('active'));
+            
+            // Remove active class from all tabs
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => tab.classList.remove('active'));
+            
+            // Show selected tab content
+            document.getElementById(tabName).classList.add('active');
+            
+            // Add active class to clicked tab
+            event.target.classList.add('active');
+        }
+
+        function exportToCSV(tableId) {
+            const table = document.getElementById(tableId);
+            const rows = table.querySelectorAll('tr');
+            let csvContent = '';
+            
+            rows.forEach(row => {
+                const cols = row.querySelectorAll('td, th');
+                const rowData = [];
+                cols.forEach(col => {
+                    // Clean up text content, remove HTML
+                    let cellText = col.textContent.trim();
+                    // Escape quotes and wrap in quotes if contains comma
+                    if (cellText.includes(',') || cellText.includes('"')) {
+                        cellText = '"' + cellText.replace(/"/g, '""') + '"';
+                    }
+                    rowData.push(cellText);
+                });
+                csvContent += rowData.join(',') + '\n';
+            });
+            
+            // Create download
+            const blob = new Blob([csvContent], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = tableId + '_export.csv';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+Category,Subcategory,Item,Priority,Status,Description,Recommendation,Timeline,Estimated Cost,Notes
+Keywords,Primary,Nearshore Staffing Mexico,High,Not Optimized,Direct service match with growing market demand,Optimize homepage and service pages for this term,Month 1,$500,Target in title tags and H1s
+Keywords,Primary,Remote Teams Mexico,High,Not Optimized,Core offering with high search volume,Create dedicated landing page,Month 1,$500,Focus on benefits and process
+Keywords,Primary,Staffing Solutions Guadalajara,High,Not Optimized,Location-specific advantage,Optimize location pages,Month 1,$500,Emphasize Silicon Valley of Mexico
+Keywords,Primary,IT Staffing Mexico,High,Not Optimized,High-value vertical with strong ROI,Create IT-specific service page,Month 2,$750,Include tech stack and roles
+Keywords,Primary,Cost-Effective Staffing,Medium,Not Optimized,Key differentiator for value proposition,Integrate into cost comparison content,Month 2,$300,Use in meta descriptions
+Keywords,Secondary,Outsourcing Mexico,Medium,Not Optimized,Broader market capture opportunity,Create educational content,Month 3,$400,Target informational intent
+Keywords,Secondary,Talent Acquisition Mexico,Medium,Not Optimized,Professional terminology for HR audience,Use in blog content and service descriptions,Month 2,$300,B2B focused content
+Keywords,Secondary,Hire Remote Employees Mexico,Medium,Not Optimized,Action-oriented search phrase,Optimize CTA pages and forms,Month 2,$250,Conversion-focused optimization
+Keywords,Secondary,Guadalajara Tech Talent,Medium,Not Optimized,Location + industry specific targeting,Create Guadalajara talent pool content,Month 3,$400,Local SEO focus
+Keywords,Secondary,HR and Payroll Services Mexico,Medium,Not Optimized,Service-specific targeting,Add to services section,Month 3,$300,Highlight management services
+Keywords,Long-tail,Benefits of nearshoring to Mexico,Low,Not Optimized,Educational content opportunity,Create comprehensive guide,Month 4,$600,Lead magnet potential
+Keywords,Long-tail,How to hire remote developers in Guadalajara,Low,Not Optimized,How-to content for IT hiring,Write detailed blog post,Month 4,$400,Step-by-step guide
+Keywords,Long-tail,Cost comparison nearshore vs offshore,Low,Not Optimized,Comparison content for decision makers,Create comparison tool/calculator,Month 5,$800,Interactive content
+Keywords,Long-tail,Best practices managing remote teams Mexico,Low,Not Optimized,Management-focused content,Write management guide,Month 5,$500,Target managers/executives
+Keywords,Long-tail,Guadalajara vs other nearshore locations,Low,Not Optimized,Competitive positioning content,Create location comparison,Month 6,$600,Competitive analysis
+Technical SEO,Site Structure,Multiple H1 tags on homepage,High,Issue Identified,SEO best practice violation,Restructure heading hierarchy,Week 1,$200,Use single H1 per page
+Technical SEO,Site Structure,Missing meta descriptions,High,Issue Identified,Important for click-through rates,Write compelling meta descriptions for all pages,Week 2,$300,Include target keywords
+Technical SEO,Site Structure,Limited internal linking,Medium,Issue Identified,Poor link equity distribution,Implement strategic internal linking,Month 1,$400,Create topic clusters
+Technical SEO,Performance,Preloaded resources not used,Medium,Issue Identified,Page speed impact,Optimize resource loading,Month 2,$500,Technical optimization
+Technical SEO,Schema,Missing schema markup,High,Missing,Rich snippets opportunity,Implement Organization and Service schema,Month 1,$600,Structured data implementation
+Technical SEO,Schema,No LocalBusiness schema,Medium,Missing,Local SEO opportunity,Add LocalBusiness markup,Month 2,$300,Guadalajara location focus
+Technical SEO,Images,Generic alt text,Medium,Issue Identified,Accessibility and SEO impact,Write descriptive alt text for all images,Week 3,$200,Include relevant keywords
+Technical SEO,URLs,Clean URL structure,Low,Good,SEO-friendly URLs already implemented,Maintain current structure,Ongoing,$0,Continue best practices
+Technical SEO,Security,HTTPS implemented,Low,Good,Security and ranking factor,Maintain SSL certificate,Ongoing,$100/year,Annual renewal
+Technical SEO,Crawling,Robots.txt configured,Low,Good,Proper bot management,Monitor and update as needed,Quarterly,$0,Regular review
+Content Strategy,Site Architecture,Missing Services pages,High,Missing,Critical for service-specific SEO,Create dedicated service pages,Month 1,$2000,IT Digital Marketing Admin Finance
+Content Strategy,Site Architecture,Missing Industries pages,High,Missing,Industry-specific targeting opportunity,Create industry landing pages,Month 2,$1500,Technology Healthcare Finance
+Content Strategy,Site Architecture,No blog/insights section,High,Missing,Content marketing foundation,Launch blog with CMS,Month 1,$1000,2-3 posts per week
+Content Strategy,Site Architecture,Missing About page in navigation,Medium,Issue Identified,Trust and credibility building,Promote About page in main nav,Week 1,$100,Simple navigation update
+Content Strategy,Site Architecture,No case studies section,Medium,Missing,Social proof and conversion tool,Create case study template and content,Month 2,$800,3-5 detailed case studies
+Content Strategy,Content Types,Service-specific content,High,Missing,Target service-related keywords,Write comprehensive service descriptions,Month 1,$1200,Focus on benefits and process
+Content Strategy,Content Types,Industry-specific content,High,Missing,Vertical market targeting,Create industry-focused content,Month 2,$1000,Address specific industry needs
+Content Strategy,Content Types,Educational content,Medium,Missing,Thought leadership and SEO,Develop educational blog content,Month 2,$800,How-to guides and best practices
+Content Strategy,Content Types,Comparison content,Medium,Missing,Decision-making support,Create comparison guides,Month 3,$600,Nearshore vs offshore etc
+Content Strategy,Content Types,Local content,Medium,Missing,Guadalajara and Mexico focus,Write location-specific content,Month 3,$500,Why Guadalajara content
+User Experience,Navigation,Limited navigation options,High,Issue Identified,Poor user journey and SEO,Expand navigation structure,Month 1,$500,Add Services Industries About Resources
+User Experience,Navigation,No clear employer vs candidate paths,High,Issue Identified,Conversion optimization opportunity,Create separate user journeys,Month 1,$400,Distinct CTAs and landing pages
+User Experience,Navigation,Missing breadcrumb navigation,Medium,Missing,User experience and SEO benefit,Implement breadcrumb navigation,Month 2,$300,Improve site hierarchy understanding
+User Experience,Forms,Simple contact form only,Medium,Issue Identified,Lead qualification opportunity,Create specific intake forms,Month 2,$600,Employer and candidate forms
+User Experience,CTAs,Generic call-to-action buttons,Medium,Issue Identified,Conversion rate optimization,Design specific CTAs for user types,Month 1,$300,Hire Talent vs Apply Now
+User Experience,Mobile,Mobile responsiveness,Low,Good,Wix platform provides responsive design,Monitor and test regularly,Ongoing,$0,Regular testing across devices
+Competitive Analysis,Competitor,TRS Staffing Solutions,High,Analyzed,Global reach and industry specialization,Differentiate with local Guadalajara focus,Ongoing,$0,Monitor their content strategy
+Competitive Analysis,Competitor,Gordian Staffing,High,Analyzed,Clear employer/candidate separation,Implement similar user path separation,Month 1,$300,Learn from their UX approach
+Competitive Analysis,Competitor,Remote Team Solutions,Medium,Analyzed,Comprehensive service offerings,Expand service page content,Month 2,$500,Match their content depth
+Competitive Analysis,Competitor,Wexpand,Medium,Analyzed,Mexico-focused positioning,Strengthen unique Guadalajara positioning,Month 1,$200,Emphasize local advantages
+Competitive Analysis,Competitor,Alcor BPO,Medium,Analyzed,Strong content marketing presence,Develop content marketing strategy,Month 2,$800,Blog and thought leadership
+Implementation,Phase 1,Technical SEO fixes,High,Planned,Foundation improvements,Fix H1 tags meta descriptions schema,Month 1,$1500,Critical for SEO foundation
+Implementation,Phase 1,Basic content creation,High,Planned,Essential pages and content,Create service pages and basic blog content,Month 1,$3000,Core content development
+Implementation,Phase 1,Analytics setup,High,Planned,Measurement and tracking,Implement GA4 GSC and tracking,Month 1,$500,Data collection foundation
+Implementation,Phase 2,Content expansion,Medium,Planned,Comprehensive content library,Industry pages blog content case studies,Month 2-3,$4000,Content marketing launch
+Implementation,Phase 2,Link building campaign,Medium,Planned,Authority and ranking improvement,Guest posting and outreach,Month 2-3,$2500,Quality backlink acquisition
+Implementation,Phase 2,Advanced technical SEO,Medium,Planned,Performance and optimization,Speed optimization advanced schema,Month 2-3,$2000,Technical improvements
+Implementation,Phase 3,Optimization and scaling,Low,Planned,Data-driven improvements,Analyze optimize and scale successful tactics,Month 4-6,$3000,Continuous improvement
+Implementation,Phase 3,Advanced content formats,Low,Planned,Competitive differentiation,Interactive tools video content webinars,Month 4-6,$4000,Advanced content marketing
+Implementation,Phase 3,Partnership development,Low,Planned,Link building and co-marketing,Industry partnerships and collaborations,Month 4-6,$2000,Strategic partnerships
+Budget,Monthly,Content Creation,High,Estimated,Blog writing case studies white papers,$3000-5000,Ongoing,$4000,Professional content development
+Budget,Monthly,Technical Implementation,High,Estimated,Developer time and technical improvements,$2000-3000,Ongoing,$2500,Technical SEO and site improvements
+Budget,Monthly,Tools and Software,Medium,Estimated,SEO tools analytics platforms design software,$500-800,Ongoing,$650,Essential SEO and marketing tools
+Budget,Monthly,Link Building and Outreach,Medium,Estimated,Outreach specialist guest posting PR,$2000-4000,Ongoing,$3000,Authority building and PR
+Budget,Total,Monthly Investment,High,Estimated,Total monthly SEO investment,$7500-12800,Ongoing,$10150,Comprehensive SEO program
+ROI Projections,Timeline,Months 1-3,High,Projected,Foundation building phase,Minimal traffic increase expected,Month 1-3,$0,Investment phase
+ROI Projections,Timeline,Months 4-6,High,Projected,Growth phase,25-50% increase in organic traffic,Month 4-6,$0,Early results phase
+ROI Projections,Timeline,Months 7-12,High,Projected,Acceleration phase,100-200% increase in traffic and leads,Month 7-12,$0,Significant growth phase
+ROI Projections,Timeline,Year 2+,Medium,Projected,Maturity phase,Sustained growth and market leadership,Year 2+,$0,Long-term success
+Metrics,KPI,Organic traffic growth,High,To Track,Primary success metric,Monitor monthly growth percentage,Ongoing,$0,Google Analytics tracking
+Metrics,KPI,Keyword ranking improvements,High,To Track,SEO performance indicator,Track target keyword positions,Ongoing,$200,SEO tool subscription
+Metrics,KPI,Click-through rates,Medium,To Track,Search result performance,Monitor CTR from search results,Ongoing,$0,Google Search Console
+Metrics,KPI,Conversion rate from organic,High,To Track,Business impact measurement,Track leads and conversions from organic traffic,Ongoing,$0,Goal tracking in GA4
+Metrics,KPI,Lead generation from website,High,To Track,Business success metric,Monitor form submissions and inquiries,Ongoing,$0,CRM integration
+Metrics,KPI,Content engagement metrics,Medium,To Track,Content performance indicator,Track blog traffic time on page social shares,Ongoing,$0,Content analytics
+Risk Assessment,Risk,Algorithm changes,Medium,Potential,Google updates affecting rankings,Diversify traffic sources use white-hat practices,Ongoing,$0,Best practice adherence
+Risk Assessment,Risk,Increased competition,High,Potential,Established players with larger budgets,Focus on niche expertise and local advantages,Ongoing,$0,Competitive differentiation
+Risk Assessment,Risk,Content resource limitations,Medium,Potential,Limited internal content creation capacity,Outsource content creation establish processes,Month 1,$1000,Resource planning
+Risk Assessment,Risk,Technical platform constraints,Low,Potential,Wix platform limitations,Work within capabilities or consider migration,Month 6,$5000,Platform evaluation
+Success Factors,Factor,Leadership commitment,High,Required,Executive buy-in for long-term strategy,Secure leadership support and budget approval,Week 1,$0,Stakeholder alignment
+Success Factors,Factor,Consistent execution,High,Required,Regular content publication and optimization,Establish content calendar and processes,Month 1,$500,Process development
+Success Factors,Factor,Data-driven decisions,High,Required,Regular analysis and strategy adjustment,Implement tracking and reporting systems,Month 1,$300,Analytics setup
+Success Factors,Factor,Quality focus,Medium,Required,User value over search manipulation,Maintain high content and user experience standards,Ongoing,$0,Quality assurance
+

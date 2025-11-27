@@ -1,0 +1,684 @@
+# MezTal.com Redesign – Research & IA Strategy Log (v2, Gap‑Checked)
+
+**Owner:** MezTal / George  
+**Strategic Lead:** GPT‑5 (MezTal_Expert_Mode)  
+**Purpose:** Canonical research + intent log backing the new IA, nav, and Relume prompt.  
+
+---
+
+## 0. Canonical Inputs & Precedence
+
+We only trust the following as **inputs** (in this order):
+
+1. Your explicit instructions in this chat.
+2. **Architecture — Cleaned Map** (as pasted here; not the full workbook).
+3. COMET Wix/SEO hierarchy log (page inventory + SEO decisions).
+4. **Report of HubSpot Closed‑Won (Jan 2023–Aug 2024)** – as summarized here.
+5. **MezTal HubSpot‑Informed SEO.xlsx** – as surfaced via the role/keyword mapping you pasted.
+6. **LinkedIn MezTal Content export** – `All posts` sheet; `Metrics` sheet ignored.
+7. **MezTal HubSpot Copilot SEO chat transcript** – as summarized and quoted.
+
+Explicitly **ignored**:
+
+- Any “Meztal.com SEO Strategy Master Aggregation”.
+- Any “MEZTAL_SEO_MASTER_Minimal” tabs **other than** the Architecture — Cleaned Map.
+- Any other historical SEO docs not explicitly whitelisted.
+
+If information is not supported by these, it does **not** enter MezTal’s offering set.
+
+---
+
+## 1. Business Model & Non‑Negotiables
+
+### 1.1 What MezTal Is
+
+From current site copy, COMET log, and Copilot transcript:
+
+- MezTal is a **US‑facing nearshore staffing partner**.
+- Builds **dedicated, long‑term remote teams in Mexico**.
+- Delivery hubs: **Guadalajara and Mexico City** (always mentioned together when describing operations).
+
+### 1.2 Value Proposition (Locked)
+
+Language and constraints we must keep consistent:
+
+- Cost: **“around 40% cost savings vs equivalent US hires”**  
+  - Earlier “~50% savings” language on legacy home/FAQ is treated as outdated; new copy uses ~40%.
+- Time: **“overlapping business hours with the US”**  
+  - Never say “same time zone”.
+- Talent: strong cultural alignment + English‑proficient talent.
+- Engagement model:
+  - **You make the hiring decisions.**
+  - **You train on your processes.**
+  - **You control the systems.**
+  - MezTal handles HR, IT, office, payroll, recruiting (“we manage the messy stuff”).
+
+These lines come directly from current home page copy you pasted and are core to the brand.
+
+### 1.3 Service Scope Fence (No Drift)
+
+Grounded in COMET log, current site, Closed‑Won, SEO data:
+
+**Only these are valid service clusters for v1:**
+
+1. **Accounting & Finance**
+2. **IT / Data / Software Development**
+3. **Digital Marketing & Creative**
+4. **HR / Talent / Augmented Workforce / EOR**
+5. **Operations & Admin**
+6. **Customer Support / Call Center**
+
+We **do not** add “Legal”, “Insurance”, “Manufacturing”, or any other sector/service because competitors have them. If a new service is not backed by your data or your explicit instruction, it is out of scope.
+
+---
+
+## 2. Hard Rules From Your Prior Work
+
+### 2.1 Geography & Time Language
+
+From COMET and your repeated instructions:
+
+- Always: **“Guadalajara and Mexico City”** when describing MezTal’s delivery hubs.
+- Always: **“overlapping business hours with the US”** for time zone alignment.
+- Houston is allowed as a **US office location**, but nearshore value is anchored to Mexico, not Houston.
+
+### 2.2 Canonical “Augmented Workforce” vs Synonyms
+
+From COMET + Copilot:
+
+- Canonical service page: **Augmented Workforce Solutions** under HR & Talent.
+- Synonyms:
+  - staff augmentation
+  - supplemental workforce staffing
+  - contingent workforce
+  - temporary staffing
+  - workforce solutions
+- Rule:
+  - These **never** become separate service URLs.
+  - They are only:
+    - In H2/H3 headings,
+    - In body copy,
+    - In FAQ answers,
+    - In comparison/guide content.
+  - COMET explicitly deleted a “Supplemental Workforce Staffing” page to avoid cannibalization.
+
+### 2.3 Blog vs Resources – Strict Separation
+
+Your explicit constraint:
+
+- **Blog**:
+  - News, updates, commentary, LinkedIn‑style content, event recaps, culture posts, opinion.
+  - Examples: conference recaps, AI thoughts, team stories.
+- **Resources**:
+  - Case studies
+  - Comparison pages (“best X companies”, “nearshore vs offshore”)
+  - Deep guides/whitepapers
+  - Pricing explainers
+  - Checklists, toolkits, calculators
+- They remain **separate nav items and separate mental models**.
+  - No “Blog/Resources” hybrid.
+  - No single mixed “Insights” page.
+
+### 2.4 No Placeholders / Mush
+
+Inherited from your COMET standards:
+
+- Avoid “Other…”, “Misc…”, “Additional…”, “etc.” as structural labels.
+- Every IA node must have a concrete, intentional name.
+
+---
+
+## 3. Demand Signals From HubSpot (Closed‑Won)
+
+### 3.1 Role Cluster Breakdown
+
+From the 71 Closed‑Won entries (as summarized in this session):
+
+**Accounting & Finance** (≈ 50%+ of deals)
+
+Roles (explicitly mentioned):
+
+- Staff Accountant
+- Accountant
+- Senior Accountant
+- AP Specialist / AP Clerk
+- AR Specialist
+- Accounting Specialist
+- Assistant Controller
+- Controller
+- Accounting Manager
+- Billing Analyst / Billing Specialist
+- FP&A roles
+- Payroll roles
+- Tax Manager / Tax roles
+
+These roles are the **engine** of MezTal revenue and must be first‑class in IA (cluster + multiple role pages).
+
+**IT / Data / Dev**
+
+Roles/intent surfaced across Closed‑Won and SEO:
+
+- Full Stack Developer
+- Web Developer
+- Senior Web Developer
+- Data Analyst
+- Data Engineer (Azure, Databricks, other platforms)
+- Implementation Specialist
+- Scrum Master / PM
+- IT Help Desk / IT Support
+
+**Marketing & Creative**
+
+Roles surfaced:
+
+- Marketing Assistant / Coordinator
+- Marketing Automation Specialist
+- PPC Specialist
+- SEO/Content roles
+- Social Media Coordinator
+- Graphic Designer
+- UI Designer (from SEO role list)
+
+**HR / Talent**
+
+Roles & services:
+
+- Recruiter (general and clinical)
+- Talent Sourcing / Sourcer roles
+- Clinical recruitment services
+- RPO for Senior Living
+
+**Operations / Admin / Support**
+
+Roles:
+
+- Administrative Assistant
+- Executive Assistant
+- Back‑office staff
+- Customer Support / Contact Center roles
+
+No other role families show consistent enough presence to justify entirely new clusters in v1.
+
+### 3.2 Vertical Concentration
+
+Using company names and copilot analysis:
+
+- **Senior Living / Post‑Acute** is the dominant vertical (majority of Closed‑Won).
+- **AgeTech / Elder Care Technology** emerges as a tech vertical adjacent to Senior Living.
+- **Healthcare** beyond Senior Living (providers, clinical).
+- **B2B SaaS / Technology** (SaaS products, tech companies).
+- **Real Estate / Property** (operators and investment property entities).
+
+These five verticals are the **Phase 1 industry hubs**.
+
+---
+
+## 4. HubSpot‑Informed SEO & Architecture — Cleaned Map
+
+### 4.1 Page Type Patterns
+
+From the pasted keyword/URL table:
+
+- **Comparison** pages under `/comparison/...`
+  - “best it staffing companies”, “offshore companies”, “offshore it”, “offshoring”
+  - Staff augmentation vs managed services
+  - nearshoring vs offshoring
+- **Resource/Guide** pages under `/resources/...`
+  - how to hire developers in Mexico
+  - how to manage a nearshore team
+  - SOX outsourcing, US GAAP for nearshore accounting
+  - PEO guide
+- **Service/Spoke** pages under `/services/...`
+  - best it staffing agencies / companies
+  - business outsourcing
+  - development company
+  - staff augmentation firm
+
+We treat `/comparison/`, `/resources/`, `/services/` as **historical URL suggestions**, not final structure. For new IA:
+
+- “Comparison” is a **content subtype under Resources**, not its own top nav.
+- Service clusters live under **Hire Talent**, not inside the Resources hierarchy.
+
+### 4.2 Vertical + Role Combinations
+
+Keywords indicate clear vertical+role combos:
+
+- nearshore for senior living
+- RPO for senior living
+- nearshore for agetech
+- agetech software development
+- nearshore for elder care technology
+- senior living accounting services
+
+This reinforces:
+
+- Industry pages must list and link to role pages.
+- Role pages must list and link to relevant industry pages.
+
+The Architecture — Cleaned Map is essentially the “spreadsheet view” of the same hub‑and‑spoke logic we’re codifying as IA.
+
+---
+
+## 5. Current Site Copy – Brand Signals That Must Survive
+
+You pasted the live meztal.com text for Home, Team, FAQ, and Contact. These are critical for tone and certain claims.
+
+### 5.1 Home
+
+Key messages to preserve:
+
+- “You make the hiring decisions / You train on your processes / You control the systems.”
+- Savings:
+  - “With cost of living more favorable in Mexico, we offer employees highly competitive compensation packages and US clients still experience approximately 50% cost savings”  
+  - New site: rephrase to **“around 40% cost savings”** while keeping structure.
+- “We manage the messy stuff: HR, IT, Office, Payroll, Recruiting.”
+- Tagline: “Staffing like you’ve never seen. Your team, your way… none of the boring stuff.”
+- “MezTal brings the advantages of a vibrant growing metropolis of Guadalajara Mexico to your team.”  
+  - New site: “Guadalajara and Mexico City”.
+- “We help our clients streamline costs, rapidly scale operations and add dynamic powerful team members to your team.”
+- Hero call to action: “Add highly qualified talent to your team.”
+
+### 5.2 FAQ (Live)
+
+Questions & answers you pasted:
+
+- Why Guadalajara?
+- What is the cost to hire roles at MezTal?
+- What is included in the ‘passthrough fee’?
+- What control do I have on my team member?
+
+These must survive in some form:
+
+- As a **central FAQ page** under Resources or Company.
+- As modular FAQ entries on:
+  - Why Mexico page,
+  - Pricing page,
+  - Hire Talent cluster pages.
+
+Notably:
+
+- “Guadalajara is only a 2–3 hour flight from most US cities” and “more culturally aligned than India, China, Vietnam, Philippines”.
+- “Considered the ‘Silicon Valley’ of Latin America.”
+- “Cost to staff is about half of equivalent US role” → adjust to ~40% but keep concept.
+- Passthrough fee covers office, computer, onboarding, office expenses; MezTal “handles the boring stuff”.
+
+### 5.3 Team & Contact Pages
+
+Current Team page:
+
+- Focused on leadership (Sarah, Vince, Luis, Noemi, Chris).
+- CTA: “Connect with us to learn more about MezTal.”
+- Contact info: phone + info@meztal.com.
+
+Contact page:
+
+- “Do you want to be a part of a growing team who cares about you? Apply Now!”
+- Links to current employment opportunities.
+- Simple contact form fields: Name, Email, Subject, Message.
+
+Implication:
+
+- **Team** page should stay as part of Company.
+- **Contact** page will need:
+  - General contact form,
+  - Jobs/careers routing,
+  - Links to Workable embed,
+  - Links to LinkedIn hub.
+
+---
+
+## 6. LinkedIn Content – Blog Category & Page Signals
+
+You instructed:
+
+- Use LinkedIn post content to derive **blog categories**.
+- Ignore the Metrics tab entirely.
+
+From that + your descriptions, categories that clearly emerge:
+
+- Senior Living & Aging (posts about industry, conferences, thought leadership).
+- Nearshore & Talent Strategy (remote teams, nearshore vs offshore, Mexico positioning).
+- MezTal Team & Culture (employee spotlights, wellness, internal events).
+- Events & Partnerships (NIC, ASHA, Ziegler, SLIF, etc.).
+- Leadership & Insights (point of view on AI, future of work, operational excellence).
+
+Blog IA:
+
+- Top‑level Blog hub with filters by category (or simple tags).
+- No mixing blog and resources.
+
+> You also mentioned:  
+> “a lot of the posts on LinkedIn should be signals of blog categories, unless you notice something in a post that would inform additional main nav page.”  
+>  
+> Deep read: there is **no consistent LinkedIn theme** that justifies a new main nav item beyond Blog/Resources/Industries (we’re already covering Senior Living, AI/Future of Work, and events inside those).
+
+---
+
+## 7. Verbatim Testimonials (Canonical Social Proof)
+
+### 7.1 Client Testimonials
+
+> Partnering with MezTal was one of our best strategic decisions. We were the first to build and bring in-house Digital Marketing through MezTal. We have a Team Lead, web development, and SEO specialists creating incredible results, leading to more website traffic, leads which instantly yielded more lease signings. Not only did this partnership create a favorable line item on our budget, but more importantly, the key metrics we evaluate continue to increase far superior to our previous digital marketing campaigns  
+>  
+> – Scott Goldberg \| Co‑Founder & President Atlas Senior Living
+
+> Our decision to partner with Meztal was one of the best business moves we made in 2022. Since our initial work with Meztal, we have been ecstatic about how our business has grown with them and see them as a true partner  
+>  
+> – Isaac Scott \| Principal & CEO Anthem Memory Care
+
+### 7.2 Employee Testimonial
+
+> Working with Meztal has been an amazing adventure.  
+>  
+> I was heard and trusted from day 1 and am grateful for all the support for my professional development. I love the people I work with and the freedom to create a way of working that works best for me and the company. I´m proud to be part of Meztal and look forward to be associated for many more new experiences to come  
+>  
+> – Linda Cabrales \| Senior Controller
+
+Usage decisions:
+
+- Scott + Isaac:
+  - Home social proof.
+  - Senior Living industry page.
+  - Digital Marketing / Accounting & Finance cluster pages.
+- Linda:
+  - Careers page.
+  - About/Team page.
+  - Candidate‑facing messaging.
+
+---
+
+## 8. Competitor IA/UX – Pattern‑Only Learnings
+
+You provided nearshore/offshore competitors to study **only for IA/UX patterns**, not to copy offerings.
+
+Patterns we adopt:
+
+- Top‑level IA chunks:
+  - Hire Talent / Services
+  - Industries
+  - Why Region (Why Mexico)
+  - Resources
+  - Blog
+  - Company
+  - Careers
+  - Contact
+
+- Role‑centric navigation:
+  - “Hire [Role]” style pages work well for BOFU conversion.
+  - We only use for roles that actually appear in Closed‑Won or SEO plan.
+
+- Vertical pages:
+  - “Industries we serve” is a common pattern and maps perfectly to your Senior Living / AgeTech / Healthcare / SaaS / Real Estate footprint.
+
+- Conversion‑focused landing templates:
+  - Clear hero, proof, benefits, FAQ, CTA.
+
+Patterns we **don’t** adopt:
+
+- Mega menus listing dozens of roles/industries MezTal does not serve.
+- Service lines that are not backed by MezTal data (legal, banking, general manufacturing).
+
+This log intentionally keeps competitor influence at **structure + UX** level only.
+
+---
+
+## 9. Target IA – Hubs, Clusters, Leaves (Strategy View)
+
+### 9.1 Hubs (Top‑Level)
+
+- Home
+- Hire Talent
+- Industries
+- Why Mexico
+- Resources
+- Blog
+- Company
+- Contact
+- Careers
+
+### 9.2 Hire Talent – Clusters
+
+Functional clusters (v1):
+
+- **Accounting & Finance Staffing**
+- **IT & Data Staffing**
+- **Marketing & Creative Staffing**
+- **HR & Talent / Augmented Workforce / EOR**
+- **Operations & Admin Support**
+- **Customer Support & Call Center**
+
+Each cluster has:
+
+- A cluster/pillar page.
+- Multiple **role‑specific leaf pages**, prioritizing roles from Closed‑Won and HubSpot‑Informed SEO (Staff Accountant, Controller, AP Specialist, Data Analyst, Data Engineer, Marketing Assistant, Recruiter, Clinical Recruiter, etc.).
+
+### 9.3 Industries
+
+Phase 1 industry hubs:
+
+- Senior Living & Long‑Term Care
+- AgeTech & Elder Care Technology
+- Healthcare & Health Services
+- B2B SaaS / Technology
+- Real Estate & Property
+
+Each:
+
+- Describes vertical‑specific pain, outcomes, and compliance issues.
+- Lists roles MezTal commonly fills (linking to role pages).
+- Surfaces vertical‑specific case studies/testimonials (Scott/Isaac on Senior Living).
+
+### 9.4 Why Mexico
+
+- Explains:
+  - Why Guadalajara and Mexico City.
+  - Overlapping business hours with the US.
+  - Talent pool, universities, English proficiency.
+  - Cost advantages and passthrough fee concept.
+- Integrates your existing FAQ language about Guadalajara, Silicon Valley of LatAm, and time zone.
+
+Geo SEO landers (Nearshore Staffing Mexico, Mexico Outsourcing, Remote Workers Mexico, Remote Teams Mexico, Employer of Record Mexico) are treated as **SEO entry pages** that:
+
+- Sit under/adjacent to Why Mexico.
+- Cross‑link to Hire Talent + Industries + Contact.
+
+### 9.5 Resources vs Blog
+
+- **Resources**
+  - Types: Comparison, Guide/Whitepaper, Case Study, Checklist/Tool, Pricing Explainer.
+  - Houses “nearshoring vs offshoring”, “staff augmentation vs managed services”, “best it staffing companies” type content.
+  - Many of these keywords came from the Architecture — Cleaned Map table you pasted.
+- **Blog**
+  - Categories informed by LinkedIn:
+    - Senior Living & Aging
+    - Nearshore & Talent Strategy
+    - MezTal Culture & People
+    - Events & Partnerships
+    - Leadership & Insights
+
+---
+
+## 10. Nav Strategy – Corrected to Match Your Intent
+
+You asked explicitly:
+
+> if someone comes directly to the home page, they are a certain type of user... vs if they arrive to the site through a page we created to target target seo kws, they should have a more holistic main nav with everything.
+
+So the final strategy is:
+
+### 10.1 Home Nav: Focused, Minimal
+
+Top nav on Home should include **only the most critical buyer paths**:
+
+- Logo
+- Home
+- Hire Talent
+- Industries
+- Why Mexico
+- Contact
+- Primary CTA button (e.g., “Book a Consult”)
+- Careers as a **small text link** (not a main button)
+- Blog and Resources can appear in:
+  - Sub‑nav under Hire Talent/Industries, or
+  - Footer, or small secondary links.
+
+Goal: reduce decision friction for cold home‑page visitors.
+
+### 10.2 SEO Entry Pages: Full, Holistic Nav
+
+Any page that is likely to be a **SEO entry point** (role pages, comparison pages, guides, vertical pages) should have a **full nav** so a “fresh” visitor can orient and explore.
+
+Full nav:
+
+- Home
+- Hire Talent
+- Industries
+- Why Mexico
+- Resources
+- Blog
+- Company
+- Contact
+- Careers (text link)
+- Primary CTA (“Book a Consult”)
+
+This aligns with your funnel logic: SEO landers need more context and routes.
+
+### 10.3 Candidate‑Facing Pages (Careers / Jobs)
+
+Careers/Jobs pages can use a slightly tailored nav:
+
+- Logo
+- Careers
+- About
+- Team
+- Blog
+- Contact
+- Primary CTA (“View Open Roles”)
+
+But these **do not replace** the buyer‑oriented nav in the overall site design.
+
+---
+
+## 11. Workable & LinkedIn – Dedicated Hub Pages
+
+You explicitly asked for:
+
+- A page dedicated to LinkedIn, likely embedding the LinkedIn company page.
+- A page dedicated to jobs via Workable embed.
+
+So:
+
+### 11.1 LinkedIn Hub (Under Company)
+
+- Page purpose:
+  - Embed LinkedIn company timeline or page.
+  - Curate top posts (Senior Living wins, AI/future of care, culture).
+- Sections:
+  - Hero: “MezTal on LinkedIn”
+  - Embed or feed
+  - Small explanation of how LinkedIn content ties into MezTal’s mission.
+  - CTA: Follow MezTal on LinkedIn.
+
+This is **not** a replacement for Blog.
+
+### 11.2 Workable Jobs Hub (Under Company or Careers)
+
+- Embeds the Workable jobs listing (with “Load more” behavior).
+- Contains:
+  - “Do you want to be part of a growing team who cares about you?” (live copy).
+  - Link or button: “Review current employment opportunities and apply” (Workable embed).
+  - Space for:
+    - A standard MezTal candidate contact form (Name, Email, Subject, Message).
+    - Link back to Careers page (culture, benefits, employee testimonial).
+
+The **Contact** page can link to both the Workable embed page and the general inquiry form.
+
+---
+
+## 12. CMS & Internal Linking (Implementation Layer)
+
+At a high level, the CMS must support:
+
+- **Clusters:** Services (Hire Talent categories), Industries.
+- **Leaves:** Role pages, Resource items, Blog posts, Testimonials.
+- **Relationships:**  
+  - Roles ↔ Service cluster  
+  - Roles ↔ Industries  
+  - Roles ↔ Resources / Blog  
+  - Industries ↔ Roles  
+  - Industries ↔ Resources / Blog  
+  - Testimonials ↔ Industries / Clusters
+
+Internal linking rules:
+
+- Every **role page** links to:
+  - Its service cluster,
+  - At least one industry,
+  - At least one resource or blog post,
+  - Contact/CTA.
+- Every **industry page** links to:
+  - 3–6 roles,
+  - 1–3 relevant resources,
+  - Contact/CTA.
+- Resources and blog posts link **back** to relevant cluster/role/industry pages in body or CTA.
+
+No page is a dead end; everything either loops into:
+
+- A cluster,
+- An industry,
+- Or a conversion (Contact/Book a Consult).
+
+---
+
+## 13. Phase 2 Rules (Non‑Speculative)
+
+To prevent drift:
+
+- **New vertical page** only when:
+  - Closed‑Won + pipeline show repeated deals in that vertical.
+  - There is at least one real client story and clear use case.
+
+- **New role page** only when:
+  - Role appears repeatedly in deals and/or SEO data.
+  - MezTal actually fills that role.
+  - It fits into an existing cluster.
+
+- **New content type** (cost calculator, talent gallery) only when:
+  - It has clear use in the funnel,
+  - It fits logically under Resources or Hire Talent,
+  - You explicitly authorize it.
+
+No “because competitor has it” additions without this check.
+
+---
+
+## 14. Gap Analysis Summary (What Was Missing and Now Fixed)
+
+To be explicit about the gaps from the previous log and how they’re now resolved:
+
+1. **Nav logic vs your intent**  
+   - Old: ambiguous about whether SEO landers used focused or full nav.  
+   - Now: Home = minimal nav; SEO entry pages = full nav; candidate pages = candidate‑tuned nav.
+
+2. **Speculative verticals/services**  
+   - Old: Phase 2 examples mentioned speculative verticals like “Digital Commerce”, “Private Equity”.  
+   - Now: removed. Phase 2 verticals are described generically, only triggered by future data, with no invented names.
+
+3. **Current site copy integration**  
+   - Old: your “You make the hiring decisions / savings / messy stuff” home copy and FAQ content were only partially referenced.  
+   - Now: they’re explicitly listed and locked in as brand pillars for the new site.
+
+4. **LinkedIn + Workable pages**  
+   - Old: mentioned but under‑specified.  
+   - Now: clearly defined as:
+     - LinkedIn Hub under Company (embed + curated posts),
+     - Workable Jobs hub under Company/Careers (embed + candidate CTAs + contact form).
+
+5. **Strict exclusion of banned docs**  
+   - Old: risk of “MEZTAL_SEO_MASTER…” creeping conceptually.  
+   - Now: explicitly stated that only Architecture — Cleaned Map content you pasted is used; all other tabs/docs are out of context, by your instruction.
+
+6. **No competitor‑driven services**  
+   - Old: some Phase 2 text loosely suggested additional ideas.  
+   - Now: hard fence; services are only those observed in your real data and existing site.
+

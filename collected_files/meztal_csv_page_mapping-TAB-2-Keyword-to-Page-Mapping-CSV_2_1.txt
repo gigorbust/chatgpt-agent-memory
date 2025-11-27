@@ -1,0 +1,18 @@
+Target_Page_URL,Primary_Keyword,Secondary_Keywords,Page_Status,Content_Type,Priority_Level,Implementation_Notes
+Homepage,nearshore staffing mexico,"remote teams mexico, cost-effective staffing",Existing,Landing,HIGH,Establish main brand positioning
+/services/it-staff-augmentation,it staff augmentation mexico,"nearshore staff augmentation, extend development team",Existing,Service,HIGH,Target companies supplementing tech teams
+/services/dedicated-teams,dedicated development team mexico,"build a remote engineering team, nearshore dedicated developers",Existing,Service,HIGH,Fully managed standalone teams
+/services/eor-mexico,employer of record mexico,"mexico peo services, compliant hiring in mexico",Existing,Service,HIGH,Legal and HR compliance focus
+/industries/healthcare,nearshore healthcare staffing,"revenue cycle outsourcing mexico, hipaa compliant outsourcing",Existing,Industry,MEDIUM,Key vertical specialization
+/industries/senior-living,senior living nearshore staffing,"ageless tech talent, remote administrative support for senior living",Existing,Industry,MEDIUM,Unique underserved niche
+/resources/nearshoring-guide,what is nearshoring,"benefits of nearshoring, nearshore vs offshore",Existing,Resource,MEDIUM,Comprehensive research phase guide
+/resources/how-to-hire-remote,how to hire a remote team in mexico,"vetting nearshore developers, manage a nearshore team",Existing,Resource,MEDIUM,Practical guide for new companies
+/locations/guadalajara,staffing solutions guadalajara,"guadalajara tech talent, mexico's silicon valley",Existing,Location,HIGH,Premier tech hub positioning
+/locations/mexico-city,software developers mexico city,"it staffing mexico city, remote teams cdmx",Existing,Location,HIGH,Largest metro market
+/locations/monterrey,hire engineers in monterrey,"tech companies in monterrey, nearshore monterrey",Existing,Location,MEDIUM,Industrial and tech scene focus
+/services/software-development,nearshore software development,"custom software development mexico, nearshore dev teams",OPPORTUNITY,Service,HIGH,High-volume keyword opportunity - 1300 searches
+/comparison/nearshore-vs-offshore,nearshore vs offshore,"nearshore vs offshore development, cost comparison",OPPORTUNITY,Resource,HIGH,Easy win - low difficulty (12)
+/services/development,nearshore development,"software development services mexico, development outsourcing",OPPORTUNITY,Service,HIGH,General development services - 480 searches
+/hire/developers,nearshore developers,"hire nearshore developers, remote developers mexico",OPPORTUNITY,Service,HIGH,Developer hiring focus - 260 searches
+/services/eor-services,peo,"professional employer organization, peo services mexico",OPPORTUNITY,Service,VERY HIGH,Massive opportunity - 40500 searches
+/resources/talent-acquisition,talent acquisition,"talent acquisition strategies, hiring best practices",OPPORTUNITY,Resource,HIGH,Educational content - 14800 searches

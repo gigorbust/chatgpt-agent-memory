@@ -1,0 +1,612 @@
+Topic Cluster,Page Type,Proposed URL,Primary Keyword,Secondary Keywords,Content Type,Funnel Stage,Persona,Triangulated Priority Score
+Nearshore Accounting,Pillar,/nearshore-accounting/,nearshore accounting,"nearshore accounting services, outsourced accounting services",Landing Page,MOFU,"CFO, Controller",9.1
+Nearshore Accounting,Leaf,/nearshore-accounting/payroll-services/,nearshore payroll services,"outsourced payroll processing, payroll compliance services",Landing Page,BOFU,"HR Director, CFO",8.5
+Nearshore Accounting,Leaf,/nearshore-accounting/accounts-payable-services/,accounts payable services,nearshore accounts payable automation,Landing Page,MOFU,"Controller, AP Manager",8.7
+Nearshore Accounting,Leaf,/nearshore-accounting/bookkeeping/,outsourced bookkeeping services,hire a bookkeeper,Landing Page,BOFU,"CFO, Controller, Founder",9.1
+Nearshore Accounting,Leaf,/nearshore-accounting/tax-specialist/,hire tax specialist nearshore,hire a tax accountant,Landing Page,MOFU,"CFO, HR Director",8.6
+Nearshore Accounting,Leaf,/nearshore-accounting/controller-services/,nearshore controller services,"hire a controller, outsourced financial controller services",Landing Page,BOFU,"CFO, CEO",9.4
+Nearshore Accounting,Leaf,/nearshore-accounting/accounts-receivable/,accounts receivable services,N/A,Landing Page,MOFU,"Controller, AR Manager",8.9
+Nearshore Accounting,Leaf,/nearshore-accounting/financial-reporting/,outsourced financial reporting,nearshore SEC reporting services,Landing Page,BOFU,"CFO, Controller",9
+Nearshore Accounting,Leaf,/nearshore-accounting/fp-and-a/,nearshore financial planning and analysis,hire a financial analyst,Landing Page,BOFU,"CFO, Director of FP&A",9.5
+Nearshore Accounting,Leaf,/nearshore-accounting/treasury-management/,nearshore treasury management services,N/A,BOFU,"Treasurer, CFO",9.6,
+Nearshore Accounting,Spoke,/resources/us-gaap-nearshore/,US GAAP for nearshore accounting teams,GAAP accounting services,Whitepaper / Guide,MOFU,"CFO, Controller",8.7
+Nearshore Accounting,Spoke,/resources/sox-compliance-guide/,Sarbanes-Oxley compliance outsourcing,outsourced SOX compliance,Whitepaper / Guide,MOFU,"General Counsel, CFO",9.5
+Nearshore IT Staffing,Pillar,/nearshore-it-staffing/,nearshore IT staffing,"nearshore it services, it staffing",Landing Page,MOFU,"CTO, CIO",8.8
+Nearshore IT Staffing,Spoke,/nearshore-software-development/,nearshore software development,nearshore software development services,Landing Page,MOFU,"CTO, VP of Engineering",10
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/developers/,hire nearshore developers,"hire a developer, find developers",Landing Page,BOFU,"CTO, HR Director",9.1
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/dedicated-teams/,nearshore development team,hire dedicated development team,Landing Page,MOFU,"CTO, HR Director",8.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/python-developer/,hire Python developer nearshore,hire senior python developer nearshore,Landing Page,BOFU,"VP of Engineering, CTO",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/java-developer/,hire Java developer nearshore,hire senior java developer nearshore,Landing Page,BOFU,"CTO, Enterprise Architect",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/react-developer/,hire React developer nearshore,N/A,Landing Page,BOFU,"CTO, VP of Engineering",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/node-js-developer/,hire Node.js developer nearshore,N/A,Landing Page,BOFU,"CTO, Back-End Lead",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/cloud-engineer/,nearshore cloud engineer,hire cloud architect nearshore,Landing Page,BOFU,"Head of Infrastructure, CTO",9.7
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/devops-engineer/,nearshore DevOps engineer,nearshore for devops,Landing Page,BOFU,"CTO, Head of Infrastructure",9.3
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/data-scientist/,nearshore data scientist,hire machine learning engineer nearshore,Landing Page,BOFU,"Chief Data Officer, CTO",9.5
+Nearshore IT Staffing,Spoke,/comparison/nearshoring-vs-offshoring/,nearshoring vs offshoring,"nearshore vs onshore vs offshore, offshore development",Comparison Page,MOFU,"CFO, COO, CEO",9.5
+Nearshore IT Staffing,Spoke,/resources/how-to-hire-developers-in-mexico/,how to hire developers in mexico,cost to hire a developer in mexico,Guide,TOFU,"CTO, Founder, HR Director",9
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/qa-services/,nearshore qa services,"nearshore QA tester, nearshore software testing services",Landing Page,MOFU,"QA Lead, Head of Eng.",9.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/staff-augmentation/,nearshore staff augmentation,it staff augmentation services,Landing Page,MOFU,"IT Director, CTO",9.4
+Solutions for Startups,Pillar,/solutions/startups/,nearshore for startups,nearshore talent for startups,Landing Page,MOFU,"Founder, CEO",9.4
+Solutions for Startups,Leaf,/solutions/startups/accounting/,outsourced accounting for startups,N/A,Landing Page,BOFU,"Founder, CEO",9.1
+Solutions for Startups,Leaf,/solutions/startups/rpo/,RPO for startups,N/A,Landing Page,BOFU,"Founder, Head of People",8.6
+Solutions for Startups,Leaf,/solutions/startups/fractional-cfo/,outsourced cfo services for startups,N/A,Landing Page,BOFU,"Founder, CEO",9.3
+Solutions for Startups,Leaf,/solutions/startups/investor-relations/,outsourced investor relations for startups,N/A,Landing Page,BOFU,"Founder, CEO",9.1
+Solutions for Agencies,Pillar,/solutions/digital-agencies/,nearshore for digital agencies,"nearshore for marketing agencies, nearshore for creative agencies",Landing Page,MOFU,"Agency Owner, COO",9.3
+Solutions for Agencies,Leaf,/solutions/digital-agencies/white-label-ppc/,white label ppc services,N/A,Landing Page,BOFU,"Agency Owner, Head of PPC",9.1
+Solutions for Agencies,Leaf,/solutions/digital-agencies/white-label-seo/,white label seo services,N/A,Landing Page,BOFU,"Agency Owner, Head of SEO",9.2
+Solutions for Agencies,Leaf,/solutions/digital-agencies/white-label-web-development/,white label web development,N/A,Landing Page,BOFU,"Agency Owner, Creative Director",9.2
+Solutions for Agencies,Leaf,/solutions/msps/,nearshore for managed service providers,nearshore for it consulting firms,Landing Page,MOFU,"MSP Owner, COO",9.4
+Solutions for Agencies,Leaf,/solutions/msps/white-label-noc/,white label noc services,N/A,Landing Page,BOFU,"MSP Owner, COO",9.3
+Solutions for Agencies,Leaf,/solutions/msps/white-label-soc/,white label soc services,N/A,Landing Page,BOFU,"MSP Owner, CISO",9.5
+Solutions for Agencies,Leaf,/solutions/msps/white-label-help-desk/,white label help desk,N/A,Landing Page,BOFU,"MSP Owner, Head of Support",9.4
+Solutions for Agencies,Leaf,/solutions/accounting-firms/,nearshore for accounting firms,N/A,Landing Page,MOFU,"CPA, Managing Partner",9.4
+Solutions for Agencies,Leaf,/solutions/accounting-firms/tax-preparation/,outsourced tax preparation for cpas,N/A,Landing Page,BOFU,"CPA, Managing Partner",9.1
+Solutions for Agencies,Leaf,/solutions/law-firms/,nearshore for law firms,N/A,Landing Page,MOFU,"Managing Partner, Administrator",9.4
+Foundational Solutions,Pillar,/solutions/hr-outsourcing/,hr outsourcing,human resources outsourcing,Landing Page,MOFU,"CHRO, HR Director",9.6
+Foundational Solutions,Pillar,/solutions/sales-outsourcing/,sales outsourcing,outsourced sales,Landing Page,MOFU,"CRO, Head of Sales",9.5
+Foundational Solutions,Pillar,/solutions/it-outsourcing/,it outsourcing,outsourced it,Landing Page,MOFU,"CIO, IT Director",9.7
+Foundational Solutions,Pillar,/solutions/managed-it-services/,managed it services,it managed services,Landing Page,MOFU,"IT Director, CIO",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-full-stack-developer/,hire a full stack developer,N/A,Landing Page,BOFU,"CTO, VP of Engineering",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-back-end-developer/,hire a back end developer,N/A,Landing Page,BOFU,"CTO, Back-End Lead",9.4
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-front-end-developer/,hire a front end developer,N/A,Landing Page,BOFU,"CTO, Front-End Lead",9.3
+HR Solutions,Leaf,/solutions/find-talent/,find talent,N/A,Landing Page,MOFU,"HR Director, Founder",9.4
+HR Solutions,Pillar,/solutions/executive-search/,executive search,executive recruiting,Landing Page,MOFU,"CEO, Board, CHRO",9.5
+Foundational Solutions,Pillar,/solutions/marketing-outsourcing/,marketing outsourcing,N/A,Landing Page,MOFU,"CMO, Marketing Director",9.7
+Foundational Solutions,Pillar,/solutions/legal-process-outsourcing/,legal process outsourcing,N/A,Landing Page,MOFU,"General Counsel, CCO",9.6
+Foundational Solutions,Pillar,/solutions/knowledge-process-outsourcing/,knowledge process outsourcing,N/A,Landing Page,MOFU,"COO, Head of Research",9.5
+Foundational Solutions,Pillar,/solutions/engineering-services-outsourcing/,engineering services outsourcing,N/A,Landing Page,MOFU,VP of Engineering,9.6
+Foundational Solutions,Pillar,/solutions/supply-chain-outsourcing/,supply chain outsourcing,N/A,Landing Page,MOFU,"Supply Chain Director, COO",9.4
+Foundational Solutions,Pillar,/solutions/procurement-outsourcing/,procurement outsourcing,N/A,Landing Page,MOFU,"Head of Procurement, CFO",9.3
+Foundational Solutions,Pillar,/solutions/logistics-outsourcing/,logistics outsourcing,N/A,Landing Page,MOFU,"Logistics Director, COO",9.5
+Foundational Solutions,Pillar,/solutions/administrative-outsourcing/,administrative outsourcing,administrative services,Landing Page,MOFU,"COO, Executive",9.2
+Foundational Solutions,Pillar,/solutions/call-center-outsourcing/,call center outsourcing,call center services,Landing Page,MOFU,"Head of CX, COO",9.7
+Foundational Solutions,Pillar,/solutions/data-entry-outsourcing/,data entry outsourcing,N/A,Landing Page,MOFU,"Operations Manager, COO",9.3
+Foundational Solutions,Pillar,/solutions/software-testing-outsourcing/,software testing outsourcing,software testing,Landing Page,MOFU,"QA Lead, Head of Eng.",9.6
+Enterprise Solutions,Pillar,/solutions/enterprise/,nearshore for enterprise,nearshore for enterprise companies,Landing Page,MOFU,"CIO, COO, Department Head",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/enterprise-architecture/,outsourced enterprise architecture,N/A,Landing Page,MOFU,"Chief Architect, CTO",9.9
+IT Staffing,Leaf,/nearshore-it-staffing/systems-integration/,nearshore for systems integration,N/A,Landing Page,MOFU,"CIO, IT Director",9.6
+Resources,Leaf,/resources/digital-maturity/,nearshore for digital maturity,N/A,Guide / Assessment,MOFU,"CEO, CIO, Chief Digital Officer",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/application-modernization/,nearshore for application modernization,nearshore for legacy system modernization,Landing Page,MOFU,"CIO, Enterprise Architect",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-infrastructure-management/,outsourced it infrastructure management,nearshore for IT infrastructure,Landing Page,MOFU,"Head of Infrastructure, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/sap-consulting/,nearshore for SAP consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/oracle-consulting/,nearshore for Oracle consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.6
+IT Staffing,Leaf,/nearshore-it-staffing/servicenow-consulting/,nearshore for ServiceNow consulting,N/A,Landing Page,BOFU,"IT Director, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-project-management/,outsourced IT project management,N/A,Landing Page,MOFU,"PMO Director, IT Director",9.4
+Solutions,Pillar,/solutions/business-process-management/,nearshore business process management,business process reengineering outsourcing,Landing Page,MOFU,"COO, Head of Ops",9.3
+Solutions,Pillar,/solutions/quality-management/,nearshore for quality management,outsourced quality management system,Landing Page,MOFU,"Head of Quality, COO",9.2
+Solutions,Pillar,/solutions/compliance-risk/,nearshore for compliance and risk,outsourced risk management services,Landing Page,MOFU,"CCO, Chief Risk Officer",9.7
+Solutions,Pillar,/solutions/corporate-development/,nearshore for corporate development,outsourced corporate development,Landing Page,MOFU,"Head of Corp Dev, CFO",9.5
+Resources,Leaf,/resources/global-operating-model/,global operating model,what is a global delivery model,Guide / Whitepaper,MOFU,"COO, CEO, Head of Strategy",9.3
+Comparison,Leaf,/comparison/cognizant-vs-infosys/,Cognizant vs Infosys,N/A,Comparison Page,MOFU,"CIO, IT Director",9
+Creative Services,Leaf,/nearshore-creative/illustrator/,hire an illustrator nearshore,N/A,Landing Page,BOFU,"Creative Director, Marketing Mgr",8.9
+Creative Services,Leaf,/nearshore-creative/ux-researcher/,hire a ux researcher nearshore,N/A,Landing Page,BOFU,"UX Lead, Head of Product",9.2
+Creative Services,Leaf,/nearshore-creative/motion-designer/,hire a motion designer nearshore,N/A,Landing Page,BOFU,"Marketing Director, Creative Lead",9
+IT Staffing,Leaf,/nearshore-it-staffing/it-audit-services/,outsourced it audit services,nearshore IT audit services,Landing Page,MOFU,"CISO, Head of Compliance",9.6
+IT Staffing,Leaf,/nearshore-it-staffing/cloud-native-security/,nearshore cloud native security,N/A,Landing Page,BOFU,"CISO, Head of Cloud Security",10
+HR Solutions,Leaf,/solutions/hire-talent/,hire in job,"hire an employee, hire employees",Landing Page,BOFU,"HR Director, Hiring Manager",8.5
+Resources,Leaf,/resources/what-is-an-eor/,eor,what is a global employment organization,Guide / Glossary,TOFU,"HR Director, General Counsel",10
+Resources,Pillar,/resources/what-is-talent-management/,talent management,nearshore talent management,Guide,TOFU,"HR Director, CHRO",9.1
+Solutions,Pillar,/outsourcing-solutions/,outsourcing,business outsourcing,Landing Page,MOFU,"Founder, COO, CEO",9.6
+Solutions,Pillar,/recruiting-services/,recruiting,hr recruitment,Landing Page,MOFU,"HR Director, Hiring Manager",9
+IT Staffing,Pillar,/it-staffing-solutions/,it staffing,it staffing services,Landing Page,MOFU,"IT Director, CIO",9.8
+HR Solutions,Leaf,/rpo/talent-acquisition-specialist/,talent acquisition specialist,nearshore talent acquisition specialist,Landing Page,BOFU,"HR Director, Talent Lead",8.7
+HR Solutions,Pillar,/staffing-solutions/,staffing,staffing agency,Landing Page,MOFU,"HR Director, COO",9.1
+Comparison,Leaf,/comparison/offshore-software-development/,offshore software development,"offshore development, off shore development",Comparison Page,MOFU,"CTO, VP of Engineering",9.5
+IT Staffing,Pillar,/solutions/it-recruiting/,it recruiting,it recruitment,Landing Page,MOFU,"IT Director, Tech Recruiter",9.4
+IT Staffing,Leaf,/solutions/find-developers/,find developers,find a software developer,Landing Page,BOFU,"CTO, Founder",9.7
+IT Staffing,Pillar,/solutions/dedicated-development-team/,dedicated development team,"dedicated teams, dedicated developer",Landing Page,MOFU,"CTO, VP of Engineering",9.5
+Comparison,Leaf,/comparison/offshore-development-team/,offshore development team,offshore dedicated development team,Comparison Page,MOFU,"CTO, VP of Engineering",9.4
+Comparison,Leaf,/comparison/offshore-staffing/,offshore staffing,offshore staff,Comparison Page,MOFU,"HR Director, COO",9.2
+Sales Solutions,Leaf,/solutions/sales-recruitment-agencies/,sales recruitment agencies,sales recruiter,Directory / Guide,MOFU,"CRO, Head of Sales",9
+Comparison,Leaf,/comparison/offshore-it-services/,offshore it services,offshore it,Comparison Page,MOFU,"CIO, IT Director",9.4
+Comparison,Leaf,/comparison/offshore-accounting-services/,offshore accounting,offshore payroll,Comparison Page,MOFU,"CFO, Controller",9.1
+IT Staffing,Leaf,/solutions/hire-programmer/,hire programmer,"hire a programmer online, hire a coder",Landing Page,BOFU,"CTO, Founder",9.6
+IT Staffing,Leaf,/solutions/find-programmer/,find programmer,find me a developer,Landing Page,BOFU,"CTO, Founder",9.7
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/angular-developer/,hire Angular developer nearshore,N/A,Landing Page,BOFU,"CTO, Front-End Lead",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/dot-net-developer/,nearshore .NET developer,nearshore C# developer,Landing Page,BOFU,"CTO, Software Architect",9.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/mobile-app-developers/,nearshore mobile app developers,"hire mobile developer, hire iOS developer nearshore, hire Android developer nearshore",Landing Page,BOFU,"CTO, Head of Mobile",9.2
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/data-analyst/,nearshore data analyst,N/A,Landing Page,MOFU,"Chief Data Officer, COO",9.3
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/data-engineer/,hire data engineer nearshore,hire a cloud data engineer,Landing Page,BOFU,"Head of Data, CTO",9.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/it-support/,nearshore it support,"IT help desk services nearshore, outsourced technical support",Landing Page,MOFU,"IT Director, CIO",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/project-manager/,nearshore project manager,"hire senior it project manager, nearshore technical project manager",Landing Page,BOFU,"CTO, Head of Product",8.9
+Nearshore IT Staffing,Spoke,/resources/managing-nearshore-teams/,how to manage a nearshore team,how to manage nearshore developers,Guide / Whitepaper,TOFU,"CTO, HR Director",8.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/agile-development/,nearshore agile development,nearshore agile development team,Blog Post,MOFU,CTO,7.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/rpa-developer/,nearshore RPA developer,N/A,Landing Page,BOFU,"COO, Head of Automation",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/salesforce-developer/,nearshore Salesforce developer,outsourced salesforce administrator,Landing Page,BOFU,"CIO, Head of Sales Ops",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/qa-automation-engineer/,nearshore qa automation engineer,N/A,Landing Page,BOFU,"QA Lead, Head of Engineering",9
+Nearshore IT Staffing,Spoke,/comparison/staff-aug-vs-managed-services/,staff augmentation vs managed services,nearshore vs managed services,Guide / Comparison,MOFU,"CTO, CIO, IT Director",8.9
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/cybersecurity-analyst/,nearshore cybersecurity analyst,N/A,Landing Page,BOFU,"CISO, Head of Security",9.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/database-administrator/,nearshore database administrator,hire SQL developer nearshore,Landing Page,BOFU,Head of Infrastructure,9.3
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/angular-developer/,hire Angular developer nearshore,N/A,Landing Page,BOFU,"CTO, Front-End Lead",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/dot-net-developer/,nearshore .NET developer,nearshore C# developer,Landing Page,BOFU,"CTO, Software Architect",9.4
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/mobile-app-developers/,nearshore mobile app developers,"hire mobile developer, hire iOS developer nearshore, hire Android developer nearshore",Landing Page,BOFU,"CTO, Head of Mobile",9.2
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/data-analyst/,nearshore data analyst,N/A,Landing Page,MOFU,"Chief Data Officer, COO",9.3
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/data-engineer/,hire data engineer nearshore,hire a cloud data engineer,Landing Page,BOFU,"Head of Data, CTO",9.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/it-support/,nearshore it support,"IT help desk services nearshore, outsourced technical support",Landing Page,MOFU,"IT Director, CIO",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/project-manager/,nearshore project manager,"hire senior it project manager, nearshore technical project manager",Landing Page,BOFU,"CTO, Head of Product",8.9
+Nearshore IT Staffing,Spoke,/resources/managing-nearshore-teams/,how to manage a nearshore team,how to manage nearshore developers,Guide / Whitepaper,TOFU,"CTO, HR Director",8.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/agile-development/,nearshore agile development,nearshore agile development team,Blog Post,MOFU,CTO,7.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/rpa-developer/,nearshore RPA developer,N/A,Landing Page,BOFU,"COO, Head of Automation",9.5
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/salesforce-developer/,nearshore Salesforce developer,outsourced salesforce administrator,Landing Page,BOFU,"CIO, Head of Sales Ops",9.6
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/qa-automation-engineer/,nearshore qa automation engineer,N/A,Landing Page,BOFU,"QA Lead, Head of Engineering",9
+Nearshore IT Staffing,Spoke,/comparison/staff-aug-vs-managed-services/,staff augmentation vs managed services,nearshore vs managed services,Guide / Comparison,MOFU,"CTO, CIO, IT Director",8.9
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/cybersecurity-analyst/,nearshore cybersecurity analyst,N/A,Landing Page,BOFU,"CISO, Head of Security",9.8
+Nearshore IT Staffing,Leaf,/nearshore-it-staffing/database-administrator/,nearshore database administrator,hire SQL developer nearshore,Landing Page,BOFU,Head of Infrastructure,9.3
+Foundational Solutions,Pillar,/solutions/hr-outsourcing/,hr outsourcing,human resources outsourcing,Landing Page,MOFU,"CHRO, HR Director",9.6
+Foundational Solutions,Pillar,/solutions/sales-outsourcing/,sales outsourcing,outsourced sales,Landing Page,MOFU,"CRO, Head of Sales",9.5
+Foundational Solutions,Pillar,/solutions/it-outsourcing/,it outsourcing,outsourced it,Landing Page,MOFU,"CIO, IT Director",9.7
+Foundational Solutions,Pillar,/solutions/managed-it-services/,managed it services,it managed services,Landing Page,MOFU,"IT Director, CIO",9.7
+HR Solutions,Pillar,/solutions/find-talent/,find talent,N/A,Landing Page,MOFU,"HR Director, Founder",9.4
+HR Solutions,Pillar,/solutions/executive-search/,executive search,executive recruiting,Landing Page,MOFU,"CEO, Board, CHRO",9.5
+Foundational Solutions,Pillar,/solutions/marketing-outsourcing/,marketing outsourcing,N/A,Landing Page,MOFU,"CMO, Marketing Director",9.7
+Foundational Solutions,Pillar,/solutions/legal-process-outsourcing/,legal process outsourcing,N/A,Landing Page,MOFU,"General Counsel, CCO",9.6
+Foundational Solutions,Pillar,/solutions/knowledge-process-outsourcing/,knowledge process outsourcing,N/A,Landing Page,MOFU,"COO, Head of Research",9.5
+Foundational Solutions,Pillar,/solutions/engineering-services-outsourcing/,engineering services outsourcing,N/A,Landing Page,MOFU,VP of Engineering,9.6
+Foundational Solutions,Pillar,/solutions/supply-chain-outsourcing/,supply chain outsourcing,N/A,Landing Page,MOFU,"Supply Chain Director, COO",9.4
+Foundational Solutions,Pillar,/solutions/procurement-outsourcing/,procurement outsourcing,N/A,Landing Page,MOFU,"Head of Procurement, CFO",9.3
+Foundational Solutions,Pillar,/solutions/logistics-outsourcing/,logistics outsourcing,N/A,Landing Page,MOFU,"Logistics Director, COO",9.5
+Foundational Solutions,Pillar,/solutions/administrative-outsourcing/,administrative outsourcing,administrative services,Landing Page,MOFU,"COO, Executive",9.2
+Foundational Solutions,Pillar,/solutions/call-center-outsourcing/,call center outsourcing,call center services,Landing Page,MOFU,"Head of CX, COO",9.7
+Foundational Solutions,Pillar,/solutions/data-entry-outsourcing/,data entry outsourcing,N/A,Landing Page,MOFU,"Operations Manager, COO",9.3
+Foundational Solutions,Pillar,/solutions/software-testing-outsourcing/,software testing outsourcing,software testing,Landing Page,MOFU,"QA Lead, Head of Eng.",9.6
+Resources,Leaf,/resources/what-is-a-peo/,peo,N/A,Guide / Glossary,TOFU,"HR Director, CFO, Founder",9.1
+Resources,Leaf,/resources/employee-onboarding-checklist/,employee onboarding,N/A,Guide / Checklist,TOFU,"HR Director, Manager",8.9
+Comparison,Leaf,/comparison/recruiting-firms-vs-nearshoring/,recruiting firms,N/A,Comparison Page,MOFU,"HR Director, Hiring Manager",9.1
+Solutions for Private Equity,Pillar,/solutions/private-equity/,nearshore for private equity,nearshore for private equity firms,Landing Page,MOFU,"PE Partner, Portfolio Ops",10
+Solutions for Private Equity,Leaf,/solutions/private-equity/portfolio-support/,portfolio company support services,nearshore for portfolio company,Landing Page,BOFU,"Portfolio Ops, PortCo CEO",9.8
+Solutions for Private Equity,Leaf,/solutions/private-equity/due-diligence-services/,outsourced due diligence services,nearshore M&A due diligence support,Landing Page,BOFU,"PE Partner, M&A Lead",9.7
+Solutions for Venture Capital,Pillar,/solutions/venture-capital/,nearshore for venture capital,nearshore for venture capital firms,Landing Page,MOFU,"VC Partner, Portfolio Ops",9.9
+Solutions for Agencies,Pillar,/solutions/it-consulting-firms/,nearshore for it consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.7
+Solutions for Agencies,Pillar,/solutions/management-consulting-firms/,nearshore for management consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.6
+Industries,Pillar,/industries/gaming-esports/,nearshore for gaming and esports,N/A,Landing Page,MOFU,"Studio Head, Esports Manager",9.5
+Industries,Pillar,/industries/professional-sports/,nearshore for professional sports,N/A,Landing Page,MOFU,"COO, Head of Analytics (Team)",9.3
+Industries,Pillar,/industries/printing-packaging/,nearshore for printing and packaging,nearshore for printing companies,Landing Page,MOFU,"Owner, Production Manager",9
+Industries,Pillar,/industries/fisheries-aquaculture/,nearshore for fisheries and aquaculture,nearshore for aquaculture,Landing Page,MOFU,"COO, Farm Manager",9.1
+Resources,Leaf,/resources/it-outsourcing-governance-framework/,IT outsourcing governance framework,N/A,Guide / Whitepaper,MOFU,"CIO, IT Director",9.3
+Resources,Leaf,/resources/global-talent-acquisition-strategy/,global talent acquisition strategy,N/A,Guide,MOFU,"CHRO, Head of Talent",9.2
+Solutions,Pillar,/solutions/business-process-reengineering/,business process reengineering outsourcing,N/A,Landing Page,MOFU,"COO, Head of Ops",9.4
+Solutions,Pillar,/solutions/it-infrastructure-outsourcing/,IT infrastructure outsourcing,N/A,Landing Page,MOFU,"Head of Infrastructure, CIO",9.6
+Solutions,Pillar,/solutions/application-development-outsourcing/,application development outsourcing,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Solutions,Pillar,/solutions/finance-accounting-outsourcing/,finance and accounting outsourcing,f&a outsourcing,Landing Page,MOFU,"CFO, Controller",9.8
+Solutions,Pillar,/solutions/human-resources-outsourcing/,human resources outsourcing,hr outsourcing,Landing Page,MOFU,"CHRO, HR Director",9.7
+Solutions,Pillar,/solutions/customer-service-outsourcing/,customer service outsourcing,N/A,Landing Page,MOFU,"Head of CX, COO",9.8
+Solutions,Pillar,/solutions/sales-outsourcing/,sales outsourcing,outsourced sales,Landing Page,MOFU,"CRO, Head of Sales",9.6
+Solutions,Pillar,/solutions/marketing-outsourcing/,marketing outsourcing,N/A,Landing Page,MOFU,"CMO, Marketing Director",9.7
+Solutions,Pillar,/solutions/legal-process-outsourcing/,legal process outsourcing,N/A,Landing Page,MOFU,"General Counsel, CCO",9.6
+Solutions,Pillar,/solutions/knowledge-process-outsourcing/,knowledge process outsourcing,N/A,Landing Page,MOFU,"COO, Head of Research",9.5
+Solutions,Pillar,/solutions/research-development-outsourcing/,research and development outsourcing,N/A,Landing Page,MOFU,"Head of R&D, CTO",9.4
+Solutions,Pillar,/solutions/engineering-services-outsourcing/,engineering services outsourcing,N/A,Landing Page,MOFU,VP of Engineering,9.6
+Solutions,Pillar,/solutions/supply-chain-outsourcing/,supply chain outsourcing,N/A,Landing Page,MOFU,"Supply Chain Director, COO",9.4
+Solutions,Pillar,/solutions/procurement-outsourcing/,procurement outsourcing,N/A,Landing Page,MOFU,"Head of Procurement, CFO",9.3
+Solutions,Pillar,/solutions/logistics-outsourcing/,logistics outsourcing,N/A,Landing Page,MOFU,"Logistics Director, COO",9.5
+Solutions,Pillar,/solutions/administrative-outsourcing/,administrative outsourcing,administrative services,Landing Page,MOFU,"COO, Executive",9.2
+Solutions,Pillar,/solutions/call-center-outsourcing/,call center outsourcing,call center services,Landing Page,MOFU,"Head of CX, COO",9.7
+Solutions,Pillar,/solutions/data-entry-outsourcing/,data entry outsourcing,N/A,Landing Page,MOFU,"Operations Manager, COO",9.3
+Solutions,Pillar,/solutions/software-testing-outsourcing/,software testing outsourcing,software testing,Landing Page,MOFU,"QA Lead, Head of Eng.",9.6
+Resources,Leaf,/resources/what-is-a-global-team/,what is a global team,N/A,Guide,TOFU,"CHRO, CEO, Founder",9.1
+Comparison,Pillar,/comparison/best-outsourcing-companies/,best outsourcing companies,top outsourcing companies,Comparison Page,MOFU,"COO, CEO, Founder",9.7
+Comparison,Pillar,/comparison/top-software-development-companies/,top software development companies,best software development companies,Comparison Page,MOFU,"CTO, Founder",9.8
+Comparison,Pillar,/comparison/top-it-outsourcing-companies/,top it outsourcing companies,best it outsourcing companies,Comparison Page,MOFU,"CIO, IT Director",9.7
+Comparison,Pillar,/comparison/top-bpo-companies/,top bpo companies,best bpo companies,Comparison Page,MOFU,"COO, Head of Ops",9.5
+Comparison,Pillar,/comparison/best-accounting-firms/,best accounting firms,top accounting firms,Comparison Page,MOFU,"CFO, Controller",9.3
+Comparison,Pillar,/comparison/best-staffing-agencies/,best staffing agencies,top staffing agencies,Comparison Page,MOFU,"HR Director, COO",9.4
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-coder/,hire a coder,N/A,Landing Page,BOFU,"CTO, Founder",8.9
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-dev/,hire a dev,N/A,Landing Page,BOFU,"CTO, Founder",8.8
+Enterprise Solutions,Pillar,/solutions/enterprise/,nearshore for enterprise,nearshore for enterprise companies,Landing Page,MOFU,"CIO, COO, Department Head",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/enterprise-architecture/,outsourced enterprise architecture,N/A,Landing Page,MOFU,"Chief Architect, CTO",9.9
+IT Staffing,Leaf,/nearshore-it-staffing/systems-integration/,nearshore for systems integration,N/A,Landing Page,MOFU,"CIO, IT Director",9.6
+Resources,Leaf,/resources/digital-maturity/,nearshore for digital maturity,N/A,Guide / Assessment,MOFU,"CEO, CIO, Chief Digital Officer",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/application-modernization/,nearshore for application modernization,nearshore for legacy system modernization,Landing Page,MOFU,"CIO, Enterprise Architect",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-infrastructure-management/,outsourced it infrastructure management,nearshore for IT infrastructure,Landing Page,MOFU,"Head of Infrastructure, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/sap-consulting/,nearshore for SAP consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/oracle-consulting/,nearshore for Oracle consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.6
+IT Staffing,Leaf,/nearshore-it-staffing/servicenow-consulting/,nearshore for ServiceNow consulting,N/A,Landing Page,BOFU,"IT Director, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-project-management/,outsourced IT project management,N/A,Landing Page,MOFU,"PMO Director, IT Director",9.4
+Solutions,Pillar,/solutions/business-process-management/,nearshore business process management,business process reengineering outsourcing,Landing Page,MOFU,"COO, Head of Ops",9.3
+Solutions,Pillar,/solutions/quality-management/,nearshore for quality management,outsourced quality management system,Landing Page,MOFU,"Head of Quality, COO",9.2
+Solutions,Pillar,/solutions/compliance-risk/,nearshore for compliance and risk,outsourced risk management services,Landing Page,MOFU,"CCO, Chief Risk Officer",9.7
+Solutions,Pillar,/solutions/corporate-development/,nearshore for corporate development,outsourced corporate development,Landing Page,MOFU,"Head of Corp Dev, CFO",9.5
+Resources,Leaf,/resources/global-operating-model/,global operating model,what is a global delivery model,Guide / Whitepaper,MOFU,"COO, CEO, Head of Strategy",9.3
+Comparison,Leaf,/comparison/cognizant-vs-infosys/,Cognizant vs Infosys,N/A,Comparison Page,MOFU,"CIO, IT Director",9
+Creative Services,Leaf,/nearshore-creative/illustrator/,hire an illustrator nearshore,N/A,Landing Page,BOFU,"Creative Director, Marketing Mgr",8.9
+Creative Services,Leaf,/nearshore-creative/ux-researcher/,hire a ux researcher nearshore,N/A,Landing Page,BOFU,"UX Lead, Head of Product",9.2
+Creative Services,Leaf,/nearshore-creative/motion-designer/,hire a motion designer nearshore,N/A,Landing Page,BOFU,"Marketing Director, Creative Lead",9
+IT Staffing,Leaf,/nearshore-it-staffing/it-audit-services/,outsourced it audit services,nearshore IT audit services,Landing Page,MOFU,"CISO, Head of Compliance",9.6
+HR Solutions,Pillar,/solutions/talent-management/,nearshore for talent management,N/A,Landing Page,MOFU,"CHRO, HR Director",9.4
+HR Solutions,Pillar,/solutions/workforce-management/,outsourced workforce management,N/A,Landing Page,MOFU,"HR Director, COO",9.3
+Solutions,Pillar,/solutions/change-management/,nearshore for change management,N/A,Landing Page,MOFU,"Head of HR, COO, CEO",9.5
+Solutions,Pillar,/solutions/corporate-training/,nearshore for corporate training,N/A,Landing Page,MOFU,"Head of L&D, Training Mgr",9.2
+Solutions,Pillar,/solutions/e-discovery-litigation-support/,nearshore for e-discovery and litigation support,N/A,Landing Page,MOFU,"General Counsel, Litigation Support",9.5
+Solutions,Pillar,/solutions/contract-management/,nearshore for contract management,N/A,Landing Page,MOFU,"General Counsel, COO",9.4
+Solutions,Pillar,/solutions/knowledge-management/,nearshore for knowledge management,N/A,Landing Page,MOFU,"COO, Head of Ops",9.3
+Solutions,Pillar,/solutions/bcdr/,nearshore for business continuity and disaster recovery,nearshore for business continuity,Landing Page,MOFU,"CISO, COO, CIO",9.5
+Solutions,Pillar,/solutions/cybersecurity-data-privacy/,nearshore for cybersecurity and data privacy,nearshore for data privacy,Landing Page,MOFU,"CISO, Chief Privacy Officer",9.8
+Solutions,Pillar,/solutions/cloud-devops/,nearshore for cloud and devops,N/A,Landing Page,MOFU,"CTO, Head of Infrastructure",9.7
+Solutions,Pillar,/solutions/data-ai/,nearshore for data and ai,N/A,Landing Page,MOFU,"Chief Data Officer, Head of AI",9.8
+Solutions,Pillar,/solutions/software-engineering/,nearshore for software engineering,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Solutions,Pillar,/solutions/creative-design/,nearshore for creative and design,N/A,Landing Page,MOFU,"CMO, Creative Director",9.3
+Solutions,Pillar,/solutions/marketing-sales/,nearshore for marketing and sales,N/A,Landing Page,MOFU,"CMO, CRO",9.6
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-sales-team/,hire a sales team,N/A,Landing Page,BOFU,"CRO, Head of Sales",9
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-marketing-team/,hire a marketing team,N/A,Landing Page,BOFU,"CMO, Marketing Director",9.1
+IT Staffing,Leaf,/nearshore-it-staffing/hire-an-accountant/,hire an accountant,N/A,Landing Page,BOFU,"CFO, Controller, Owner",8.8
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-bookkeeper/,hire a bookkeeper,N/A,Landing Page,BOFU,"CFO, Controller, Owner",8.7
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-tax-accountant/,hire a tax accountant,N/A,Landing Page,BOFU,"CFO, Controller",9.1
+IT Staffing,Leaf,/nearshore-it-staffing/hire-a-sales-rep/,hire a sales rep,N/A,Landing Page,BOFU,"CRO, Head of Sales",8.5
+Foundational Solutions,Leaf,/solutions/hire-a-team/,hire a team,"hire team, find a team, find team",Landing Page,BOFU,"CEO, CTO, Founder",9.4
+HR Solutions,Leaf,/solutions/hire-an-executive/,hire an executive,find an executive,Landing Page,BOFU,"CEO, Board, CHRO",9.4
+HR Solutions,Leaf,/solutions/hire-an-assistant/,hire an assistant,find an assistant,Landing Page,BOFU,"Executive, Founder, Manager",8.9
+Sales Solutions,Leaf,/nearshore-sales/hire-a-salesperson/,hire a salesperson,find a salesperson,Landing Page,BOFU,"CRO, Head of Sales",8.7
+Marketing Solutions,Leaf,/nearshore-marketing/hire-a-marketer/,hire a marketer,find a marketer,Landing Page,BOFU,"CMO, Marketing Director",8.8
+HR Solutions,Spoke,/comparison/executive-recruiting-firms/,executive recruiting firms,N/A,Comparison Page,MOFU,"CEO, Board, CHRO",9.3
+IT Staffing,Leaf,/nearshore-it-staffing/developers-for-hire/,developers for hire,developer for hire,Landing Page,BOFU,"CTO, Founder",9.7
+IT Staffing,Spoke,/comparison/offshore-companies/,offshore companies,"off shore companies, offshore company",Comparison Page,TOFU,"Founder, COO, CEO",9.3
+HR Solutions,Spoke,/comparison/offshore-recruitment/,offshore recruitment,offshore recruiting,Comparison Page,MOFU,"HR Director, COO",9
+Foundational Solutions,Spoke,/comparison/offshoring-services/,offshoring,"off shoring, off shore, offshore services",Comparison Page,TOFU,"Founder, COO, CEO",9.1
+IT Staffing,Spoke,/comparison/it-staffing-agencies-near-me/,it staffing agencies near me,N/A,Comparison Page,BOFU,"IT Director, CIO",9.1
+HR Solutions,Leaf,/rpo/it-recruiter/,it recruiter,technology recruiter,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+IT Staffing,Leaf,/solutions/hire-a-team-of-developers/,hire a team of developers,hire developer team,Landing Page,BOFU,"CTO, Founder",9.7
+Resources,Leaf,/resources/hiring-a-software-developer/,hiring a software developer,hiring a developer,Guide,MOFU,"CTO, Founder",9.7
+HR Solutions,Pillar,/solutions/employment-agency/,employment agency,N/A,Landing Page,MOFU,"HR Director, COO",8.9
+IT Staffing,Pillar,/solutions/dev-team/,dev team,developer team,Landing Page,MOFU,"CTO, VP of Engineering",9.5
+Creative Solutions,Pillar,/solutions/design-outsourcing/,design outsourcing,N/A,Landing Page,MOFU,"CMO, Creative Director",9.1
+Accounting Solutions,Pillar,/solutions/accounting-outsourcing/,accounting outsourcing,N/A,Landing Page,MOFU,"CFO, Controller",9.1
+Resources,Leaf,/resources/what-is-software-testing/,software testing,N/A,Guide,TOFU,"QA Lead, Head of Eng.",9.5
+Solutions,Pillar,/solutions/help-desk-support/,help desk support,help desk,Landing Page,MOFU,"IT Director, Head of Support",9.1
+IT Staffing,Leaf,/solutions/software-engineers-for-hire/,software engineers for hire,software developer for hire,Landing Page,BOFU,"CTO, Founder",9.8
+Accounting Solutions,Pillar,/solutions/payroll-outsourcing/,payroll outsourcing,outsource payroll,Landing Page,MOFU,"HR Director, CFO",9.2
+Comparison,Leaf,/comparison/offshore-services/,offshore services,off shoring services,Comparison Page,TOFU,"Founder, COO, CEO",9.2
+IT Staffing,Pillar,/solutions/it-solutions/,it solutions,"it service, it services",Landing Page,MOFU,"CIO, IT Director",9.5
+Careers,Leaf,/careers/,jobs hiring,"now hiring, we are hiring",Landing Page,BOFU,Job Seeker,8
+Resources,Leaf,/resources/hiring-a-developer/,hiring a developer,N/A,Guide,MOFU,"CTO, Founder",9.6
+Comparison,Pillar,/comparison/best-recruitment-agencies/,best recruitment agencies,N/A,Comparison Page,BOFU,"HR Director, Hiring Manager",8.9
+IT Staffing,Pillar,/solutions/outsource-development/,outsource development,outsource software,Landing Page,MOFU,"CTO, Founder",9.5
+Comparison,Leaf,/comparison/offshore-web-development/,offshore web development,N/A,Comparison Page,MOFU,"CTO, Founder",9.3
+Support Solutions,Leaf,/nearshore-support/it-support-specialist/,it support specialist,N/A,Landing Page,BOFU,"IT Director, CIO",8.8
+IT Staffing,Spoke,/comparison/best-it-staffing-companies/,best it staffing companies,"top 10 it staffing companies, best it staffing agencies",Comparison Page,BOFU,"IT Director, CIO",9.3
+Comparison,Leaf,/comparison/offshore-payroll/,offshore payroll,N/A,Comparison Page,MOFU,"HR Director, CFO",9
+Careers,Leaf,/careers/i-need-a-job/,i need a job,"i'm looking for a job, i want a job",Landing Page,BOFU,Job Seeker,8
+IT Staffing,Pillar,/solutions/technical-staffing/,technical staffing,technical recruitment,Landing Page,MOFU,"IT Director, CIO",9.2
+IT Staffing,Pillar,/solutions/custom-software-development/,custom software development,custom software development services,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+Solutions,Pillar,/solutions/business-process-services/,business process services,N/A,Landing Page,MOFU,"COO, Founder",9.3
+HR Solutions,Leaf,/rpo/tech-recruiter/,tech recruiter,N/A,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+Accounting Solutions,Pillar,/solutions/tax-services/,tax services,N/A,Landing Page,MOFU,"CFO, Controller",9.2
+Support Solutions,Leaf,/nearshore-support/systems-administrator/,systems administrator,N/A,Landing Page,BOFU,IT Director,8.8
+HR Solutions,Spoke,/comparison/staff-augmentation-firm/,staff augmentation firm,"staff augmentation company, staff augmentation companies",Comparison Page,BOFU,"IT Director, CTO",9.4
+Solutions for Agencies,Pillar,/solutions/it-consulting-firms/,nearshore for it consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.7
+Solutions for Agencies,Pillar,/solutions/management-consulting-firms/,nearshore for management consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.6
+Solutions for Agencies,Pillar,/solutions/creative-agencies/,nearshore for creative agencies,N/A,Landing Page,MOFU,"Agency Owner, COO",9.2
+Solutions for Agencies,Pillar,/solutions/software-development-agencies/,nearshore for software development agencies,N/A,Landing Page,MOFU,"Agency Owner, CTO",9.4
+Solutions for Agencies,Pillar,/solutions/pr-firms/,nearshore for public relations firms,N/A,Landing Page,MOFU,"Agency Owner, President",9.1
+Solutions for Agencies,Pillar,/solutions/market-research-companies/,nearshore for market research companies,N/A,Landing Page,MOFU,"Head of Research, Partner",9.2
+Solutions for Agencies,Pillar,/solutions/architectural-firms/,nearshore for architectural firms,N/A,Landing Page,MOFU,"Firm Principal, Partner",9.1
+Solutions for Agencies,Leaf,/solutions/market-research-companies/white-label/,white label market research,N/A,Landing Page,BOFU,"Agency Owner, Head of Research",8.9
+Solutions for Agencies,Leaf,/solutions/consulting-firms/it-services/,outsourced it for consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Ops",9.4
+Solutions for Partners,Pillar,/solutions/bpos/,nearshore for business process outsourcers,N/A,Landing Page,MOFU,"BPO Owner, COO",9.3
+Solutions for Partners,Pillar,/solutions/independent-sponsors/,nearshore for independent sponsors,N/A,Landing Page,MOFU,"Independent Sponsor, Principal",9.5
+Solutions for Partners,Pillar,/solutions/search-funds/,nearshore for search funds,N/A,Landing Page,MOFU,"Searcher, Principal",9.4
+Solutions for Partners,Pillar,/solutions/corporate-venture-capital/,nearshore for corporate venture capital,N/A,Landing Page,MOFU,"CVC Partner, Head of Innovation",9.6
+Solutions for Partners,Pillar,/solutions/family-businesses/,nearshore for family businesses,N/A,Landing Page,MOFU,"Owner, CEO, Next-Gen Leader",9.2
+Solutions for Partners,Pillar,/solutions/holding-companies/,nearshore for holding companies,N/A,Landing Page,MOFU,"CEO, Partner, Portfolio Ops",9.5
+Foundational Solutions,Pillar,/solutions/it-infrastructure-outsourcing/,IT infrastructure outsourcing,N/A,Landing Page,MOFU,"Head of Infrastructure, CIO",9.6
+Foundational Solutions,Pillar,/solutions/application-development-outsourcing/,application development outsourcing,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Foundational Solutions,Pillar,/solutions/finance-accounting-outsourcing/,finance and accounting outsourcing,f&a outsourcing,Landing Page,MOFU,"CFO, Controller",9.8
+Foundational Solutions,Pillar,/solutions/human-resources-outsourcing/,human resources outsourcing,N/A,Landing Page,MOFU,"CHRO, HR Director",9.7
+Foundational Solutions,Pillar,/solutions/customer-service-outsourcing/,customer service outsourcing,N/A,Landing Page,MOFU,"Head of CX, COO",9.8
+Foundational Solutions,Leaf,/solutions/hire-a-team/,hire a team,"hire team, find a team, find team",Landing Page,BOFU,"CEO, CTO, Founder",9.4
+HR Solutions,Leaf,/solutions/hire-an-executive/,hire an executive,find an executive,Landing Page,BOFU,"CEO, Board, CHRO",9.4
+HR Solutions,Leaf,/solutions/hire-an-assistant/,hire an assistant,find an assistant,Landing Page,BOFU,"Executive, Founder, Manager",8.9
+Sales Solutions,Leaf,/nearshore-sales/hire-a-salesperson/,hire a salesperson,find a salesperson,Landing Page,BOFU,"CRO, Head of Sales",8.7
+Marketing Solutions,Leaf,/nearshore-marketing/hire-a-marketer/,hire a marketer,find a marketer,Landing Page,BOFU,"CMO, Marketing Director",8.8
+HR Solutions,Spoke,/comparison/executive-recruiting-firms/,executive recruiting firms,N/A,Comparison Page,MOFU,"CEO, Board, CHRO",9.3
+IT Staffing,Leaf,/nearshore-it-staffing/developers-for-hire/,developers for hire,developer for hire,Landing Page,BOFU,"CTO, Founder",9.7
+Comparison,Spoke,/comparison/offshore-companies/,offshore companies,"off shore companies, offshore company",Comparison Page,TOFU,"Founder, COO, CEO",9.3
+HR Solutions,Spoke,/comparison/offshore-recruitment/,offshore recruitment,offshore recruiting,Comparison Page,MOFU,"HR Director, COO",9
+Foundational Solutions,Spoke,/comparison/offshoring-services/,offshoring,"off shoring, off shore, offshore services",Comparison Page,TOFU,"Founder, COO, CEO",9.1
+IT Staffing,Spoke,/comparison/it-staffing-agencies-near-me/,it staffing agencies near me,N/A,Comparison Page,BOFU,"IT Director, CIO",9.1
+HR Solutions,Leaf,/rpo/it-recruiter/,it recruiter,technology recruiter,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+IT Staffing,Leaf,/solutions/hire-a-team-of-developers/,hire a team of developers,hire developer team,Landing Page,BOFU,"CTO, Founder",9.7
+Resources,Leaf,/resources/hiring-a-software-developer/,hiring a software developer,hiring a developer,Guide,MOFU,"CTO, Founder",9.7
+HR Solutions,Pillar,/solutions/employment-agency/,employment agency,N/A,Landing Page,MOFU,"HR Director, COO",8.9
+IT Staffing,Pillar,/solutions/dev-team/,dev team,developer team,Landing Page,MOFU,"CTO, VP of Engineering",9.5
+Creative Solutions,Pillar,/solutions/design-outsourcing/,design outsourcing,N/A,Landing Page,MOFU,"CMO, Creative Director",9.1
+Accounting Solutions,Pillar,/solutions/accounting-outsourcing/,accounting outsourcing,N/A,Landing Page,MOFU,"CFO, Controller",9.1
+Resources,Leaf,/resources/what-is-software-testing/,software testing,N/A,Guide,TOFU,"QA Lead, Head of Eng.",9.5
+Solutions,Pillar,/solutions/help-desk-support/,help desk support,help desk,Landing Page,MOFU,"IT Director, Head of Support",9.1
+IT Staffing,Leaf,/solutions/software-engineers-for-hire/,software engineers for hire,software developer for hire,Landing Page,BOFU,"CTO, Founder",9.8
+Accounting Solutions,Pillar,/solutions/payroll-outsourcing/,payroll outsourcing,outsource payroll,Landing Page,MOFU,"HR Director, CFO",9.2
+Comparison,Leaf,/comparison/offshore-services/,offshore services,off shoring services,Comparison Page,TOFU,"Founder, COO, CEO",9.2
+IT Staffing,Pillar,/solutions/it-solutions/,it solutions,"it service, it services",Landing Page,MOFU,"CIO, IT Director",9.5
+Careers,Leaf,/careers/,jobs hiring,"now hiring, we are hiring",Landing Page,BOFU,Job Seeker,8
+Resources,Leaf,/resources/hiring-a-developer/,hiring a developer,N/A,Guide,MOFU,"CTO, Founder",9.6
+Comparison,Pillar,/comparison/best-recruitment-agencies/,best recruitment agencies,N/A,Comparison Page,BOFU,"HR Director, Hiring Manager",8.9
+IT Staffing,Pillar,/solutions/outsource-development/,outsource development,outsource software,Landing Page,MOFU,"CTO, Founder",9.5
+Comparison,Leaf,/comparison/offshore-web-development/,offshore web development,N/A,Comparison Page,MOFU,"CTO, Founder",9.3
+Support Solutions,Leaf,/nearshore-support/it-support-specialist/,it support specialist,N/A,Landing Page,BOFU,"IT Director, CIO",8.8
+Comparison,Spoke,/comparison/best-it-staffing-companies/,best it staffing companies,"top 10 it staffing companies, best it staffing agencies",Comparison Page,BOFU,"IT Director, CIO",9.3
+Comparison,Leaf,/comparison/offshore-payroll/,offshore payroll,N/A,Comparison Page,MOFU,"HR Director, CFO",9
+Careers,Leaf,/careers/i-need-a-job/,i need a job,"i'm looking for a job, i want a job",Landing Page,BOFU,Job Seeker,8
+IT Staffing,Pillar,/solutions/technical-staffing/,technical staffing,technical recruitment,Landing Page,MOFU,"IT Director, CIO",9.2
+IT Staffing,Pillar,/solutions/custom-software-development/,custom software development,custom software development services,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+Solutions,Pillar,/solutions/business-process-services/,business process services,N/A,Landing Page,MOFU,"COO, Founder",9.3
+HR Solutions,Leaf,/rpo/tech-recruiter/,tech recruiter,N/A,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+Accounting Solutions,Pillar,/solutions/tax-services/,tax services,N/A,Landing Page,MOFU,"CFO, Controller",9.2
+Support Solutions,Leaf,/nearshore-support/systems-administrator/,systems administrator,N/A,Landing Page,BOFU,IT Director,8.8
+Comparison,Spoke,/comparison/staff-augmentation-firm/,staff augmentation firm,"staff augmentation company, staff augmentation companies",Comparison Page,BOFU,"IT Director, CTO",9.4
+Foundational Solutions,Pillar,/solutions/it-staffing-agencies/,it staffing agencies,"it staffing company, it staffing companies",Comparison Page,BOFU,"IT Director, CIO",9.5
+Foundational Solutions,Pillar,/solutions/hr-staffing-agencies/,hr staffing agencies,N/A,Comparison Page,MOFU,"HR Director, COO",8.9
+IT Staffing,Pillar,/solutions/software-developer-staffing-agencies/,software developer staffing agencies,software developer recruiters,Comparison Page,BOFU,"CTO, Founder",9.4
+IT Staffing,Pillar,/solutions/custom-software-development-company/,custom software development company,development company,Comparison Page,BOFU,"CTO, VP of Engineering",9.6
+Foundational Solutions,Pillar,/solutions/business-services-company/,business services company,N/A,Comparison Page,BOFU,"COO, Founder",9.2
+Foundational Solutions,Pillar,/solutions/bpo-company/,bpo company,N/A,Comparison Page,BOFU,"COO, Head of Ops",9.3
+Accounting Solutions,Pillar,/solutions/accounting-services/,accounting services,N/A,Landing Page,MOFU,"CFO, Controller",9.1
+IT Staffing,Spoke,/comparison/offshore-it/,offshore it,N/A,Comparison Page,MOFU,"CIO, IT Director",9.5
+Foundational Solutions,Pillar,/solutions/it-company/,it company,"it service companies, it companies",Comparison Page,BOFU,"CIO, IT Director",8.8
+Careers,Leaf,/careers/i-want-to-work/,i want to work,"i'm looking for a job now, get me a job",Landing Page,BOFU,Job Seeker,8
+Careers,Leaf,/careers/find-developer-job/,find developer job,developer jobs,Landing Page,BOFU,Job Seeker,8.2
+Design & Creative,Pillar,/solutions/design-outsourcing/,design outsourcing,N/A,Landing Page,MOFU,"CMO, Creative Director",9.1
+IT Staffing,Spoke,/solutions/dedicated-hosting-talent/,dedicated hosting,N/A,Landing Page,BOFU,"IT Director, CTO",8.8
+Foundational Solutions,Spoke,/comparison/best-it-staffing-agencies/,best it staffing agencies,N/A,Comparison Page,BOFU,"IT Director, CIO",9.3
+Resources,Leaf,/resources/what-is-a-global-workforce/,what is a global workforce,N/A,Guide,TOFU,"CHRO, CEO, Head of HR",9.3
+HR Solutions,Pillar,/solutions/talent-density/,talent density,N/A,Guide,MOFU,"CEO, CHRO, Founder",9.2
+IT Staffing,Leaf,/nearshore-it-staffing/it-asset-management/,nearshore it asset management,N/A,Landing Page,MOFU,"IT Director, CIO",9.4
+IT Staffing,Leaf,/nearshore-it-staffing/it-procurement/,outsourced it procurement,N/A,Landing Page,MOFU,"Head of Procurement, IT Director",9.3
+Private Equity Solutions,Leaf,/solutions/private-equity/operations/,nearshore for private equity operations,N/A,Landing Page,MOFU,"Portfolio Ops, Operating Partner",9.8
+Venture Capital Solutions,Leaf,/solutions/venture-capital/operations/,nearshore for venture capital operations,N/A,Landing Page,MOFU,"Head of Platform, COO (VC)",9.7
+Industries,Leaf,/industries/mining/technology/,nearshore for mining technology,N/A,Landing Page,MOFU,"CTO, Head of Innovation (Mining)",9.5
+Industries,Pillar,/industries/fisheries-aquaculture/,nearshore for fisheries and aquaculture,N/A,Landing Page,MOFU,"COO, Farm Manager",9.1
+Industries,Pillar,/industries/forestry-paper/,nearshore for forestry and paper,N/A,Landing Page,MOFU,"COO, Plant Manager",9.2
+Travel & Hospitality,Leaf,/industries/travel-tourism/business-travel/,nearshore for business travel,N/A,Landing Page,MOFU,"Travel Manager, COO",9.1
+Travel & Hospitality,Leaf,/industries/travel-tourism/leisure-travel/,nearshore for leisure travel,N/A,Landing Page,MOFU,"Agency Owner, Head of Ops",9
+Travel & Hospitality,Leaf,/industries/travel-tourism/luxury-travel/,nearshore for luxury travel,N/A,Landing Page,MOFU,"Agency Owner, Travel Advisor",9.2
+Media & Entertainment,Leaf,/industries/media-entertainment/professional-sports/,nearshore for professional sports,N/A,Landing Page,MOFU,"COO, Head of Analytics (Team)",9.3
+HR Solutions,Pillar,/solutions/talent-acquisition/,talent acquisition,N/A,Guide,TOFU,"HR Director, CHRO",9
+HR Solutions,Leaf,/solutions/hire-an-employee/,hire an employee,N/A,Landing Page,BOFU,"HR Director, Hiring Manager",9.2
+HR Solutions,Leaf,/solutions/find-employees/,find employees,N/A,Landing Page,BOFU,"HR Director, Founder",9.3
+HR Solutions,Leaf,/resources/employee-onboarding-checklist/,employee onboarding,N/A,Guide / Checklist,TOFU,"HR Director, Manager",8.9
+Sales Solutions,Pillar,/solutions/sales-outsourcing/,sales outsourcing,N/A,Landing Page,MOFU,"CRO, Head of Sales",9.5
+HR Solutions,Spoke,/comparison/recruiting-firms-vs-nearshoring/,recruiting firms,N/A,Comparison Page,MOFU,"HR Director, Hiring Manager",9.1
+Support Solutions,Pillar,/solutions/it-support-services/,it support services,N/A,Landing Page,MOFU,"IT Director, CIO",9.6
+Support Solutions,Pillar,/solutions/back-office-services/,back office services,N/A,Landing Page,MOFU,"COO, Operations Manager",9.3
+Support Solutions,Pillar,/solutions/administrative-services/,administrative services,N/A,Landing Page,MOFU,"COO, Executive",9.1
+HR Solutions,Leaf,/solutions/hire-employees/,hire employees,N/A,Landing Page,BOFU,"HR Director, Hiring Manager",9.2
+HR Solutions,Leaf,/solutions/find-an-employee/,find an employee,N/A,Landing Page,BOFU,"HR Director, Hiring Manager",9.1
+Careers,Leaf,/careers/remote-jobs/,find a remote job,N/A,Landing Page,BOFU,Job Seeker,8.5
+HR Solutions,Leaf,/solutions/hire-staff/,hire staff,N/A,Landing Page,BOFU,"HR Director, COO",9
+HR Solutions,Leaf,/solutions/find-staff/,find staff,N/A,Landing Page,BOFU,"HR Director, COO",8.9
+Enterprise Solutions,Pillar,/solutions/enterprise/,nearshore for enterprise,nearshore for enterprise companies,Landing Page,MOFU,"CIO, COO, Department Head",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/enterprise-architecture/,outsourced enterprise architecture,N/A,Landing Page,MOFU,"Chief Architect, CTO",9.9
+IT Staffing,Leaf,/nearshore-it-staffing/systems-integration/,nearshore for systems integration,N/A,Landing Page,MOFU,"CIO, IT Director",9.6
+Resources,Leaf,/resources/digital-maturity/,nearshore for digital maturity,N/A,Guide / Assessment,MOFU,"CEO, CIO, Chief Digital Officer",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/application-modernization/,nearshore for application modernization,nearshore for legacy system modernization,Landing Page,MOFU,"CIO, Enterprise Architect",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-infrastructure-management/,outsourced it infrastructure management,nearshore for IT infrastructure,Landing Page,MOFU,"Head of Infrastructure, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/sap-consulting/,nearshore for SAP consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/oracle-consulting/,nearshore for Oracle consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.6
+IT Staffing,Leaf,/nearshore-it-staffing/servicenow-consulting/,nearshore for ServiceNow consulting,N/A,Landing Page,BOFU,"IT Director, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-project-management/,outsourced IT project management,N/A,Landing Page,MOFU,"PMO Director, IT Director",9.4
+Solutions,Pillar,/solutions/business-process-management/,nearshore business process management,business process reengineering outsourcing,Landing Page,MOFU,"COO, Head of Ops",9.3
+Solutions,Pillar,/solutions/quality-management/,nearshore for quality management,outsourced quality management system,Landing Page,MOFU,"Head of Quality, COO",9.2
+Solutions,Pillar,/solutions/compliance-risk/,nearshore for compliance and risk,outsourced risk management services,Landing Page,MOFU,"CCO, Chief Risk Officer",9.7
+Solutions,Pillar,/solutions/corporate-development/,nearshore for corporate development,outsourced corporate development,Landing Page,MOFU,"Head of Corp Dev, CFO",9.5
+Resources,Leaf,/resources/global-operating-model/,global operating model,what is a global delivery model,Guide / Whitepaper,MOFU,"COO, CEO, Head of Strategy",9.3
+Comparison,Leaf,/comparison/cognizant-vs-infosys/,Cognizant vs Infosys,N/A,Comparison Page,MOFU,"CIO, IT Director",9
+Creative Services,Leaf,/nearshore-creative/illustrator/,hire an illustrator nearshore,N/A,Landing Page,BOFU,"Creative Director, Marketing Mgr",8.9
+Creative Services,Leaf,/nearshore-creative/ux-researcher/,hire a ux researcher nearshore,N/A,Landing Page,BOFU,"UX Lead, Head of Product",9.2
+Creative Services,Leaf,/nearshore-creative/motion-designer/,hire a motion designer nearshore,N/A,Landing Page,BOFU,"Marketing Director, Creative Lead",9
+IT Staffing,Leaf,/nearshore-it-staffing/it-audit-services/,outsourced it audit services,nearshore IT audit services,Landing Page,MOFU,"CISO, Head of Compliance",9.6
+Solutions for Agencies,Pillar,/solutions/it-consulting-firms/,nearshore for it consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.7
+Solutions for Agencies,Pillar,/solutions/management-consulting-firms/,nearshore for management consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.6
+Solutions for Agencies,Pillar,/solutions/creative-agencies/,nearshore for creative agencies,N/A,Landing Page,MOFU,"Agency Owner, COO",9.2
+Solutions for Agencies,Pillar,/solutions/software-development-agencies/,nearshore for software development agencies,N/A,Landing Page,MOFU,"Agency Owner, CTO",9.4
+Solutions for Agencies,Pillar,/solutions/pr-firms/,nearshore for public relations firms,N/A,Landing Page,MOFU,"Agency Owner, President",9.1
+Solutions for Agencies,Pillar,/solutions/market-research-companies/,nearshore for market research companies,N/A,Landing Page,MOFU,"Head of Research, Partner",9.2
+Solutions for Agencies,Pillar,/solutions/architectural-firms/,nearshore for architectural firms,N/A,Landing Page,MOFU,"Firm Principal, Partner",9.1
+Solutions for Agencies,Leaf,/solutions/market-research-companies/white-label/,white label market research,N/A,Landing Page,BOFU,"Agency Owner, Head of Research",8.9
+Solutions for Agencies,Leaf,/solutions/consulting-firms/it-services/,outsourced it for consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Ops",9.4
+Solutions for Partners,Pillar,/solutions/bpos/,nearshore for business process outsourcers,N/A,Landing Page,MOFU,"BPO Owner, COO",9.3
+Solutions for Partners,Pillar,/solutions/independent-sponsors/,nearshore for independent sponsors,N/A,Landing Page,MOFU,"Independent Sponsor, Principal",9.5
+Solutions for Partners,Pillar,/solutions/search-funds/,nearshore for search funds,N/A,Landing Page,MOFU,"Searcher, Principal",9.4
+Solutions for Partners,Pillar,/solutions/corporate-venture-capital/,nearshore for corporate venture capital,N/A,Landing Page,MOFU,"CVC Partner, Head of Innovation",9.6
+Solutions for Partners,Pillar,/solutions/family-businesses/,nearshore for family businesses,N/A,Landing Page,MOFU,"Owner, CEO, Next-Gen Leader",9.2
+Solutions for Partners,Pillar,/solutions/holding-companies/,nearshore for holding companies,N/A,Landing Page,MOFU,"CEO, Partner, Portfolio Ops",9.5
+Foundational Solutions,Pillar,/solutions/it-infrastructure-outsourcing/,IT infrastructure outsourcing,N/A,Landing Page,MOFU,"Head of Infrastructure, CIO",9.6
+Foundational Solutions,Pillar,/solutions/application-development-outsourcing/,application development outsourcing,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Foundational Solutions,Pillar,/solutions/finance-accounting-outsourcing/,finance and accounting outsourcing,f&a outsourcing,Landing Page,MOFU,"CFO, Controller",9.8
+Foundational Solutions,Pillar,/solutions/human-resources-outsourcing/,human resources outsourcing,N/A,Landing Page,MOFU,"CHRO, HR Director",9.7
+Foundational Solutions,Pillar,/solutions/customer-service-outsourcing/,customer service outsourcing,N/A,Landing Page,MOFU,"Head of CX, COO",9.8
+Solutions,Pillar,/solutions/supply-chain-management/,nearshore for supply chain management,N/A,Landing Page,MOFU,"Supply Chain Director, COO",9.6
+Solutions,Pillar,/solutions/product-development/,nearshore for product development,N/A,Landing Page,MOFU,"Head of Product, CTO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/fractional-cto/,outsourced chief technology officer,N/A,Landing Page,BOFU,"CEO, Founder, Board",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/fractional-ciso/,outsourced chief information security officer,N/A,Landing Page,BOFU,"CEO, Founder, Board",10
+Comparison,Leaf,/comparison/accenture-vs-deloitte/,Accenture vs Deloitte,N/A,Comparison Page,MOFU,"CIO, CEO, COO",9
+Resources,Spoke,/resources/gartner-magic-quadrant-it-services/,Gartner magic quadrant for it services,N/A,Guide,MOFU,"CIO, CTO, IT Director",9.2
+HR Solutions,Pillar,/solutions/talent-management/,nearshore for talent management,N/A,Landing Page,MOFU,"CHRO, HR Director",9.4
+HR Solutions,Pillar,/solutions/workforce-management/,outsourced workforce management,N/A,Landing Page,MOFU,"HR Director, COO",9.3
+Solutions,Pillar,/solutions/change-management/,nearshore for change management,N/A,Landing Page,MOFU,"Head of HR, COO, CEO",9.5
+HR Solutions,Pillar,/solutions/corporate-training/,nearshore for corporate training,N/A,Landing Page,MOFU,"Head of L&D, Training Mgr",9.2
+Legal Solutions,Pillar,/solutions/e-discovery-litigation-support/,nearshore for e-discovery and litigation support,N/A,Landing Page,MOFU,"General Counsel, Litigation Support",9.5
+Legal Solutions,Pillar,/solutions/contract-management/,nearshore for contract management,N/A,Landing Page,MOFU,"General Counsel, COO",9.4
+Operations Solutions,Pillar,/solutions/knowledge-management/,nearshore for knowledge management,N/A,Landing Page,MOFU,"COO, Head of Ops",9.3
+Enterprise Solutions,Pillar,/solutions/bcdr/,nearshore for business continuity and disaster recovery,nearshore for business continuity,Landing Page,MOFU,"CISO, COO, CIO",9.5
+Cybersecurity Solutions,Pillar,/solutions/cybersecurity-data-privacy/,nearshore for cybersecurity and data privacy,nearshore for data privacy,Landing Page,MOFU,"CISO, Chief Privacy Officer",9.8
+IT Solutions,Pillar,/solutions/cloud-devops/,nearshore for cloud and devops,N/A,Landing Page,MOFU,"CTO, Head of Infrastructure",9.7
+Data & AI Solutions,Pillar,/solutions/data-ai/,nearshore for data and ai,N/A,Landing Page,MOFU,"Chief Data Officer, Head of AI",9.8
+IT Solutions,Pillar,/solutions/software-engineering/,nearshore for software engineering,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Creative Solutions,Pillar,/solutions/creative-design/,nearshore for creative and design,N/A,Landing Page,MOFU,"CMO, Creative Director",9.3
+GTM Solutions,Pillar,/solutions/marketing-sales/,nearshore for marketing and sales,N/A,Landing Page,MOFU,"CMO, CRO",9.6
+Enterprise Solutions,Pillar,/solutions/enterprise/,nearshore for enterprise,nearshore for enterprise companies,Landing Page,MOFU,"CIO, COO, Department Head",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/enterprise-architecture/,outsourced enterprise architecture,N/A,Landing Page,MOFU,"Chief Architect, CTO",9.9
+IT Staffing,Leaf,/nearshore-it-staffing/systems-integration/,nearshore for systems integration,N/A,Landing Page,MOFU,"CIO, IT Director",9.6
+Resources,Leaf,/resources/digital-maturity/,nearshore for digital maturity,N/A,Guide / Assessment,MOFU,"CEO, CIO, Chief Digital Officer",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/application-modernization/,nearshore for application modernization,nearshore for legacy system modernization,Landing Page,MOFU,"CIO, Enterprise Architect",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-infrastructure-management/,outsourced it infrastructure management,nearshore for IT infrastructure,Landing Page,MOFU,"Head of Infrastructure, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/sap-consulting/,nearshore for SAP consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.7
+IT Staffing,Leaf,/nearshore-it-staffing/oracle-consulting/,nearshore for Oracle consulting,N/A,Landing Page,BOFU,"CIO, ERP Director",9.6
+IT Staffing,Leaf,/nearshore-it-staffing/servicenow-consulting/,nearshore for ServiceNow consulting,N/A,Landing Page,BOFU,"IT Director, CIO",9.5
+IT Staffing,Leaf,/nearshore-it-staffing/it-project-management/,outsourced IT project management,N/A,Landing Page,MOFU,"PMO Director, IT Director",9.4
+Solutions,Pillar,/solutions/business-process-management/,nearshore business process management,business process reengineering outsourcing,Landing Page,MOFU,"COO, Head of Ops",9.3
+Solutions,Pillar,/solutions/quality-management/,nearshore for quality management,outsourced quality management system,Landing Page,MOFU,"Head of Quality, COO",9.2
+Solutions,Pillar,/solutions/compliance-risk/,nearshore for compliance and risk,outsourced risk management services,Landing Page,MOFU,"CCO, Chief Risk Officer",9.7
+Solutions,Pillar,/solutions/corporate-development/,nearshore for corporate development,outsourced corporate development,Landing Page,MOFU,"Head of Corp Dev, CFO",9.5
+Resources,Leaf,/resources/global-operating-model/,global operating model,what is a global delivery model,Guide / Whitepaper,MOFU,"COO, CEO, Head of Strategy",9.3
+Comparison,Leaf,/comparison/cognizant-vs-infosys/,Cognizant vs Infosys,N/A,Comparison Page,MOFU,"CIO, IT Director",9
+Creative Services,Leaf,/nearshore-creative/illustrator/,hire an illustrator nearshore,N/A,Landing Page,BOFU,"Creative Director, Marketing Mgr",8.9
+Creative Services,Leaf,/nearshore-creative/ux-researcher/,hire a ux researcher nearshore,N/A,Landing Page,BOFU,"UX Lead, Head of Product",9.2
+Creative Services,Leaf,/nearshore-creative/motion-designer/,hire a motion designer nearshore,N/A,Landing Page,BOFU,"Marketing Director, Creative Lead",9
+IT Staffing,Leaf,/nearshore-it-staffing/it-audit-services/,outsourced it audit services,nearshore IT audit services,Landing Page,MOFU,"CISO, Head of Compliance",9.6
+HR Solutions,Pillar,/solutions/talent-management/,nearshore for talent management,N/A,Landing Page,MOFU,"CHRO, HR Director",9.4
+HR Solutions,Pillar,/solutions/workforce-management/,outsourced workforce management,N/A,Landing Page,MOFU,"HR Director, COO",9.3
+Solutions,Pillar,/solutions/change-management/,nearshore for change management,N/A,Landing Page,MOFU,"Head of HR, COO, CEO",9.5
+HR Solutions,Pillar,/solutions/corporate-training/,nearshore for corporate training,N/A,Landing Page,MOFU,"Head of L&D, Training Mgr",9.2
+Legal Solutions,Pillar,/solutions/e-discovery-litigation-support/,nearshore for e-discovery and litigation support,N/A,Landing Page,MOFU,"General Counsel, Litigation Support",9.5
+Legal Solutions,Pillar,/solutions/contract-management/,nearshore for contract management,N/A,Landing Page,MOFU,"General Counsel, COO",9.4
+Operations Solutions,Pillar,/solutions/knowledge-management/,nearshore for knowledge management,N/A,Landing Page,MOFU,"COO, Head of Ops",9.3
+Enterprise Solutions,Pillar,/solutions/bcdr/,nearshore for business continuity and disaster recovery,nearshore for business continuity,Landing Page,MOFU,"CISO, COO, CIO",9.5
+Cybersecurity Solutions,Pillar,/solutions/cybersecurity-data-privacy/,nearshore for cybersecurity and data privacy,nearshore for data privacy,Landing Page,MOFU,"CISO, Chief Privacy Officer",9.8
+IT Solutions,Pillar,/solutions/cloud-devops/,nearshore for cloud and devops,N/A,Landing Page,MOFU,"CTO, Head of Infrastructure",9.7
+Data & AI Solutions,Pillar,/solutions/data-ai/,nearshore for data and ai,N/A,Landing Page,MOFU,"Chief Data Officer, Head of AI",9.8
+IT Solutions,Pillar,/solutions/software-engineering/,nearshore for software engineering,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Creative Solutions,Pillar,/solutions/creative-design/,nearshore for creative and design,N/A,Landing Page,MOFU,"CMO, Creative Director",9.3
+GTM Solutions,Pillar,/solutions/marketing-sales/,nearshore for marketing and sales,N/A,Landing Page,MOFU,"CMO, CRO",9.6
+Sales Solutions,Leaf,/nearshore-sales/hire-a-sales-team/,hire a sales team,N/A,Landing Page,BOFU,"CRO, Head of Sales",9
+Marketing Solutions,Leaf,/nearshore-marketing/hire-a-marketing-team/,hire a marketing team,N/A,Landing Page,BOFU,"CMO, Marketing Director",9.1
+Accounting Solutions,Leaf,/nearshore-accounting/hire-an-accountant/,hire an accountant,N/A,Landing Page,BOFU,"CFO, Controller, Owner",8.8
+Accounting Solutions,Leaf,/nearshore-accounting/hire-a-bookkeeper/,hire a bookkeeper,N/A,Landing Page,BOFU,"CFO, Controller, Owner",8.7
+Accounting Solutions,Leaf,/nearshore-accounting/hire-a-tax-accountant/,hire a tax accountant,N/A,Landing Page,BOFU,"CFO, Controller",9.1
+Sales Solutions,Leaf,/nearshore-sales/hire-a-sales-rep/,hire a sales rep,N/A,Landing Page,BOFU,"CRO, Head of Sales",8.5
+Solutions for Agencies,Pillar,/solutions/it-consulting-firms/,nearshore for it consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.7
+Solutions for Agencies,Pillar,/solutions/management-consulting-firms/,nearshore for management consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Delivery",9.6
+Solutions for Agencies,Pillar,/solutions/creative-agencies/,nearshore for creative agencies,N/A,Landing Page,MOFU,"Agency Owner, COO",9.2
+Solutions for Agencies,Pillar,/solutions/software-development-agencies/,nearshore for software development agencies,N/A,Landing Page,MOFU,"Agency Owner, CTO",9.4
+Solutions for Agencies,Pillar,/solutions/pr-firms/,nearshore for public relations firms,N/A,Landing Page,MOFU,"Agency Owner, President",9.1
+Solutions for Agencies,Pillar,/solutions/market-research-companies/,nearshore for market research companies,N/A,Landing Page,MOFU,"Head of Research, Partner",9.2
+Solutions for Agencies,Pillar,/solutions/architectural-firms/,nearshore for architectural firms,N/A,Landing Page,MOFU,"Firm Principal, Partner",9.1
+Solutions for Agencies,Leaf,/solutions/market-research-companies/white-label/,white label market research,N/A,Landing Page,BOFU,"Agency Owner, Head of Research",8.9
+Solutions for Agencies,Leaf,/solutions/consulting-firms/it-services/,outsourced it for consulting firms,N/A,Landing Page,MOFU,"Partner, Head of Ops",9.4
+Solutions for Partners,Pillar,/solutions/bpos/,nearshore for business process outsourcers,N/A,Landing Page,MOFU,"BPO Owner, COO",9.3
+Solutions for Partners,Pillar,/solutions/independent-sponsors/,nearshore for independent sponsors,N/A,Landing Page,MOFU,"Independent Sponsor, Principal",9.5
+Solutions for Partners,Pillar,/solutions/search-funds/,nearshore for search funds,N/A,Landing Page,MOFU,"Searcher, Principal",9.4
+Solutions for Partners,Pillar,/solutions/corporate-venture-capital/,nearshore for corporate venture capital,N/A,Landing Page,MOFU,"CVC Partner, Head of Innovation",9.6
+Solutions for Partners,Pillar,/solutions/family-businesses/,nearshore for family businesses,N/A,Landing Page,MOFU,"Owner, CEO, Next-Gen Leader",9.2
+Solutions for Partners,Pillar,/solutions/holding-companies/,nearshore for holding companies,N/A,Landing Page,MOFU,"CEO, Partner, Portfolio Ops",9.5
+Foundational Solutions,Pillar,/solutions/it-infrastructure-outsourcing/,IT infrastructure outsourcing,N/A,Landing Page,MOFU,"Head of Infrastructure, CIO",9.6
+Foundational Solutions,Pillar,/solutions/application-development-outsourcing/,application development outsourcing,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.7
+Foundational Solutions,Pillar,/solutions/finance-accounting-outsourcing/,finance and accounting outsourcing,f&a outsourcing,Landing Page,MOFU,"CFO, Controller",9.8
+Foundational Solutions,Pillar,/solutions/human-resources-outsourcing/,human resources outsourcing,N/A,Landing Page,MOFU,"CHRO, HR Director",9.7
+Foundational Solutions,Pillar,/solutions/customer-service-outsourcing/,customer service outsourcing,N/A,Landing Page,MOFU,"Head of CX, COO",9.8
+Sales Solutions,Leaf,/nearshore-sales/hire-a-sales-team/,hire a sales team,find a sales team,Landing Page,BOFU,"CRO, Head of Sales",9
+Marketing Solutions,Leaf,/nearshore-marketing/hire-a-marketing-team/,hire a marketing team,find a marketing team,Landing Page,BOFU,"CMO, Marketing Director",9.1
+Accounting Solutions,Leaf,/nearshore-accounting/hire-an-accountant/,hire an accountant,N/A,Landing Page,BOFU,"CFO, Controller, Owner",8.8
+Accounting Solutions,Leaf,/nearshore-accounting/hire-a-bookkeeper/,hire a bookkeeper,N/A,Landing Page,BOFU,"CFO, Controller, Owner",8.7
+Accounting Solutions,Leaf,/nearshore-accounting/hire-a-tax-accountant/,hire a tax accountant,N/A,Landing Page,BOFU,"CFO, Controller",9.1
+Sales Solutions,Leaf,/nearshore-sales/hire-a-sales-rep/,hire a sales rep,N/A,Landing Page,BOFU,"CRO, Head of Sales",8.5
+HR Solutions,Spoke,/comparison/staff-augmentation-firm/,staff augmentation firm,"staff augmentation company, staff augmentation companies",Comparison Page,BOFU,"IT Director, CTO",9.4
+Sales Solutions,Leaf,/nearshore-sales/find-a-salesperson/,find a salesperson,N/A,Landing Page,BOFU,"CRO, Head of Sales",8.6
+Marketing Solutions,Leaf,/nearshore-marketing/find-a-marketer/,find a marketer,N/A,Landing Page,BOFU,"CMO, Marketing Director",8.5
+HR Solutions,Spoke,/comparison/best-recruitment-agencies/,best recruitment agencies,N/A,Comparison Page,BOFU,"HR Director, Hiring Manager",8.9
+IT Staffing,Spoke,/comparison/it-company/,it company,"it services company, it companies",Comparison Page,BOFU,"CIO, IT Director",8.8
+HR Solutions,Pillar,/solutions/employment-agency/,employment agency,N/A,Landing Page,MOFU,"HR Director, COO",8.9
+Accounting Solutions,Leaf,/nearshore-accounting/accounts-payable/,account payable,N/A,Landing Page,MOFU,"Controller, AP Manager",8.5
+IT Staffing,Spoke,/comparison/it-services-near-me/,it services near me,it companies near me,Comparison Page,BOFU,"IT Director, CIO",9.4
+Careers,Leaf,/careers/i-need-a-job/,i need a job,"i'm looking for a job, i want a job",Landing Page,BOFU,Job Seeker,8
+IT Staffing,Pillar,/solutions/technical-staffing/,technical staffing,technical recruitment,Landing Page,MOFU,"IT Director, CIO",9.2
+IT Staffing,Pillar,/solutions/custom-software-development/,custom software development,custom software development services,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+Solutions,Pillar,/solutions/business-process-services/,business process services,N/A,Landing Page,MOFU,"COO, Founder",9.3
+HR Solutions,Leaf,/rpo/tech-recruiter/,tech recruiter,N/A,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+Accounting Solutions,Pillar,/solutions/tax-services/,tax services,N/A,Landing Page,MOFU,"CFO, Controller",9.2
+IT Staffing,Spoke,/comparison/best-it-staffing-agencies/,best it staffing agencies,"top it staffing agencies, top 10 it staffing companies",Comparison Page,BOFU,"IT Director, CIO",9.3
+Resources,Leaf,/resources/what-is-a-global-workforce/,what is a global workforce,N/A,Guide,TOFU,"CHRO, CEO, Head of HR",9.3
+HR Solutions,Spoke,/comparison/staff-augmentation-firm/,staff augmentation firm,"staff augmentation company, staff augmentation companies",Comparison Page,BOFU,"IT Director, CTO",9.4
+Sales Solutions,Leaf,/rpo/sales-recruiter/,sales recruiter,N/A,Landing Page,BOFU,"CRO, Head of Sales",8.9
+IT Staffing,Pillar,/solutions/technical-staffing/,technical staffing,technology staffing,Landing Page,MOFU,"IT Director, CIO",9.2
+IT Staffing,Pillar,/solutions/custom-software-development/,custom software development,custom software development services,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+Support Solutions,Pillar,/solutions/business-process-services/,business process services,N/A,Landing Page,MOFU,"COO, Founder",9.3
+HR Solutions,Leaf,/rpo/tech-recruiter/,tech recruiter,technical recruiter,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+Accounting Solutions,Pillar,/solutions/tax-services/,tax services,N/A,Landing Page,MOFU,"CFO, Controller",9.2
+IT Staffing,Spoke,/comparison/it-company/,it company,"it services company, it companies",Comparison Page,BOFU,"CIO, IT Director",8.8
+HR Solutions,Pillar,/solutions/employment-agency/,employment agency,N/A,Landing Page,MOFU,"HR Director, COO",8.9
+Accounting Solutions,Leaf,/nearshore-accounting/accounts-payable/,account payable,N/A,Landing Page,MOFU,"Controller, AP Manager",8.5
+IT Staffing,Spoke,/comparison/it-services-near-me/,it services near me,it companies near me,Comparison Page,BOFU,"IT Director, CIO",9.4
+Careers,Leaf,/careers/i-need-a-job/,i need a job,"i'm looking for a job, i want a job, get me a job",Landing Page,BOFU,Job Seeker,8
+IT Staffing,Spoke,/comparison/software-outsourcing-company/,software outsourcing company,N/A,Comparison Page,BOFU,"CTO, Founder",9.6
+IT Staffing,Spoke,/comparison/software-house/,software house,N/A,Comparison Page,BOFU,"CTO, Founder",9.5
+Resources,Spoke,/resources/what-is-software-engineering/,software engineering,N/A,Guide,TOFU,"CTO, VP of Engineering",9.4
+IT Staffing,Leaf,/solutions/software-developer/,software developer,N/A,Landing Page,BOFU,"CTO, Founder",9.3
+HR Solutions,Spoke,/comparison/best-recruitment-agencies/,best recruitment agencies,N/A,Comparison Page,BOFU,"HR Director, Hiring Manager",8.9
+IT Staffing,Pillar,/solutions/outsource-development/,outsource development,outsource software,Landing Page,MOFU,"CTO, Founder",9.5
+Comparison,Leaf,/comparison/offshore-web-development/,offshore web development,N/A,Comparison Page,MOFU,"CTO, Founder",9.3
+Support Solutions,Leaf,/nearshore-support/it-support-specialist/,it support specialist,N/A,Landing Page,BOFU,"IT Director, CIO",8.8
+Careers,Leaf,/careers/find-developer-job/,find developer job,developer jobs,Landing Page,BOFU,Job Seeker,8.2
+Creative Solutions,Pillar,/solutions/design-outsourcing/,design outsourcing,N/A,Landing Page,MOFU,"CMO, Creative Director",9.1
+IT Staffing,Spoke,/solutions/dedicated-hosting-talent/,dedicated hosting,N/A,Landing Page,BOFU,"IT Director, CTO",8.8
+HR Solutions,Leaf,/solutions/recruiting-services/,recruiting services,N/A,Landing Page,MOFU,"HR Director, Hiring Manager",8.9
+Accounting Solutions,Pillar,/solutions/payroll-services/,payroll services,N/A,Landing Page,MOFU,"HR Director, CFO",9.2
+Accounting Solutions,Spoke,/comparison/payroll-company/,payroll company,N/A,Comparison Page,BOFU,"HR Director, CFO",9.2
+IT Staffing,Spoke,/comparison/it-recruiting-firms/,it recruiting firms,"it recruitment agency, it recruitment company",Comparison Page,BOFU,"IT Director, CIO",9.2
+IT Staffing,Leaf,/solutions/hiring-programmers/,hire programmers,"hire programmer, hire a programmer team",Landing Page,BOFU,"CTO, Founder",9.6
+IT Staffing,Leaf,/solutions/find-programmer/,find programmer,N/A,Landing Page,BOFU,"CTO, Founder",9.7
+IT Staffing,Leaf,/solutions/find-me-a-developer/,find me a developer,N/A,Landing Page,BOFU,"CTO, Founder",9.8
+Comparison,Spoke,/comparison/development-company/,development company,N/A,Comparison Page,BOFU,"CTO, Founder",9.5
+IT Staffing,Pillar,/solutions/dedicated-developers/,dedicated developers,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+IT Staffing,Spoke,/comparison/custom-software-development-company/,custom software development company,N/A,Comparison Page,BOFU,"CTO, VP of Engineering",9.6
+Sales Solutions,Pillar,/solutions/sales-recruitment/,sales recruitment,N/A,Landing Page,MOFU,"CRO, Head of Sales",9
+Support Solutions,Pillar,/solutions/help-desk/,help desk,N/A,Landing Page,MOFU,"IT Director, Head of Support",9.1
+Careers,Leaf,/careers/find-a-new-job/,find a new job,find jobs now,Landing Page,BOFU,Job Seeker,8
+Comparison,Spoke,/comparison/business-outsourcing/,business outsourcing,N/A,Comparison Page,MOFU,"COO, Founder, CEO",9.3
+Geographic Hubs,Pillar,/locations/monterrey/,staffing solutions monterrey,software development companies in monterrey,Landing Page,MOFU,"HR Director, COO",8.9
+Geographic Hubs,Pillar,/locations/tijuana/,staffing solutions tijuana,maquiladoras in tijuana,Landing Page,MOFU,"HR Director, COO",8.8
+Geographic Hubs,Pillar,/locations/queretaro/,staffing solutions queretaro,aerospace engineering services queretaro,Landing Page,MOFU,"HR Director, COO",8.7
+Geographic Hubs,Pillar,/locations/saltillo/,staffing solutions saltillo,it companies in saltillo,Landing Page,MOFU,"HR Director, Plant Manager",8.6
+Geographic Hubs,Pillar,/locations/san-luis-potosi/,staffing solutions san luis potosi,N/A,Landing Page,MOFU,"HR Director, Plant Manager",8.7
+Geographic Hubs,Pillar,/locations/leon/,staffing solutions leon,N/A,Landing Page,MOFU,"HR Director, Plant Manager",8.7
+Geographic Hubs,Pillar,/locations/juarez/,staffing solutions juarez,N/A,Landing Page,MOFU,"HR Director, Plant Manager",8.8
+Geographic Hubs,Pillar,/locations/puebla/,staffing solutions puebla,automotive companies in puebla mexico,Landing Page,MOFU,"HR Director, Plant Manager",8.6
+Geographic Hubs,Pillar,/locations/cancun/,staffing solutions cancun,software development companies in cancun,Landing Page,MOFU,"HR Director, COO",8.5
+Geographic Hubs,Pillar,/locations/merida/,staffing solutions merida,N/A,Landing Page,MOFU,"HR Director, COO",8.6
+Geographic Hubs,Pillar,/locations/mexicali/,staffing solutions mexicali,N/A,Landing Page,MOFU,"HR Director, Plant Manager",8.8
+Geographic Hubs,Pillar,/locations/hermosillo/,staffing solutions hermosillo,N/A,Landing Page,MOFU,"HR Director, Plant Manager",8.5
+Geographic Hubs,Pillar,/locations/culiacan/,staffing solutions culiacan,N/A,Landing Page,MOFU,"HR Director, Agri-business Mgr",8.8
+Geographic Hubs,Pillar,/locations/villahermosa/,staffing solutions Villahermosa,N/A,Landing Page,MOFU,"HR Director, Energy Manager",8.5
+Geographic Hubs,Pillar,/locations/tuxtla/,staffing solutions Tuxtla,N/A,Landing Page,MOFU,"HR Director, COO",8.4
+Geographic Hubs,Pillar,/locations/torreon/,staffing solutions torreon,N/A,Landing Page,MOFU,"HR Director, Plant Manager",8.6
+Geographic Hubs,Spoke,/comparison/gdl-vs-cdmx-cost-of-living/,cost of living in guadalajara vs mexico city,N/A,Blog Post / Infographic,TOFU,"Founder, HR Director, CFO",8.5
+Resources,Spoke,/resources/mexicos-silicon-valley/,mexico's silicon valley,N/A,Blog Post / Guide,TOFU,"Founder, CTO, CEO",8.7
+IT Staffing,Spoke,/comparison/best-it-staffing-agencies/,best it staffing agencies,"top it staffing agencies, top 10 it staffing companies",Comparison Page,BOFU,"IT Director, CIO",9.3
+Resources,Leaf,/resources/what-is-a-global-workforce/,what is a global workforce,N/A,Guide,TOFU,"CHRO, CEO, Head of HR",9.3
+HR Solutions,Spoke,/comparison/staff-augmentation-firm/,staff augmentation firm,"staff augmentation company, staff augmentation companies",Comparison Page,BOFU,"IT Director, CTO",9.4
+Sales Solutions,Leaf,/rpo/sales-recruiter/,sales recruiter,N/A,Landing Page,BOFU,"CRO, Head of Sales",8.9
+IT Staffing,Pillar,/solutions/technical-staffing/,technical staffing,technology staffing,Landing Page,MOFU,"IT Director, CIO",9.2
+IT Staffing,Pillar,/solutions/custom-software-development/,custom software development,custom software development services,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+Support Solutions,Pillar,/solutions/business-process-services/,business process services,N/A,Landing Page,MOFU,"COO, Founder",9.3
+HR Solutions,Leaf,/rpo/tech-recruiter/,tech recruiter,technical recruiter,Landing Page,BOFU,"HR Director, Tech Recruiter",8.9
+Accounting Solutions,Pillar,/solutions/tax-services/,tax services,N/A,Landing Page,MOFU,"CFO, Controller",9.2
+Support Solutions,Leaf,/nearshore-support/systems-administrator/,systems administrator,N/A,Landing Page,BOFU,IT Director,8.8
+IT Staffing,Spoke,/comparison/it-company/,it company,"it services company, it companies",Comparison Page,BOFU,"CIO, IT Director",8.8
+HR Solutions,Pillar,/solutions/employment-agency/,employment agency,N/A,Landing Page,MOFU,"HR Director, COO",8.9
+Accounting Solutions,Leaf,/nearshore-accounting/accounts-payable/,account payable,N/A,Landing Page,MOFU,"Controller, AP Manager",8.5
+IT Staffing,Spoke,/comparison/it-services-near-me/,it services near me,it companies near me,Comparison Page,BOFU,"IT Director, CIO",9.4
+Careers,Leaf,/careers/i-need-a-job/,i need a job,"i'm looking for a job, i want a job, get me a job",Landing Page,BOFU,Job Seeker,8
+IT Staffing,Spoke,/comparison/software-outsourcing-company/,software outsourcing company,N/A,Comparison Page,BOFU,"CTO, Founder",9.6
+IT Staffing,Spoke,/comparison/software-house/,software house,N/A,Comparison Page,BOFU,"CTO, Founder",9.5
+Resources,Spoke,/resources/what-is-software-engineering/,software engineering,N/A,Guide,TOFU,"CTO, VP of Engineering",9.4
+IT Staffing,Leaf,/solutions/software-developer/,software developer,N/A,Landing Page,BOFU,"CTO, Founder",9.3
+Comparison,Pillar,/comparison/best-recruitment-agencies/,best recruitment agencies,N/A,Comparison Page,BOFU,"HR Director, Hiring Manager",8.9
+IT Staffing,Pillar,/solutions/outsource-development/,outsource development,outsource software,Landing Page,MOFU,"CTO, Founder",9.5
+Comparison,Leaf,/comparison/offshore-web-development/,offshore web development,N/A,Comparison Page,MOFU,"CTO, Founder",9.3
+Support Solutions,Leaf,/nearshore-support/it-support-specialist/,it support specialist,N/A,Landing Page,BOFU,"IT Director, CIO",8.8
+Careers,Leaf,/careers/i-want-to-work/,i want to work,i'm looking for a job now,Landing Page,BOFU,Job Seeker,8
+Careers,Leaf,/careers/find-developer-job/,find developer job,developer jobs,Landing Page,BOFU,Job Seeker,8.2
+Creative Solutions,Pillar,/solutions/design-outsourcing/,design outsourcing,N/A,Landing Page,MOFU,"CMO, Creative Director",9.1
+IT Staffing,Spoke,/solutions/dedicated-hosting-talent/,dedicated hosting,N/A,Landing Page,BOFU,"IT Director, CTO",8.8
+HR Solutions,Leaf,/solutions/recruiting-services/,recruiting services,N/A,Landing Page,MOFU,"HR Director, Hiring Manager",8.9
+Accounting Solutions,Pillar,/solutions/payroll-services/,payroll services,N/A,Landing Page,MOFU,"HR Director, CFO",9.2
+Accounting Solutions,Spoke,/comparison/payroll-company/,payroll company,N/A,Comparison Page,BOFU,"HR Director, CFO",9.2
+IT Staffing,Spoke,/comparison/it-recruiting-firms/,it recruiting firms,"it recruitment agency, it recruitment company",Comparison Page,BOFU,"IT Director, CIO",9.2
+IT Staffing,Leaf,/solutions/hiring-programmers/,hire programmers,"hire programmer, hire a programmer team",Landing Page,BOFU,"CTO, Founder",9.6
+IT Staffing,Leaf,/solutions/find-programmer/,find programmer,N/A,Landing Page,BOFU,"CTO, Founder",9.7
+IT Staffing,Leaf,/solutions/find-me-a-developer/,find me a developer,N/A,Landing Page,BOFU,"CTO, Founder",9.8
+Comparison,Spoke,/comparison/development-company/,development company,N/A,Comparison Page,BOFU,"CTO, Founder",9.5
+IT Staffing,Pillar,/solutions/dedicated-developers/,dedicated developers,N/A,Landing Page,MOFU,"CTO, VP of Engineering",9.6
+IT Staffing,Spoke,/comparison/custom-software-development-company/,custom software development company,N/A,Comparison Page,BOFU,"CTO, VP of Engineering",9.6
+Sales Solutions,Pillar,/solutions/sales-recruitment/,sales recruitment,N/A,Landing Page,MOFU,"CRO, Head of Sales",9
+Support Solutions,Pillar,/solutions/help-desk/,help desk,N/A,Landing Page,MOFU,"IT Director, Head of Support",9.1
+Careers,Leaf,/careers/find-a-new-job/,find a new job,find jobs now,Landing Page,BOFU,Job Seeker,8

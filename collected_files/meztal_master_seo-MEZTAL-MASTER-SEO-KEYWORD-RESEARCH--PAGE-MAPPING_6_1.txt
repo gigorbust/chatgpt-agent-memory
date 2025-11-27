@@ -1,0 +1,99 @@
+# MEZTAL.COM - MASTER SEO KEYWORD RESEARCH & PAGE MAPPING
+## DATA NORMALIZATION & ORGANIZATION PLAN
+
+### SHEET 1: MASTER_KEYWORD_INVENTORY
+| Keyword | Search_Volume | Keyword_Difficulty | CPC | Intent_Type | Business_Relevance | Geographic_Focus | Service_Category | Vertical_Industry | Confidence_Score |
+
+### SHEET 2: KEYWORD_TO_PAGE_MAPPING  
+| Target_Page_URL | Primary_Keyword | Secondary_Keywords | Tertiary_Keywords | Page_Type | Priority_Level | Content_Brief | Competition_Level | Implementation_Status |
+
+### SHEET 3: BUSINESS_VERTICAL_KEYWORDS
+| Vertical | Primary_Keywords | Long_Tail_Variants | Local_Modifiers | Service_Combinations | Volume_Potential | Competition_Assessment |
+
+### SHEET 4: GEOGRAPHIC_KEYWORD_STRATEGY
+| Location | City_Keywords | State_Keywords | Regional_Terms | Local_Volume | Local_Competition | Market_Opportunity |
+
+### SHEET 5: COMPETITOR_KEYWORD_GAPS
+| Competitor | Their_Keywords | Our_Gap | Opportunity_Score | Difficulty_Assessment | Action_Required |
+
+### SHEET 6: CONTENT_KEYWORD_PIPELINE
+| Content_Type | Target_Keywords | Supporting_Keywords | Content_Status | SEO_Potential | Publishing_Priority |
+
+## INTELLIGENCE-BASED CONSOLIDATION RULES:
+
+### CONSOLIDATION LOGIC:
+1. **Latest Version Priority:** v40 > v39 > v17 > v10 > v9 > v8
+2. **Data Completeness Score:** Search volume + Difficulty + CPC data = Complete
+3. **Business Relevance Filter:** Must contain nearshore/staffing/mexico/tech terms
+4. **Duplicate Elimination:** Keyword exact match + intent match
+5. **Quality Threshold:** Min 10 monthly searches OR strategic business term
+
+### NORMALIZATION STANDARDS:
+- Keyword format: lowercase, standardized spacing
+- Geographic format: "city, state" or "city, mexico"  
+- Service format: Standardized taxonomy (staff augmentation, dedicated teams, EOR)
+- Intent classification: Informational, Commercial, Transactional, Navigational
+
+### FILTERED EXCLUSIONS:
+- Silent Storm/silent disco references
+- Onewheel/electric skateboard content  
+- Russian language documents
+- Personal memoir content
+- Generic chat logs without keywords
+- Duplicate headers/test data
+
+## DATA ARCHAEOLOGY FINDINGS:
+
+### PRIMARY SOURCES (Highest Value):
+1. **Nearshoring Keywords** (102 rows) - Complete metrics, business-relevant
+2. **keywords <> Pages** (13 mapped pages) - Strategic foundation  
+3. **meztal keyword priorities** - Business-validated selections
+4. **MezTal Gap Keywords** (10,001 rows) - Comprehensive competitive data
+
+### SECONDARY SOURCES (Supporting Data):
+1. **meztal_seo_comprehensive_data** (79 rows) - Normalized subset
+2. **Competitor Analysis sheets** - Gap identification
+3. **MEZTAL_MASTER_AGGREGATION** (1,193 rows) - Historical context
+
+### VERSION EVOLUTION INSIGHT:
+- v8-v10: Foundation building
+- v17: Major expansion  
+- v39-v40: Latest refinements
+- Focus shift: Generic SEO → Nearshore specialization
+
+## INTELLIGENT ORGANIZATION TAXONOMY:
+
+### SERVICE HIERARCHY:
+```
+Nearshore Staffing (Root)
+├── IT Staff Augmentation
+├── Dedicated Development Teams  
+├── Employer of Record (EOR)
+└── Specialized Services
+    ├── Healthcare Staffing
+    └── Senior Living Support
+```
+
+### GEOGRAPHIC HIERARCHY:
+```
+Mexico (Country)
+├── Guadalajara (Primary Hub)
+├── Mexico City (Scale Market)
+├── Monterrey (Industrial Focus)
+└── Other Markets
+```
+
+### INTENT-BASED SEGMENTATION:
+- **Awareness:** "what is nearshoring", "benefits of nearshoring"
+- **Consideration:** "nearshore vs offshore", "nearshore companies"  
+- **Decision:** "hire nearshore developers", "nearshore staff augmentation"
+- **Local:** "staffing guadalajara", "mexico tech talent"
+
+## NEXT ACTION RECOMMENDATIONS:
+
+1. **IMMEDIATE:** Consolidate Primary Sources into Master Keyword Inventory
+2. **PHASE 2:** Map consolidated keywords to page structure  
+3. **PHASE 3:** Validate against business priorities
+4. **PHASE 4:** Create implementation roadmap
+
+**CONFIDENCE LEVEL:** High - Sufficient data quality and business focus identified for comprehensive master document creation.

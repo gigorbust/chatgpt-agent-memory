@@ -1,0 +1,112 @@
+MEZTAL.COM - MASTER SEO KEYWORD STRATEGY SPREADSHEET
+================================================================
+
+TAB 1: MASTER_KEYWORD_INVENTORY
+==============================
+Keyword | Monthly_Volume | Keyword_Difficulty | CPC | Priority | Intent_Type | Geographic_Focus | Service_Category | Target_Page | Source_Sheet | Competition_Level | Meztal_Ranking | Competitor_Pages
+nearshore | 1300 | 49 | 4.82 | High | Commercial | Global | General | Homepage | Nearshoring Keywords | Medium | 0 | 
+nearshore software development | 1300 | 32 | 172.43 | High | Commercial | Global | Development | Services | Nearshoring Keywords | Medium | 0 | 
+what is nearshoring | 720 | 35 | 4.14 | Medium | Informational | Global | Education | Blog | Nearshoring Keywords | Low | 0 | 
+nearshore it | 590 | 37 | 4.82 | High | Commercial | Global | IT Services | IT Services | Nearshoring Keywords | Medium | 0 | 
+nearshore outsourcing | 590 | 29 | 180 | High | Commercial | Global | Outsourcing | Services | Nearshoring Keywords | Low | 0 | 
+nearshore software development company | 590 | 32 | 129.01 | High | Commercial | Global | Development | About | Nearshoring Keywords | Medium | 0 | 
+nearshore vs offshore | 590 | 12 | 16.07 | High | Informational | Global | Comparison | Comparison Page | Nearshoring Keywords | Very Low | 0 | 
+nearshoring definition | 590 | 39 | 0 | Medium | Informational | Global | Education | Blog | Nearshoring Keywords | Medium | 0 | 
+nearshore development | 480 | 19 | 137.02 | High | Commercial | Global | Development | Services | Nearshoring Keywords | Low | 0 | 
+nearshore software development services | 480 | 24 | 144.49 | High | Commercial | Global | Development | Services | Nearshoring Keywords | Low | 0 | 
+nearshoring vs offshoring | 320 | 19 | 0 | Medium | Informational | Global | Comparison | Comparison Page | Nearshoring Keywords | Low | 0 | 
+nearshore developers | 260 | 16 | 190.48 | High | Commercial | Global | Hiring | Hire Developers | Nearshoring Keywords | Very Low | 0 | 
+software development nearshore | 260 | 33 | 298.88 | Medium | Commercial | Global | Development | Services | Nearshoring Keywords | Medium | 0 | 
+nearshore staffing mexico | - | - | - | High | Commercial | Mexico | Staffing | Homepage | Keywords Pages | - | - | 
+it staff augmentation mexico | - | - | - | High | Commercial | Mexico | IT Staffing | /services/it-staff-augmentation | Keywords Pages | - | - | 
+dedicated development team mexico | - | - | - | High | Commercial | Mexico | Dedicated Teams | /services/dedicated-teams | Keywords Pages | - | - | 
+employer of record mexico | - | - | - | High | Commercial | Mexico | EOR | /services/eor-mexico | Keywords Pages | - | - | 
+nearshore healthcare staffing | - | - | - | Medium | Commercial | Healthcare | Industry | /industries/healthcare | Keywords Pages | - | - | 
+senior living nearshore staffing | - | - | - | Medium | Commercial | Senior Living | Industry | /industries/senior-living | Keywords Pages | - | - | 
+staffing solutions guadalajara | - | - | - | High | Commercial | Guadalajara | Local | /locations/guadalajara | Keywords Pages | - | - | 
+software developers mexico city | - | - | - | High | Commercial | Mexico City | Local | /locations/mexico-city | Keywords Pages | - | - | 
+hire engineers in monterrey | - | - | - | High | Commercial | Monterrey | Local | /locations/monterrey | Keywords Pages | - | - | 
+how to hire a remote team in mexico | - | - | - | Medium | Informational | Mexico | Guide | /resources/how-to-hire-remote | Keywords Pages | - | - | 
+
+TAB 2: KEYWORD_TO_PAGE_MAPPING
+===============================
+Target_Page_URL | Primary_Keyword | Secondary_Keywords | Page_Status | Content_Type | Priority_Level | Search_Volume | Difficulty | Implementation_Notes | Content_Brief_Required
+Homepage | nearshore staffing mexico | remote teams mexico, cost-effective staffing | Existing | Landing | HIGH | - | - | Establish main brand positioning | Yes
+/services/it-staff-augmentation | it staff augmentation mexico | nearshore staff augmentation, extend development team | Existing | Service | HIGH | - | - | Target companies supplementing tech teams | Yes
+/services/dedicated-teams | dedicated development team mexico | build a remote engineering team, nearshore dedicated developers | Existing | Service | HIGH | - | - | Fully managed standalone teams | Yes
+/services/eor-mexico | employer of record mexico | mexico peo services, compliant hiring in mexico | Existing | Service | HIGH | - | - | Legal and HR compliance focus | Yes
+/industries/healthcare | nearshore healthcare staffing | revenue cycle outsourcing mexico, hipaa compliant outsourcing | Existing | Industry | MEDIUM | - | - | Key vertical specialization | Yes
+/industries/senior-living | senior living nearshore staffing | ageless tech talent, remote administrative support for senior living | Existing | Industry | MEDIUM | - | - | Unique underserved niche | Yes
+/resources/nearshoring-guide | what is nearshoring | benefits of nearshoring, nearshore vs offshore | Existing | Resource | MEDIUM | 720 | 35 | Comprehensive research phase guide | Yes
+/resources/how-to-hire-remote | how to hire a remote team in mexico | vetting nearshore developers, manage a nearshore team | Existing | Resource | MEDIUM | - | - | Practical guide for new companies | Yes
+/locations/guadalajara | staffing solutions guadalajara | guadalajara tech talent, mexico's silicon valley | Existing | Location | HIGH | - | - | Premier tech hub positioning | Yes
+/locations/mexico-city | software developers mexico city | it staffing mexico city, remote teams cdmx | Existing | Location | HIGH | - | - | Largest metro market | Yes
+/locations/monterrey | hire engineers in monterrey | tech companies in monterrey, nearshore monterrey | Existing | Location | MEDIUM | - | - | Industrial and tech scene focus | Yes
+/services/software-development | nearshore software development | custom software development mexico, nearshore dev teams | OPPORTUNITY | Service | HIGH | 1300 | 32 | High-volume keyword opportunity | Yes
+/comparison/nearshore-vs-offshore | nearshore vs offshore | nearshore vs offshore development, cost comparison | OPPORTUNITY | Resource | HIGH | 590 | 12 | Easy win - low difficulty | Yes
+/services/development | nearshore development | software development services mexico, development outsourcing | OPPORTUNITY | Service | HIGH | 480 | 19 | General development services | Yes
+/hire/developers | nearshore developers | hire nearshore developers, remote developers mexico | OPPORTUNITY | Service | HIGH | 260 | 16 | Developer hiring focus | Yes
+
+TAB 3: COMPETITIVE_GAP_ANALYSIS
+================================
+Keyword | Volume | Difficulty | CPC | Meztal_Ranking | Top_Competitor | Competitor_Ranking | Gap_Opportunity | Priority_Score | Implementation_Difficulty
+peo | 40500 | 63 | 12.65 | 0 | hirewithnear.com | 44 | HIGH | 85 | High
+performance improvement plan | 33100 | 33 | 3.3 | 0 | hirewithnear.com | 35 | HIGH | 90 | Medium
+hire in job | 18100 | 100 | 1.37 | 0 | hirewithnear.com | 82 | MEDIUM | 60 | Very High
+eor | 14800 | 42 | 45.29 | 0 | hirewithnear.com | 69 | HIGH | 95 | Medium
+talent acquisition | 14800 | 57 | 4.87 | 0 | hirewithnear.com | 37 | HIGH | 80 | High
+
+TAB 4: CONTENT_CREATION_QUEUE
+==============================
+Content_Title | Target_Keywords | Content_Type | Priority | Estimated_Volume | Difficulty | Page_URL | Status | Notes
+Ultimate Guide to Nearshoring | nearshore, what is nearshoring, nearshoring benefits | Guide | HIGH | 2020 | 35-49 | /resources/nearshoring-guide | PLANNED | High-volume educational content
+Nearshore vs Offshore Development | nearshore vs offshore, nearshoring vs offshoring | Comparison | HIGH | 910 | 12-19 | /comparison/nearshore-vs-offshore | PLANNED | Easy win - low difficulty
+How to Hire Nearshore Developers | hire nearshore developers, nearshore developers | How-To | HIGH | 260 | 16 | /hire/developers | PLANNED | Commercial intent content
+Nearshore Software Development Services | nearshore software development, nearshore development | Service | HIGH | 1780 | 19-32 | /services/software-development | PLANNED | High-volume service page
+EOR Services in Mexico | employer of record mexico, eor mexico | Service | HIGH | 14800 | 42 | /services/eor-mexico | UPDATE | Optimize existing page
+IT Staff Augmentation Guide | it staff augmentation mexico, staff augmentation | Service | HIGH | - | - | /services/it-staff-augmentation | UPDATE | Optimize existing page
+Guadalajara Tech Ecosystem | staffing solutions guadalajara, guadalajara tech | Location | MEDIUM | - | - | /locations/guadalajara | UPDATE | Local market focus
+Healthcare Nearshore Staffing | nearshore healthcare staffing, healthcare outsourcing | Industry | MEDIUM | - | - | /industries/healthcare | UPDATE | Vertical specialization
+
+TAB 5: GEOGRAPHIC_KEYWORD_STRATEGY
+===================================
+Location | Primary_Keywords | Secondary_Keywords | Search_Volume | Local_Competition | Market_Opportunity | Content_Priority | Target_Page
+Mexico (General) | nearshore mexico, mexico outsourcing, mexico developers | software development mexico, tech talent mexico | HIGH | Medium | HIGH | HIGH | /why-mexico
+Guadalajara | guadalajara developers, guadalajara tech, staffing guadalajara | guadalajara software development, tech companies guadalajara | MEDIUM | Low | HIGH | HIGH | /locations/guadalajara
+Mexico City | mexico city developers, cdmx tech, software developers mexico city | mexico city outsourcing, tech talent cdmx | HIGH | Medium | HIGH | HIGH | /locations/mexico-city
+Monterrey | monterrey developers, monterrey tech, hire engineers monterrey | software development monterrey, tech companies monterrey | MEDIUM | Low | MEDIUM | MEDIUM | /locations/monterrey
+Tijuana | tijuana developers, border nearshoring, tijuana tech | software development tijuana, nearshore tijuana | LOW | Low | MEDIUM | LOW | /locations/tijuana
+Leon | leon developers, leon tech, guanajuato tech | software development leon, tech companies leon | LOW | Very Low | LOW | LOW | Future
+
+TAB 6: INDUSTRY_VERTICAL_KEYWORDS  
+==================================
+Industry | Primary_Keywords | Secondary_Keywords | Search_Volume | Specialization_Level | Market_Size | Content_Priority | Target_Page
+Healthcare | nearshore healthcare, healthcare outsourcing mexico, healthcare staffing | revenue cycle outsourcing, hipaa compliant outsourcing, medical billing mexico | MEDIUM | HIGH | Large | HIGH | /industries/healthcare
+Senior Living | senior living staffing, senior care technology, ageless tech | senior living software, care management systems, senior care outsourcing | LOW | VERY HIGH | Medium | HIGH | /industries/senior-living
+Fintech | fintech developers mexico, financial software development | banking software development, payment processing development | MEDIUM | HIGH | Large | MEDIUM | /industries/fintech
+E-commerce | ecommerce development mexico, online store development | shopify development mexico, ecommerce platform development | MEDIUM | MEDIUM | Large | MEDIUM | /industries/ecommerce
+SaaS | saas development mexico, software as a service development | cloud application development, web application development | HIGH | MEDIUM | Very Large | MEDIUM | /industries/saas
+Manufacturing | manufacturing software, industrial automation | factory software development, supply chain software | LOW | MEDIUM | Large | LOW | /industries/manufacturing
+
+NOTES:
+======
+1. Keywords without search volumes are from existing page mappings and need volume research
+2. Priority levels: HIGH (immediate), MEDIUM (next phase), LOW (future consideration)  
+3. Difficulty scale: Very Low (0-20), Low (21-40), Medium (41-60), High (61-80), Very High (81-100)
+4. All data sourced from actual Meztal spreadsheet - 83 sheets consolidated
+5. Gap analysis shows major opportunities in PEO/EOR keywords with high search volumes
+6. Geographic focus should prioritize Mexico > Guadalajara > Mexico City > Monterrey
+7. Industry verticals show Healthcare and Senior Living as established focus areas
+8. Content queue organized by implementation priority and search volume potential
+
+DATA SOURCES AGGREGATED:
+========================
+- Keywords <> Pages (12 mapped pages)
+- Nearshoring Keywords (101 keywords with metrics)  
+- MezTal Gap Keywords (10,000 competitive keywords)
+- meztal_seo_comprehensive_data (78 processed keywords)
+- proposed pages (3 additional opportunities)
+
+TOTAL UNIQUE KEYWORDS IDENTIFIED: 10,000+
+MAPPED PAGES: 12 existing + 15+ opportunities
+PRIORITY KEYWORDS FOR IMMEDIATE ACTION: 25+

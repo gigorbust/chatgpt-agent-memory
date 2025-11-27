@@ -1,0 +1,135 @@
+Category,Subcategory,Item,Priority,Status,Description,Recommendation,Timeline,Estimated Cost,Notes
+Keywords,Primary,Nearshore Staffing Mexico,High,Not Optimized,Direct service match with growing market demand,Optimize homepage and service pages for this term,Month 1,$500,Target in title tags and H1s
+Keywords,Primary,Remote Teams Mexico,High,Not Optimized,Core offering with high search volume,Create dedicated landing page,Month 1,$500,Focus on benefits and process
+Keywords,Primary,Staffing Solutions Guadalajara,High,Not Optimized,Location-specific advantage,Optimize location pages,Month 1,$500,Emphasize Silicon Valley of Mexico
+Keywords,Primary,IT Staffing Mexico,High,Not Optimized,High-value vertical with strong ROI,Create IT-specific service page,Month 2,$750,Include tech stack and roles
+Keywords,Primary,Cost-Effective Staffing,Medium,Not Optimized,Key differentiator for value proposition,Integrate into cost comparison content,Month 2,$300,Use in meta descriptions
+Keywords,Secondary,Outsourcing Mexico,Medium,Not Optimized,Broader market capture opportunity,Create educational content,Month 3,$400,Target informational intent
+Keywords,Secondary,Talent Acquisition Mexico,Medium,Not Optimized,Professional terminology for HR audience,Use in blog content and service descriptions,Month 2,$300,B2B focused content
+Keywords,Secondary,Hire Remote Employees Mexico,Medium,Not Optimized,Action-oriented search phrase,Optimize CTA pages and forms,Month 2,$250,Conversion-focused optimization
+Keywords,Secondary,Guadalajara Tech Talent,Medium,Not Optimized,Location + industry specific targeting,Create Guadalajara talent pool content,Month 3,$400,Local SEO focus
+Keywords,Secondary,HR and Payroll Services Mexico,Medium,Not Optimized,Service-specific targeting,Add to services section,Month 3,$300,Highlight management services
+Keywords,Long-tail,Benefits of nearshoring to Mexico,Low,Not Optimized,Educational content opportunity,Create comprehensive guide,Month 4,$600,Lead magnet potential
+Keywords,Long-tail,How to hire remote developers in Guadalajara,Low,Not Optimized,How-to content for IT hiring,Write detailed blog post,Month 4,$400,Step-by-step guide
+Keywords,Long-tail,Cost comparison nearshore vs offshore,Low,Not Optimized,Comparison content for decision makers,Create comparison tool/calculator,Month 5,$800,Interactive content
+Keywords,Long-tail,Best practices managing remote teams Mexico,Low,Not Optimized,Management-focused content,Write management guide,Month 5,$500,Target managers/executives
+Keywords,Long-tail,Guadalajara vs other nearshore locations,Low,Not Optimized,Competitive positioning content,Create location comparison,Month 6,$600,Competitive analysis
+Technical SEO,Site Structure,Multiple H1 tags on homepage,High,Issue Identified,SEO best practice violation,Restructure heading hierarchy,Week 1,$200,Use single H1 per page
+Technical SEO,Site Structure,Missing meta descriptions,High,Issue Identified,Important for click-through rates,Write compelling meta descriptions for all pages,Week 2,$300,Include target keywords
+Technical SEO,Site Structure,Limited internal linking,Medium,Issue Identified,Poor link equity distribution,Implement strategic internal linking,Month 1,$400,Create topic clusters
+Technical SEO,Performance,Preloaded resources not used,Medium,Issue Identified,Page speed impact,Optimize resource loading,Month 2,$500,Technical optimization
+Technical SEO,Schema,Missing schema markup,High,Missing,Rich snippets opportunity,Implement Organization and Service schema,Month 1,$600,Structured data implementation
+Technical SEO,Schema,No LocalBusiness schema,Medium,Missing,Local SEO opportunity,Add LocalBusiness markup,Month 2,$300,Guadalajara location focus
+Technical SEO,Images,Generic alt text,Medium,Issue Identified,Accessibility and SEO impact,Write descriptive alt text for all images,Week 3,$200,Include relevant keywords
+Technical SEO,URLs,Clean URL structure,Low,Good,SEO-friendly URLs already implemented,Maintain current structure,Ongoing,$0,Continue best practices
+Technical SEO,Security,HTTPS implemented,Low,Good,Security and ranking factor,Maintain SSL certificate,Ongoing,$100/year,Annual renewal
+Technical SEO,Crawling,Robots.txt configured,Low,Good,Proper bot management,Monitor and update as needed,Quarterly,$0,Regular review
+Content Strategy,Site Architecture,Missing Services pages,High,Missing,Critical for service-specific SEO,Create dedicated service pages,Month 1,$2000,IT Digital Marketing Admin Finance
+Content Strategy,Site Architecture,Missing Industries pages,High,Missing,Industry-specific targeting opportunity,Create industry landing pages,Month 2,$1500,Technology Healthcare Finance
+Content Strategy,Site Architecture,No blog/insights section,High,Missing,Content marketing foundation,Launch blog with CMS,Month 1,$1000,2-3 posts per week
+Content Strategy,Site Architecture,Missing About page in navigation,Medium,Issue Identified,Trust and credibility building,Promote About page in main nav,Week 1,$100,Simple navigation update
+Content Strategy,Site Architecture,No case studies section,Medium,Missing,Social proof and conversion tool,Create case study template and content,Month 2,$800,3-5 detailed case studies
+Content Strategy,Content Types,Service-specific content,High,Missing,Target service-related keywords,Write comprehensive service descriptions,Month 1,$1200,Focus on benefits and process
+Content Strategy,Content Types,Industry-specific content,High,Missing,Vertical market targeting,Create industry-focused content,Month 2,$1000,Address specific industry needs
+Content Strategy,Content Types,Educational content,Medium,Missing,Thought leadership and SEO,Develop educational blog content,Month 2,$800,How-to guides and best practices
+Content Strategy,Content Types,Comparison content,Medium,Missing,Decision-making support,Create comparison guides,Month 3,$600,Nearshore vs offshore etc
+Content Strategy,Content Types,Local content,Medium,Missing,Guadalajara and Mexico focus,Write location-specific content,Month 3,$500,Why Guadalajara content
+User Experience,Navigation,Limited navigation options,High,Issue Identified,Poor user journey and SEO,Expand navigation structure,Month 1,$500,Add Services Industries About Resources
+User Experience,Navigation,No clear employer vs candidate paths,High,Issue Identified,Conversion optimization opportunity,Create separate user journeys,Month 1,$400,Distinct CTAs and landing pages
+User Experience,Navigation,Missing breadcrumb navigation,Medium,Missing,User experience and SEO benefit,Implement breadcrumb navigation,Month 2,$300,Improve site hierarchy understanding
+User Experience,Forms,Simple contact form only,Medium,Issue Identified,Lead qualification opportunity,Create specific intake forms,Month 2,$600,Employer and candidate forms
+User Experience,CTAs,Generic call-to-action buttons,Medium,Issue Identified,Conversion rate optimization,Design specific CTAs for user types,Month 1,$300,Hire Talent vs Apply Now
+User Experience,Mobile,Mobile responsiveness,Low,Good,Wix platform provides responsive design,Monitor and test regularly,Ongoing,$0,Regular testing across devices
+Competitive Analysis,Competitor,TRS Staffing Solutions,High,Analyzed,Global reach and industry specialization,Differentiate with local Guadalajara focus,Ongoing,$0,Monitor their content strategy
+Competitive Analysis,Competitor,Gordian Staffing,High,Analyzed,Clear employer/candidate separation,Implement similar user path separation,Month 1,$300,Learn from their UX approach
+Competitive Analysis,Competitor,Remote Team Solutions,Medium,Analyzed,Comprehensive service offerings,Expand service page content,Month 2,$500,Match their content depth
+Competitive Analysis,Competitor,Wexpand,Medium,Analyzed,Mexico-focused positioning,Strengthen unique Guadalajara positioning,Month 1,$200,Emphasize local advantages
+Competitive Analysis,Competitor,Alcor BPO,Medium,Analyzed,Strong content marketing presence,Develop content marketing strategy,Month 2,$800,Blog and thought leadership
+Implementation,Phase 1,Technical SEO fixes,High,Planned,Foundation improvements,Fix H1 tags meta descriptions schema,Month 1,$1500,Critical for SEO foundation
+Implementation,Phase 1,Basic content creation,High,Planned,Essential pages and content,Create service pages and basic blog content,Month 1,$3000,Core content development
+Implementation,Phase 1,Analytics setup,High,Planned,Measurement and tracking,Implement GA4 GSC and tracking,Month 1,$500,Data collection foundation
+Implementation,Phase 2,Content expansion,Medium,Planned,Comprehensive content library,Industry pages blog content case studies,Month 2-3,$4000,Content marketing launch
+Implementation,Phase 2,Link building campaign,Medium,Planned,Authority and ranking improvement,Guest posting and outreach,Month 2-3,$2500,Quality backlink acquisition
+Implementation,Phase 2,Advanced technical SEO,Medium,Planned,Performance and optimization,Speed optimization advanced schema,Month 2-3,$2000,Technical improvements
+Implementation,Phase 3,Optimization and scaling,Low,Planned,Data-driven improvements,Analyze optimize and scale successful tactics,Month 4-6,$3000,Continuous improvement
+Implementation,Phase 3,Advanced content formats,Low,Planned,Competitive differentiation,Interactive tools video content webinars,Month 4-6,$4000,Advanced content marketing
+Implementation,Phase 3,Partnership development,Low,Planned,Link building and co-marketing,Industry partnerships and collaborations,Month 4-6,$2000,Strategic partnerships
+Budget,Monthly,Content Creation,High,Estimated,Blog writing case studies white papers,$3000-5000,Ongoing,$4000,Professional content development
+Budget,Monthly,Technical Implementation,High,Estimated,Developer time and technical improvements,$2000-3000,Ongoing,$2500,Technical SEO and site improvements
+Budget,Monthly,Tools and Software,Medium,Estimated,SEO tools analytics platforms design software,$500-800,Ongoing,$650,Essential SEO and marketing tools
+Budget,Monthly,Link Building and Outreach,Medium,Estimated,Outreach specialist guest posting PR,$2000-4000,Ongoing,$3000,Authority building and PR
+Budget,Total,Monthly Investment,High,Estimated,Total monthly SEO investment,$7500-12800,Ongoing,$10150,Comprehensive SEO program
+ROI Projections,Timeline,Months 1-3,High,Projected,Foundation building phase,Minimal traffic increase expected,Month 1-3,$0,Investment phase
+ROI Projections,Timeline,Months 4-6,High,Projected,Growth phase,25-50% increase in organic traffic,Month 4-6,$0,Early results phase
+ROI Projections,Timeline,Months 7-12,High,Projected,Acceleration phase,100-200% increase in traffic and leads,Month 7-12,$0,Significant growth phase
+ROI Projections,Timeline,Year 2+,Medium,Projected,Maturity phase,Sustained growth and market leadership,Year 2+,$0,Long-term success
+Metrics,KPI,Organic traffic growth,High,To Track,Primary success metric,Monitor monthly growth percentage,Ongoing,$0,Google Analytics tracking
+Metrics,KPI,Keyword ranking improvements,High,To Track,SEO performance indicator,Track target keyword positions,Ongoing,$200,SEO tool subscription
+Metrics,KPI,Click-through rates,Medium,To Track,Search result performance,Monitor CTR from search results,Ongoing,$0,Google Search Console
+Metrics,KPI,Conversion rate from organic,High,To Track,Business impact measurement,Track leads and conversions from organic traffic,Ongoing,$0,Goal tracking in GA4
+Metrics,KPI,Lead generation from website,High,To Track,Business success metric,Monitor form submissions and inquiries,Ongoing,$0,CRM integration
+Metrics,KPI,Content engagement metrics,Medium,To Track,Content performance indicator,Track blog traffic time on page social shares,Ongoing,$0,Content analytics
+Risk Assessment,Risk,Algorithm changes,Medium,Potential,Google updates affecting rankings,Diversify traffic sources use white-hat practices,Ongoing,$0,Best practice adherence
+Risk Assessment,Risk,Increased competition,High,Potential,Established players with larger budgets,Focus on niche expertise and local advantages,Ongoing,$0,Competitive differentiation
+Risk Assessment,Risk,Content resource limitations,Medium,Potential,Limited internal content creation capacity,Outsource content creation establish processes,Month 1,$1000,Resource planning
+Risk Assessment,Risk,Technical platform constraints,Low,Potential,Wix platform limitations,Work within capabilities or consider migration,Month 6,$5000,Platform evaluation
+Success Factors,Factor,Leadership commitment,High,Required,Executive buy-in for long-term strategy,Secure leadership support and budget approval,Week 1,$0,Stakeholder alignment
+Success Factors,Factor,Consistent execution,High,Required,Regular content publication and optimization,Establish content calendar and processes,Month 1,$500,Process development
+Success Factors,Factor,Data-driven decisions,High,Required,Regular analysis and strategy adjustment,Implement tracking and reporting systems,Month 1,$300,Analytics setup
+Success Factors,Factor,Quality focus,Medium,Required,User value over search manipulation,Maintain high content and user experience standards,Ongoing,$0,Quality assurance
+
+|¢²iu‚çÔZ8u	$‘Óˆõ–‘z9Ï/`’ýz¶DW97XÄ²¹s¢É"A¢f/íI´Ùêq„†K|d¡”0)È¤¸‚2¦lEž9pZÓ>Ù[qs'%n.niŸG"{o3~CQÿã­?MwÁ¨‚Ï¥ŸCãÔUxÃ<“¿¨@†s}µÖ\?àx‘¢&Â]D&è[=Êð*c…á¾±Õ}×ð„ M.T•|~â"±]2s±®©µO×{uk‹m½!öœ•“N)çBJ„ÈjûWÛ)ûÏ ÒRlL$ª‚a_ÖºÆƒl*è8-`Ù€È'£ñ/Ëq”2>«w®ÛÚ–ÃÑT‹ñôµ„ã‹Úæ±<ŠAg¬ÉË¬¾ù¢‘ó9ê—Vºõg…u7ïûc÷ÒŽ%j®Û$Ò’nMq)Sk¥’b®˜u˜(XÜÁPžt¦<}:$^§Y ¦Ý}B«5œÈÑ±¸Ê3ð~t¿R‹zÝ"9f*ùƒÓ\Úß\p=ÁÃ£îÂ‘ ¤ðä$IÔQìÁ9zÏÉ%Ðv>2Óñj
+·¶n€Y;ÿ?w„ŽÕnƒó·ŽTdè<è,ÏÞjGÄþÍ·¡éc X¯ëžº¿zâqvªšñÖysÅþöž|R¾+½ÅPæ{®lLƒƒÊ$¢ú	"82ÉmÇÊQHÆ’NZ»Gí3ñ¿‹*7ï_L©FSueL¬®¾Y™I	$ØšË*¶|UŽ,ê´©ilóÖ=‹fáÝ<ñû²Z=º’*Gfº9BE’¯²ê?`ƒî¸žm°e¢õe "B}h"*1*…‡“D‡`Ï;‹hëOß.ê_¦ó.™|]Y°EêC‚ä1ÐRs¼9u(˜{«8?CoÃ™d"Ê0-4Nñjhó5»ÉI‹ÇÖZñ2ô2J™¤O"„:~nç^”wPCê™”t»1ò«	æäÿ¶çNøç¬GøJùÎ4_ÜÿñãûÏÅöçyîUc&—“½±~õ¦&S#"Ì¬V@þI&G]Ô<ùž=paÏÇýi3g`A¢Ô¹0$T´·„eõî‘õ‰Ÿ¿JÔHÆ¶ÿ#ù~bé-ý<Ë£Ê2q±Ã«ï|˜‰0öéx%D.™¢ÎòÐ¹F‰ç9Ì†Ë^c~‹VÓµLÙöØ½=ÍQ³¨?ŽÝ2É%„ ›áíè„	ëøñ2ú)=+’tru¼û0ñ•ž€üªb<êRE±m2.Ž}üG¨Ná§ñ~¢¥};‚|ºÔÊä$R¿ÜIj5ô9‚êšÎsÛ‡,,S½}º¾Ÿ¶)Û— s/3y{ú^89˜¿­Ð)ëæœÍNû'·²_HåÌ|çË×A4f¦`3ŽµëóVsoÜ»ÎõÞ«?mþg€¨ 8þýö¯iÒTªÆHqˆž)ˆ
+—>¼D6+"dè$™×ÿü¶{l”˜$›ˆÑ,ä’„Ê!d G$±L„VT"%y9€¡#î¢3¦RS’áýÇ…Íž2AÀ 5Û<Dˆ:	xö$ˆŠ‘ÇC>•²L!×¸&`_—¤åbÊì—÷+žê…Ç§ 8•Ï‡&s]ƒîJ7õ¸°„eå@‰X;'_´HQ\ª¯¹ñé·5×`¼›½ƒ×É¾d`@‚ºÏÖÖ+@r³ˆ`"w‰1˜˜BÂ+Og@Å©^X•GÇ>å°QÆñ‡~XŸKbŠúÉýv!¤ögpS›À™GJLš$^¡¬åSó©\„ªïÉ€u]@¯i[‚ß?Þ+6qƒ8©ÃÂ‚e3H¼¤HzÀwrég}¸2CÍnºÎ%g3¤%!ýš‡îÞ“…OXvW´Û«ŽåêˆRhây ;eªÑ³‚N,yi—@1âhBÝ,¡¤T¢·‰ÌDŠRO‹÷ŸÚq§2“
+mÓLÌ­ÁfŒ‰œF9	Í*¼Å?…'eøyÛöéTdÀ+¨d¾þúé´ƒÍX87GpS9@›ÜAÈ¡D!»+.ÊýtCeu7Ëñ»÷<cÂòæU^Ü&r]œ¬†Ÿ¤ugCõÍ>ö¼4GÊ¥ócóÛ·5	L=šS«óq*÷ë²‘ÈGZ„œ—ÉÄ³ÁvŸè-#…Q]{u—/ãÅ +SåxŠD‡´Yã©ÈgÎÈX†¡¸§­¹ÙžW”™N÷Ï¨þÏ*¥Ç'fPëÈëäÜ]Œ&I12hMG²¿yõ~ÁÊ¢’uÛHÖ`Hˆ'¯“·ÐäÁ#giH®±à¦A6øþýë†³÷ç…xC§ÀC²iØdâ—£Èd»E\ÔJÉŒäÕ\„BúDìÉþŒ¢”´(üÁ ¦v˜,0‰…„ƒ­ˆJ<ê$Ényç—äÈ„‚=_sé2× dZÖq	§ó‹6] ©Ò©{¹ÿÕ™¦c¼4ÏØÈž¶-ë¼Ûèk80QS¾»Ú”æU™>Ä!“BD¬ì/×[¢åãFŸ ZãF?ú#šï´g¿hu¨¶ùdÈ"zPzÑÒØG[)—f
+ÿ#L]!¹þb§$À@A¦þá£%åAÃ½X‰íÞ%ÿk|¿çýñD‚õŽäVîtl•·Ÿ•²f&
+m¹$4wÆÐÓ]ûË®@çÎC}jk}e‡æ¢dc CÎ†&%ãÐnºŽrRO'Ñ}>ÑaÔxë±x×¬ð¤ï©Ñ\žYü9Þ•A*u•SˆÓYW3Q ¢\!(Î"ä -»Eo›½«Ð"øgNMõe£Ô‘I:Ê†9&~U¼L®"b7	“	'ðùãƒð.%Z‡¤yKÓ·¹P¢/Ž²‡[Œ	’áb¸øô2è‘Ê‡Ç4¿¢EŽ=gÆÒ¨µ×DËí³*Â¡àÒ¹¼G6ÜµFŽÅËpF=áT"ei­çÒ2EiL$º×­¬ë´qRP£qÁØÁû¬Ç¡ú‡ì·½gáÀø£è¿$ÏÙØK|Õ€Otå*ªô9Ù0Bôó2Î©?qs¥Üì_Œãb%ê(²`ìJÔêêC š©$‚UÎÐræªÚý;;ÂÒï('ðÅ%2÷ÏtÙÃ?ÀØ¯ì=W}fþ/Žuâú®zÍM³®¼Üî•&+ÍŒðN½ûDU$¼@ŒKq;¤„-@ò|x¢1¬à•È†¥%äØ)ø02e)Rà.öLeÜ$†LëÓ¹* ž
+A1Ë (y	5 ~ûÌsáÉ:%ðFs±g0™‰n¯ÚwEÍ?‚£m¾9,ÞFDÜz’L	8±A‚**òÁÓøy˜u ð¬¿tŸmŸ:»y6Ï	%“ý8ö ¢P`“‰HŒšÄ‰•™Ä`¨±OÒI@a1ß J°¥0tï«PàcÃ0ÀŠ(¨c8ü¡†2Çün·ˆ’8xääD J¤0U%Hdâ×&6ˆ²•èÄèV–©Ë!g()ÕXg™ô8$l©°$•†•ëYNfLa	Æ”ŒMÒèµŽ•Ëë„P‘pb¦ZŽMª²¡“–MôrZd€Œ­ÎOF…v¥UQ:í®Et“c ˜@ŠÄg1[ìŸ]Z–Ò¹ƒ0ŠšEK$‘Ôä#DŠÊL¢²,dªšV@ °“B	–Ê¡”ÀßZ·2`ýª-ýz4Z~ï.Ã±UcÎm.n+o;‰æ&„Ç€° ñ9u®•šTIˆ„ >V1:´=E[%¤¶´éõIxG‹a“9¼Úg/åëJ†ÐÔÔ¼TØÔÉ…'É8.$Ç?†&—ÏŠ!*]!%BÚ”ŸmÉã$3íÆåíjL0#OÇÊÄ÷ÜjD,.É”tl´\|„ÄI§áëjþyPØñYxþC‹ „DŽRuA”‚ŒA-ü7#ÖâÝÑWvñ_È~¹Ÿ|žÓ!:CÖE–€êñº_xû1#f
+J,8Ù·é´áâË    ¯
+®Ú÷÷ããs-iRùÎ¼~ûüsß³·Æü_²Â—É°0xDK;€“bWrÈd&—*·íä•v/A°«ÿÓa“):šáÌWyHÅTèY’´,êMK”FP*ì¯TÁƒÞò è`{‡Þ»ÎðºËÌ6ùèAý0ö¡„‚‹æÄ;¹@
+ÉDBšDÒ¢F÷[qH·ÎÃšläOãÊËŸC2ÆæXyv¤é‰"Þ)’å´ÿúH‹ò›xI%ó}6ðçuˆX~ù©Elî¨8	s°ìVÛÍG>G¹÷gæå.æßºcÎnLøFxmˆ@d"@ É„& B†øãûº+y  ÙŸ®äÀPìË–¼b—“„NˆŽ>>JƒÝ@é½?åú¶‡]w¶ßê	é^˜mÇh?}rìþRfNO5fû<dÁ
+ˆI)´S¡È–Wò²tI^˜2lÛ*ç 0ËàÈ&’ð“pAÐ‰$cÖàôþ:,~`)$«;¶Xq!±<Š%ä‘hs¢_j#?:¾º2"ÕDÇb”‘Ãù7Ð†€…×ÿâ)§7HlCZˆ·È¤Ñ0œ5“‘œRLä&}?ÙÈH‰–•F(-Å’½6¤´÷¸J`·FDÀÁ£àò¬É0jY6s­9uØÈ‰ä†}žH¤"BÖjK¢·L@°ðh‰d«¤•4Ò-ÆL²´CðâQ‡èe2ZDdúÚÁeePý7¤Ýy‚¤=™ì‹“¤Ô0H½$Ö2)A%§'‚±I‰»_;&ß<øZxI2C–"`‡ÿ<Ê²F5Š\œÄè®…ºÅQ†ë.Ò³…ØýÏ[°‚&D\Ò´²1&T£ÐÀ   8¯ì¾3<Ër»šn[5úïz•Ç0•—¿aldÈ¤®#øòN	
+ÖO”B;­ù?fÎÒÿ„DÀºAünù´!d vé(
+ÉÇ©Içã¨"èÄO$Œ’8È‘\,‡~°©ÉëÚç'“®ñ—æZËŸ¸óš¶7Ô‰Ö˜=§¿èÉ¤ Eï'Â’›ÁeQ±×è[“KDÝ5á¶h§ÐÛâŸMVÃÀMçi»OXÌ#	ä¶a(I ö!ú.íg0Ø¡Ò\ò^^xÿ"o˜Ù¹?šW=­W×[gðï:Ze5¢”#ÛÌ– “pÈÆY €Ã‰Öê$ ê¼×Ivq$ŸÍIN?M”J-á|ý/g±üHOöÒÞàÓ<y€Áºòtô
+”Þò$9d¢8”…I÷R0™€;E‘"-ÕüæAd°Æ×£ÆÒAÏ MDJ•PDñÈÄ’F,‚1DÅ"AÝ “¡x÷éÛZãLqýr¤~Ð1%É% ïè·ekª¹?CBB&©•$Â&m
+^ãõý’Hƒ±Â9Ž·	ŠZF
+·ù0-5‘(HÙw"B·3¨‘>
+Að<L­1Kà8Ìpså¢1EÏ"x¤F,zz‘ÎÒI D¥ ”™U42*¶B¥ à#õJ‚$uû†@¸¦ê€_yì’$›bÁ¤kP\<<µ•!Ëä” ’„ÞóÉ­#.IÓHÂ˜D„"ˆtH£BHn–þšð§PšOŒ@A¹ò„CúòmIâ˜†
+üêB'EÒÚ•\twêh2É“	@”—Ã;«ç¼N·ñ¿Yå[êâÉÁÔx|‘)Â‚DÇ¡"aL9–î ÔÏó3ì_,ÐÄ ˆ‘×>¢Š„é:”ÂÆ4 X¯ëpŸkâ«×ÇUª«¹Z¥Òþ¥2
+SçbÚ&X¶”éei59	B^@„J!§/worksheets/sheet8.xmlPK      ? *FÙ¼‚  l             €h´  xl/worksheets/sheet9.xmlPK      ? t	³àø  ˜~             € Ç  xl/worksheets/sheet10.xmlPK      ? &o›:  À£             €OÜ  xl/worksheets/sheet11.xmlPK      ? J5$i×  S             €Àö  xl/worksheets/sheet12.xmlPK      ? L0lS  !             €Îø  xl/worksheets/sheet13.xmlPK      ? F$bˆD  É             €Xý  xl/worksheets/sheet14.xmlPK      ? ÐBWÒ„  á;             €Ó xl/worksheets/sheet15.xmlPK      ? 	Ž±Ý               €Ž
+ xl/worksheets/sheet16.xmlPK      ? Â4€UÁ  s             €¢ xl/worksheets/sheet17.xmlPK      ? v”‰”  8             €š xl/worksheets/sheet18.xmlPK      ? ˆ¨”  8             €e xl/worksheets/sheet19.xmlPK      ? ŽÀn  9             €0 xl/worksheets/sheet20.xmlPK      ? ˆtÎ›€  ½             €Õ xl/worksheets/sheet21.xmlPK      ? ‰—  h             €Œ xl/worksheets/sheet22.xmlPK      ? ½á~r’  09             €Ä xl/worksheets/sheet23.xmlPK      ? éšÙ  ¯             € xl/worksheets/sheet24.xmlPK      ? 6øê|Ë  >             €Ö! xl/workbook.xmlPK      ? Æ¾æÕ# ²h            €Î$ xl/sharedStrings.xmlPK      ? ô¾ê‹  ¡             €ÕH xl/styles.xmlPK      ? úFT°  R             €‹K xl/theme/theme1.xmlPK      ? iCý‡  …  #           €lQ xl/worksheets/_rels/sheet8.xml.relsPK      ? â–%  P             €ºR docProps/core.xmlPK      ? IfúKƒ  W             €T docProps/app.xmlPK    " " *	  ¿V   ÄnD<šHàó¤ÑSe(î-Og{¥nIvd)E:BLK‹..!DÒ6çÕNF9%›ˆ2*dIÿés8Q…T4TRÚZ;1mÃ´!¬¡9a³ÄÏQ[œƒ50Tåé/B$+° C xÙƒ>—á‡Z‰  ÿû’Än€Á“„€û²©3  $HÐvÆü ba°yô—Cò1YRzfÝJFvï³µw'R„ôˆ?üi»_ÙÛ®×Å6_ö=5ÌãÍõhõwR«·/%0<n9yb®eYÙt¦šªîC–)õzŸ?uêÌ¼'æíeÈ„N'WU©1·_(Ôb@Äåý§§“Ã—KëÑÃÓÓ’»ÐÔ;.}£¹÷-îÛ¸þK-;#°ÃF•‰u&7!Èû±?/séC$µj¥Zú³ÜÊ´Õ56âÕT³H”  1Ëaì_‚Vwš ª!G
+žï$ƒr›öbx¹Ô¤…/î-vR7¡gâ±ãZSo-˜q÷Ô¶·›ýÄjs,¬JåºWR¡ç´¾YæÜXÑSmPï‡UßV(5{M{r‚¬m…§±!ËmÿJéö ËhrˆþÏ½¾5mþ}wÿÞ+ºé¸ÕÞ=+Œn™¶¿úÜé{¬#1
+¯B€­Ã‰O1}S”¨šÆé»;9~|Àrmnö*ˆ@Ô<Éÿû’Äf€ÝƒG|÷€^®ê¸ôŽyÄ™Dc'$…Iž{†Œ†Ì›@€‘F3ìu·•}¥­ÀP	ÎH!öm²+?6	Õ d»bõ"Skš'‘†ä«dp¦(ºp¼Œ[!P8²sÈ  @ˆ~ç™>P¢:n	Eži¤°D»1ƒRzüšº©1™  )ò«0I‰(,&A:?ÓåTŒ1½J@QÔšZ›|nÏ"û-¾*fy§¨ÝùŸö+Zœ¼v.¤ˆÓ$tç<¡áBÑì<‰”w¨¼(¡ôd`a±§&Nò\/—4˜F¬¨$ž$é‘Ôu2$p½x&¤¹îÏù)X‚PÔF,[úLP ePvP	Ò!'·t‰4”ôMÄ<L3-±´
+h9@'‘Ä8Š)ŽøêÑôc¤¶51…ã¬$ôçF % è¡_!dåk	ÑR¦ùWDÐrhÞû¾oá¯øhxìšê.¯‘™¹ü‘WruHÿCÊÔï|@ŠQƒè£-m¸nù½¼Ô0ó,pñ‡‹‚ÏšãbT™çÍULAME3.10ÿû’Ä‘€e]ç™1Éü0.<ñ"c0x‰‡wdG@ ä‘ënE,xGå×sŸF†ü@.ŒjóšÞ&‰hn¢GåÄš„%ÖµŸgù5K9-økæñ›nŒÞL®(—oû5¯ÿïò½¹V}!HÚ´¢!bê›0!HÑUY<):ðÈ”*ze 58 
+/Info 1 0 R
+/Root 2 0 R
+>>
+startxref
+55025 
+%%EOF
+                                                                                                                                          	ò  @   ˆËÊÉÈ95a–äY>”Ši?u6 ™¸Ð.6ê˜´oÇÆÅÄ—mÇ#ã­47#rGY  ãâuðÿ 	|     ‹      „UÇ®ì¸ü•‡·²kžr˜rnµr«CPÎ9k0ÿîÛ×†a¯LpAžSU§x‚üÌúu®²åçï?þþÇÏßÖ¨øZýÌ«6ûù·?û¨Ë>{wX)”xšûDÇh-Ãv8²ù“ûµ|ûõÇ²s÷cÎüúë¯.»×¨ýõ[Q­¿òlMÊ°Ì¢ô?ä´ZÆ6º¾éö¿èö7Ý¾éúÑÿ·v•~HUú»ûzžVñó•þ÷hÔöø@’¶ú»!­ò*ûÆÃ ŒÀ¸#¿£à×| K6ïÙü ð7tÎöOGQ’È’(ƒ#<N±ù–ªîO«(ìcr	ÓáèÛ!J£¸ý„×yË>Ö†~ýx+£¥ü¨‘ŒÄx‚E0c	Næ–c1ID(‚‘Dh¥‘„ÆTšc
+Â(ŠP8Ž$h–ýüóÕm^†ï» i'(2òEÛm÷“C·óBÞ0f·{ˆÙµ´ðí‡c„ðQŠ;Ñ=Meˆ´¸Žbò·!±(fÖV MéË±–nc!·†ï£±Ku
+É,þÒ×ˆ±Pb£îÒ’]`rË:ª|-	ÇBë[%\'<ÈU#æìkHÄƒgÏ!+¸Šß¬õÄ’Y,¬0Óx<Ö-`ÿ±äqŸ~) .(:…Ø.*þWirO}4Ãen“¶”|OVëëHÐÎâFT]^ÖVPIbI‰”ë(&ÖõžÚ”ñ ¸kðš­Lí[®æ¯ž“
+• µñ”Ê½¿ÚÅ1hÐÉsìÝÙu³nHÑò*ã›†3P£ÝŸ]ß[2J:Ž¥E†P¶$î*SÙk/Ó{@0Xe`d}äV3õ~º›.0×í¢> ¿»h¨¡*ð‰;D&Î'„,õ9g~´dp¨èBu6—I9TQO£"ÞMlkô!}ÇŽ |«º&`›„Ïüð‹P9CžKÙàÉ®!Ê:‚ÙXÓN¶|ß¨Í]\Î`~JÔéô.hGÛÐ(Tß½½<rL£4	vDâø£œ›–­ak£Ci¼·oYOÄ }‰ühAUFÖl}úèØÏ¯f…C8è‰ 
+GÒùŒáz1³vÃ¦9ö:î<{øÐÈ8¬Ò4+*¯Ñ:ŒøF— üÒu¼RLÚÇûu.¥ýšžö­½©3.r¶]d…a”cGlÊX…‘|ò#ÅŽ#×.O-œU£zÓ:d(ŸJ{[®e³kWï:¦5¾dbXîÏy;¸iÐ™º&#U0ÓÔý"5”ìõUÊ±0-Ê#Mëº/ÜÕø^ÅÌ¡‡ûYùš³ƒÊÂ~¡m´ã€¢"gàsv}C@0‘o¹Ø.DÍÚ#ƒHZñ) Ñ‰iËwßS5³‹cÃ½ž5¶£þÐ'%ÉÙT{Õ·´d|ãÀºå„¿p‘±K? éêJ¸g<Ôa³{‚	l| €<õ&”FE6ààmžöõ‰}w~ ËL7š4y—&rRªK™Û³xñk›¦¼xéx·Å ÓRg‚š™p©7ïØ~œT|©
+ûä£Æœjõ5eä»æŒŠPvY^™Áæ©0Bj^ÌWÞmé“]ÚæYmâ(pf5´büåÜÇd&HX”eB]¦g<Oß‹0žÑ†aã°rñ™\€	˜¶d4:!¤\Õr’'R ä{•áÖõ‰*Ò^mºMÃ4¦:"öXAêc0ô¦©ÛB>á%*û=RË x4³$ïª•´p‚¡4)¨r>”/ƒHëu:í°9È6þ<˜%×wJîš‰Än¥f0 2[®–j¼ÂK ‰w¨¹O’dÄ<µ¤-iG¤“Ê‚îi£FHg¯¥|ß.~ãg]Ä=`Ðh/–3‰£?z¸ß¤R¦%n<®„Ôq>a4Á¡E#ÚáK®È±{,JXÐ×i™ëš†X¦c›û¸ªÖs`Õ;8¤^–HÚ[Sj6mÇ¦ÛŒ ïÚZ2¦5NK4Ï0HãmÝÏâëhöÁPÄ!hÓÇž§ù®©&ô{po?Šý`ð7÷”mRb^‚ß.JŒã’°x:B±GV™ˆh(ìÎˆp y¬È4(¦‰æb¢?[Ðm	Ýƒ¥0&í¤Ó‚§Â¦B{\o¯It4¬ Ó…Êï,ób¥	&LagŒ~‰Ô¢»¼Ê-Ú•2¿ïuÿghŽÝáý'…õ•³*€tE&ÂPäq”^„á…À Ò«Ôäîýúïá+Ö4"ãQ…ž:oŽÁˆàšrdSFmóºáS4å5!‹t==S¼ž?x°xæ"Y¼L{‡ytúûÂê¼IŽf6C$´‰r,(&Tª’;GŸÞ7Ýk¨>ÕOœ¬Ÿg£Âëo«#Ã	:ˆ±¬–÷YúáS&Nžºqr’e´áˆ-ö‹DfvdÃqyrƒÐvŸâ®Øår$Õ;ùÎÉ$“¼óåÝÍªíHzÛÉ¦»òÇ•÷_Ñ¬Æ‚ñÙ6w²ïƒßO*Š)ÓGŽn£Iù÷¡l«X}Ö|–³§ª|Ã)Ôuaj’J“÷ÅM¦/È­/þvß¦êA™ép‰] ?ßr'I}Ìçi·ßc(¢g°á¹g_>YÖÿRµnÃÒ*V–Nå!7}|Õö`›øcÅ‡ÊW­n‘ðê­ÍÀµ)Uìä!üæ™ÁöÊHL¥ó!Çap…{z!á–àiJ+ÄH—jâ£l}Ï1sþÞxc\	¹ðÖ.ÕŽ4íU‰©éÍº³pòˆƒ-‘­Mu^ã8°`"“õÃ7¾2Ýï,Ï?#ÙQ3uäIÆ’Ò®¢=HbƒT_I`#áá¡–ü5,=ŸÕ_Íùqne,œ_æ<ÀÖlÆ9Ê á`–D$¤$Ûh äÊ	”P{Óô¾8Ñí†Ô„‡i_†ÃÅ8G3’²ÂÝŠçÍ!òÐŽ)þÑ‚b£ÍhPø‡5{°Â›Þ†¼á"Ùê¸Æ©'2*¥Ò*ŒK8oº=ÔËV5œ>V³±À6œq!ç¢J™f¸÷ˆZÏMhÒ¾~ê5wáQ@Ç›Š„"vÚ~>ÝXˆŠ[&_RqÙ6ÌvÄ§~ê°yQbX¥›l¬Î9‰¨ÊOýù¢nïÁ¨Åõ”»‡V®f?Ö³í:šº×”ªÇ†ð\w}+ÇŒŽÝr_Öºðe-•TëÏÂ?ÞþL=ýÁ7›9û÷  ÿÿ  
+     YHFÈg  ÒÜrD1G(gtÛ‡ðÔÁ un‚–dÙ;¸“‡q‚c"4AN—mt<Çéë>ˆ,¡C•’¾‰gM¿ÝQ—»çIšQËwJPR,aEÊÑÀ-óòE¿¶¦X Ybê_Çƒ çw§»„üE‚)­žð¯…¯¼½šúû/|ßù€ëÿþ  ÿÿ  
+     ›]yâg  u•–ëgr;æûáÉö6H¨~’ÞTœ—œ=míêø,†RñšyŽw•¦ã*  {•×u[¦   Â0‚¾0‚¦ ØÙÕXCFöŠ/§T"~Ä0	*†H†÷ 0a10	UUS10U
+DigiCert Inc10Uwww.digicert.com1 0UDigiCert Global Root CA0210414000000Z310413235959Z0O10	UUS10U
+DigiCert Inc1)0'U DigiCert TLS RSA SHA256 2020 CA10‚"0	*†H†÷ ‚ 0‚
+‚ ÁK³eGp¼ÝOXÛìœíÃfå1T­JfF,
+ìdå.ÜÜ¹
+ íßãÄÐžš©z‚ˆåVÛŸXÂQç,4.Ò’áVËñy_³»‡Ê%{šRAf`OWIðè7gƒßçÓKgL"Q¦ß™íWQt&â}ÇÊb.#ˆ%SoÁ4X ‹„ÿø¾§XI"{–­¢ˆ›¼ |ßéQ¨Õ°í7â6´‚KbµIšìÇgÖã>õãÖ^Dñ¿qB}X„€±úùÊ2»´Ž'‡'Å+tÔ¨Ö—ÞÃdùÊÎS¢V¼xŽI)®ûIO¤¹Îò\Wmky§+¢' µÐ=@Ó!0“ê™õ £‚‚0‚~0Uÿ0ÿ 0U·k¢ê¨ª„Œyê´Ú˜²Å•v¹ô0U#0€ÞP5VÑL»fð£âÃ—²=ÑU0Uÿ†0U%0++0v+j0h0$+0†http://ocsp.digicert.com0@+0†4http://cacerts.digicert.com/DigiCertGlobalRootCA.crt0BU;0907 5 3†1http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=U 6040	`†H†ýl0g0g0g0g0	*†H†÷ ‚ €2Î^ÝnZ
+¯áÖ„ËÀŽú…píÚ]³÷+u@þ…
+úó1x·pK‰Xº€½óké~ÏºXœYÔÓýlýÐ˜m·q‚[ÏmZ	Ð{ÞÄCØ*¤ÞžA&_»™ËÝ®á¨oŸ‡þt· «±OÆõg]]›<éÿi÷alÖÙóý6Æ«ˆvÒK.u†ãüØU}&Âwß>¶|ó«{z†6o¸÷Ø“qÏ†ßs0ú{«í*YÈB„;RóÉ}¢[rgºqíWGfÅ¸Je4^‹Ð*< œQ™LçRž÷k+’~èŠë6C‡ê*c¿u?ëÞÄ»
+<÷0ïë¯Lü‹6s>ó¤   ³0‚¯0‚— ;àVBF±¡ujÉY‘ÇJ0	*†H†÷ 0a10	UUS10U
+DigiCert Inc10Uwww.digicert.com1 0UDigiCert Global Root CA0061110000000Z311110000000Z0a10	UUS10U
+DigiCert Inc10Uwww.digicert.com1 0UDigiCert Global Root CA0‚"0	*†H†÷ ‚ 0‚
+‚ â;árÞ¨¤Ó£WªP¢wÉ¢¥îÎ–[	 Ì“§N0·S÷CÄi Wâ"Ý‡@ 	ÎÎƒ¿ßÍ;qFâÖfÇ³v'{ž•}î·H£ÚÖ¯z9eJ]¼ø«¾î(×tzx™Y…hn\#2K¿NÀèZmãp¿w¿üö…Ù¨DX2©uÕÑ¢¾Gâ'jôš3øI`‹Ô_´:„¿¡ªJL}>ÏO_lv^ K7‘žÜ"æmÎŽjËþÍ³dÇ[)ž2¿òîúÓBÔ«·A2ÚÔïøÕ»X?µèI(¢pÚ1Ý÷²òL
+N¨íJ=^µ£Ã¯' £c0a0Uÿ†0Uÿ0ÿ0UÞP5VÑL»fð£âÃ—²=ÑU0U#0€ÞP5VÑL»fð£âÃ—²=ÑU0	*†H†÷ ‚ Ëœ7ªH
+úÝDœOR°ôß®õyy£$üK+„À-¹ÕÇþôÁXË¸mœztç˜)«µãp ¡ÍLˆ™“Œ‘pâ«¾“©ÿcÕä`Ó£¿[	ñÕŽãSôŽcú?§Û´fßbfÖÑnAò-µêwJŸXâ+YÀ@#í-(‚E>yT’&˜à€H¨7ïðÖy`Þ¬èÍn¬D8/IÚáE>*¹6SÏ:P÷.èÄWIla!Õ­x<,:€k§ë¯éØ‰Á¹8lâ‘lŠÿd¹w%W0À$£áÜéßG|µ´$0ì-½¿E¿P¹©óë˜­ÈˆÆ˜4_
+<ÆéÕ••mÞ    HéÔ-ÚxžéñSîúQí‚X°³RÜ%'ã<¿±Ú2U!ü4ˆXÍN°¸¹"‚õ¥ ¼ôxì ³V³²¢Þ’µÈ·3­Æ Ñ¹ aîß¬Aä†Äy—Åh©:KÖí>*ÉÌÏl$pèÏ¶n@±§?&L­‡jh£âª—[h'zñ@ÿlŒy\AHžºÌùJ©]2Ç54­&8^ô%á(+á
+ò2'nl#U‡… +['nfƒ#kår­ž³˜†ŒÎÒ‡ùßOm¾VJ›½-MÞF1(t-nÅtZ+äÃ EeA¡Øˆyh@Ép—ë  0ÁWI^ŒßÇ¹‹xèt<½[‡þƒ·¸\®‹v£yRô›’Sèa‚8{bÕðç/wÿ‰[_ZF­33Á’HsKÏpWBo4Ì£·sÈŒ»zs±\½•X®Þ,×@o:}˜nv—A¿ï/
+ú=~¹úý|vBx¸û…L'ÍQ^“w]œ…2 fN”*)ò È\2xÑ°™‘º‘m@3Íç›§TÍ5É%$œî®}$èÚ¿ƒ:Ê¤­»ìœÊ9¬·ÐüjØ¦ÄÌ>EÅL?¡ütpM”¦…[0M$%ô^³íø62óëÃg¿bÃÑ&•ê"v9RÖÞ–WwÀèÝÒTb Ó“)ºÆÓü—ºKíÍDßFiFš=Ñ(š±ì†æ§‰ºÓìjËRW·
+‚*+Ý%z¤^Úé]E¨„ÞeLÈ£½yl"a›±˜ÔTm
+?Ñ]*½Áoý·FÝü{`Hµ¼6žÿÍªÆïüÏ€Ã9i¦H›ÉtVÄ€¿‰­ˆÞŠ<P4˜Gw9ô~U½A•CoFPåÐûHò½à-ô¶u|è­ª^ža±–îÀ[†f ¢™í÷%in4ƒI£÷=I¤¯â¨ê¡eVø9•xøy·ˆšÁÆÞa`·QÜ2 j†?ú2`k"Eá@6ƒÍ.zJ

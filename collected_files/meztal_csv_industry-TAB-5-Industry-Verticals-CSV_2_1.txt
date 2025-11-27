@@ -1,0 +1,11 @@
+Industry,Primary_Keywords,Secondary_Keywords,Specialization_Level,Market_Size,Content_Priority,Target_Page,Notes
+Healthcare,"nearshore healthcare, healthcare outsourcing mexico, healthcare staffing","revenue cycle outsourcing, hipaa compliant outsourcing, medical billing mexico",HIGH,Large,HIGH,/industries/healthcare,Established specialty with compliance expertise
+Senior Living,"senior living staffing, senior care technology, ageless tech","senior living software, care management systems, senior care outsourcing",VERY HIGH,Medium,HIGH,/industries/senior-living,Unique differentiation and underserved niche
+Fintech,"fintech developers mexico, financial software development","banking software development, payment processing development",HIGH,Large,MEDIUM,/industries/fintech,High-value opportunity with regulatory expertise
+E-commerce,"ecommerce development mexico, online store development","shopify development mexico, ecommerce platform development",MEDIUM,Large,MEDIUM,/industries/ecommerce,Growing market with platform expertise
+SaaS,"saas development mexico, software as a service development","cloud application development, web application development",MEDIUM,Very Large,MEDIUM,/industries/saas,Broad opportunity across all company sizes
+Manufacturing,"manufacturing software, industrial automation","factory software development, supply chain software",MEDIUM,Large,LOW,/industries/manufacturing,Regional strength in industrial sectors
+Government,"government software development, public sector technology","civic technology, government digital transformation",LOW,Medium,LOW,/industries/government,Emerging opportunity with compliance focus
+Education,"education technology, edtech development","learning management systems, educational software",LOW,Medium,LOW,/industries/education,Growing market with specialization potential
+Real Estate,"proptech development, real estate software","property management software, real estate platforms",LOW,Medium,LOW,/industries/real-estate,Emerging technology adoption
+Logistics,"logistics software, supply chain technology","transportation management, warehouse management systems",MEDIUM,Large,LOW,/industries/logistics,Strong regional advantage with USMCA

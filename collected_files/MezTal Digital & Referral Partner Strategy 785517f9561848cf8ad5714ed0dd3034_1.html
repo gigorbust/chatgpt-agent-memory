@@ -1,0 +1,694 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>MezTal Digital &amp; Referral Partner Strategy</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.collection-content td {
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(50, 48, 44, 1);
+}
+.highlight-gray {
+	color: rgba(115, 114, 110, 1);
+	fill: rgba(115, 114, 110, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(205, 60, 58, 1);
+	fill: rgba(205, 60, 58, 1);
+}
+.highlight-default_background {
+	color: rgba(50, 48, 44, 1);
+}
+.highlight-gray_background {
+	background: rgba(248, 248, 247, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(248, 243, 252, 1);
+}
+.highlight-pink_background {
+	background: rgba(252, 241, 246, 1);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(115, 114, 110, 1);
+	fill: rgba(115, 114, 110, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(205, 60, 58, 1);
+	fill: rgba(205, 60, 58, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(248, 248, 247, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(248, 243, 252, 1);
+}
+.block-color-pink_background {
+	background: rgba(252, 241, 246, 1);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-default { background-color: rgba(42, 28, 0, 0.07); }
+.select-value-color-gray { background-color: rgba(28, 19, 1, 0.11); }
+.select-value-color-brown { background-color: rgba(142, 58, 1, 0.141); }
+.select-value-color-orange { background-color: rgba(213, 96, 0, 0.188); }
+.select-value-color-yellow { background-color: rgba(209, 155, 0, 0.238); }
+.select-value-color-green { background-color: rgba(1, 104, 42, 0.145); }
+.select-value-color-blue { background-color: rgba(45, 149, 218, 0.236); }
+.select-value-color-purple { background-color: rgba(104, 1, 184, 0.125); }
+.select-value-color-pink { background-color: rgba(204, 1, 88, 0.137); }
+.select-value-color-red { background-color: rgba(228, 26, 0, 0.148); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="785517f9-5618-48cf-8ad5-714ed0dd3034" class="page sans"><header><img class="page-cover-image" src="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/CleanShot_2024-08-24_at_04.01.142x.png" style="object-position:center 50%"/><div class="page-header-icon page-header-icon-with-cover"><img class="icon" src="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/meztal_mescal_logo-Photoroom_(1)-Photoroom.jpg"/></div><h1 class="page-title">MezTal Digital &amp; Referral Partner Strategy</h1><p class="page-description"></p></header><div class="page-body"><h2 id="bb9eddf7-9c6d-4e0b-abbd-e8528fa07f07" class=""><strong><span style="border-bottom:0.05em solid">Table of Contents </span></strong><span style="border-bottom:0.05em solid">(all pages):</span></h2><div id="69943f38-4cbf-4ea7-8580-cb6541f382b8" class="column-list"><div id="44404597-d9c6-445a-962b-1b9f0af90342" style="width:56.60377358490568%" class="column"><figure id="75ac67b7-3fe1-4d39-9a50-d0e26c4ead2d" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Strategy%20Proposal%2075ac67b73fe14d399a50d0e26c4ead2d.html"><span class="icon">🇲🇽</span>Strategy Proposal</a></figure><figure id="25997ad8-c50b-40f2-8306-3cad1bda109f" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Website%20Proposal%2025997ad8c50b40f283063cad1bda109f.html"><span class="icon">🖥️</span>Website Proposal</a></figure><figure id="8b079f08-27a4-487b-9375-af84cf646e2e" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Blog%20Ideas%208b079f0827a4487b9375af84cf646e2e.html"><span class="icon">📝</span>Blog Ideas</a></figure><figure id="3bb17b1e-8002-49b6-b079-6b9f2e5f440b" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Competitors%20of%20Meztal%20com%203bb17b1e800249b6b0796b9f2e5f440b.html"><span class="icon">🥊</span>Competitors of Meztal.com</a></figure><figure id="cfdd01db-fe8b-4ca8-a312-dea73ddd5614" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Lead%20Magnet%20Ideas%20for%20Meztal%20com%20cfdd01dbfe8b4ca8a312dea73ddd5614.html"><span class="icon">🧲</span>Lead Magnet Ideas for Meztal.com</a></figure><figure id="a76b4f46-3a7d-4e9d-a28d-eee97c95c81b" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Job%20Listing%20Sites%20a76b4f463a7d4e9da28deee97c95c81b.html"><span class="icon">🔍</span>Job Listing Sites</a></figure><figure id="32a817aa-1fce-41ee-bbfb-610b3c7c19e4" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Referral%20Partner%20Strategy%2032a817aa1fce41eebbfb610b3c7c19e4.html"><span class="icon">🤝</span>Referral Partner Strategy</a></figure><p id="5c82a7a0-3631-4ab2-ad83-30fb0e1ea101" class="">
+</p></div><div id="98c75082-7e3c-4e4f-aca5-705b3103881b" style="width:43.39622641509434%" class="column"><p id="67e48619-fe75-4b55-aca5-de45c6e31f08" class="">
+</p><p id="734b7c00-16c0-47a3-a4b2-abe8c52cb4c5" class="">✅<strong> Task Request Form:</strong></p><figure id="aa1c9caf-f16f-43f0-a428-f78dbfce270c"><a href="https://app.itsdart.com/p/r/D0QHkcylZnbi-Task-Requests-Ideas" class="bookmark source"><div class="bookmark-info"><div class="bookmark-text"><div class="bookmark-title">Dart</div><div class="bookmark-description">Dart is the ultimate AI project management tool. It will save you seven hours per week in project management overhead.</div></div><div class="bookmark-href"><img src="https://d2hzl9q4421psk.cloudfront.net/static/dist/assets/favicon-0d277196.png" class="icon bookmark-icon"/>https://app.itsdart.com/p/r/D0QHkcylZnbi-Task-Requests-Ideas</div></div></a><figcaption>Visit this form to add tasks directly into Dart ☝️</figcaption></figure><p id="1f0b75d6-1f1e-4a28-a890-7aac5a849279" class="">
+</p><h1 id="bc99926c-e319-4adf-8320-4051f5da8c1c" class="">🔗 Evolving Dashboard</h1><p id="994774be-8a20-42e4-ba4f-aee9cda7dc8e" class=""><a href="https://start.me/p/bpAR0R/dashboard-meztal">https://start.me/p/bpAR0R/dashboard-meztal</a></p><figure id="3111628a-130a-42a2-b28c-b485c3991555"><a href="https://start.me/p/bpAR0R/dashboard-meztal" class="bookmark source"><div class="bookmark-info"><div class="bookmark-text"><div class="bookmark-title">Dashboard: MezTal</div><div class="bookmark-description">A startpage with online resources about Dashboard: MezTal, created by George.</div></div><div class="bookmark-href"><img src="https://c.start.me/assets/favicons/favicon-256-9bbb71f97214acb098c1904dac3d29dff90eb416945f576066b466dc727133dd.png" class="icon bookmark-icon"/>https://start.me/p/bpAR0R/dashboard-meztal</div></div><img src="https://c.start.me/screenshots/p/bpAR0R" class="bookmark-image"/></a></figure></div></div><hr id="b4b2d236-e62d-42ae-bcc9-6fd52dd155ef"/><h3 id="7ec93cf6-843c-4a90-ae06-84ccbd04d081" class="">GDL Meeting Notes, Recordings, Transcripts:</h3><div id="70a2613a-2e63-4113-8ead-810b1369514a" class="column-list"><div id="f55177bd-3ab7-4502-92ea-94f160e1dd6e" style="width:40%" class="column"><figure id="b3c75fc5-a29a-4b21-92a6-51c38b6de445"><a href="https://otter.ai/u/Xhyu4wl8EVTsM2uhUJCGnS-Oj3s" class="bookmark source"><div class="bookmark-info"><div class="bookmark-text"><div class="bookmark-title">Otter Voice Meeting Notes</div><div class="bookmark-description">Otter.ai uses artificial intelligence to empower users with real-time transcription meeting notes that are shareable, searchable, accessible and secure.</div></div><div class="bookmark-href"><img src="https://otter.ai/u/favicon.ico" class="icon bookmark-icon"/>https://otter.ai/u/Xhyu4wl8EVTsM2uhUJCGnS-Oj3s</div></div></a></figure></div><div id="a1f4e2b0-7b91-4d2d-8ca4-68dabb6ecd0f" style="width:28.000000000000018%" class="column"><figure id="dc921863-7d9f-40b7-8ab6-5b804da75864"><div class="source"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Meztal_Monday_-_Digital_Strategy_Meeting.m4a">https://prod-files-secure.s3.us-west-2.amazonaws.com/1f2e5251-869f-414d-af6d-ba91d93510c0/b846e5bb-73d6-4cfc-9ce2-93512006ddf8/Meztal_Monday_-_Digital_Strategy_Meeting.m4a</a></div></figure><p id="61b9b2f1-c52b-4a72-9201-2e54e40c46d8" class="">Meeting #1</p></div><div id="53f091fb-5018-44e7-8e6f-3661b29f3ccc" style="width:32%" class="column"><figure id="fce490ab-b7d0-4bd9-9768-b2b2281e2985"><div class="source"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/MezTal_-_Colegio_de_Bioetica_A.C.m4a">https://prod-files-secure.s3.us-west-2.amazonaws.com/1f2e5251-869f-414d-af6d-ba91d93510c0/120ed196-48ed-4eff-b934-0f00bf5fdec1/MezTal_-_Colegio_de_Bioetica_A.C.m4a</a></div></figure><p id="5503d63b-dcc3-4587-89d0-5a4c75d49933" class="">Meeting #2</p></div></div><p id="26607f44-4279-4d33-98b3-a4c59d66a2ab" class="">MezTal is a company specializing in talent acquisition and remote staffing solutions. With a focus on connecting businesses with top-tier professionals in Mexico and Latin America, MezTal aims to bridge the gap between talent and opportunity. Their services cater to companies seeking to build dedicated remote teams or nearshore development solutions.</p><p id="e8f84faf-4b10-4a61-a5a8-aced7ce867fa" class="">
+</p><p id="626cf002-a844-44e1-b3ec-bc7d721d8e48" class="">Guadalajara is the capital and largest city of the Mexican state of Jalisco. It is located in the central region in the Western-Pacific area of Mexico. Guadalajara is the 10th largest city in Latin America and the second most populous metropolitan area in Mexico. The city is named after the Spanish city of Guadalajara, meaning “river/valley of stones”.</p><p id="d5e4664d-39f9-4deb-aea4-54257823ebb0" class="">
+</p><h3 id="9f20db7a-cf73-4da7-9d30-bdfa4b4223e4" class=""><span style="border-bottom:0.05em solid">Office Locations</span>:</h3><div id="7de584d9-70d0-4d7d-97f6-75cdd2c02686" class="column-list"><div id="317c1b2f-1fcf-4a18-a96f-c358e6373fb7" style="width:50%" class="column"><p id="6cbe0e7e-479b-4b29-b45d-43f0429b7fe9" class=""><strong>MezTal GDL Offices</strong></p><p id="9816a6a4-3809-4560-b3e9-3ed877a86ea7" class="">Av Adolfo López Mateos Nte 95, Italia Providencia, 44648 Guadalajara, Jal.</p><p id="451493e9-871b-430d-9936-8428c604eac9" class="">
+</p><p id="30ee5bf1-798c-49c0-9335-ea4f26f6d3b1" class="">MezTal HTX Office: </p><p id="85dda905-67a2-403e-b0e8-7856e324804a" class="">
+</p><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="78aa6b03-0bc2-4c56-b96b-c9bf89e44641"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%">(LOCAL SEARCH OPPORTUNITY / GMaps Profile Creation</div></figure></div><div id="6fef4284-4d22-475f-b6b8-a62f4ed6e328" style="width:50%" class="column"><figure id="bb09dfc0-b254-4cde-bef2-bf1f9ac0537c"><div class="source"><a href="https://www.google.com/maps/place/Av+Adolfo+López+Mateos+Nte+#95,+Providencia,+44648+Guadalajara,+Jal.,+Mexico/@20.694196,-103.375182,15z/data=!4m6!3m5!1s0x8428ae3bee21dccd:0x3dcaed55dff4c35f!8m2!3d20.6934845!4d-103.3750676!16s/g/11sgl64kdb?hl=en-US&amp;entry=ttu&amp;g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw==">https://www.google.com/maps/place/Av+Adolfo+López+Mateos+Nte+#95,+Providencia,+44648+Guadalajara,+Jal.,+Mexico/@20.694196,-103.375182,15z/data=!4m6!3m5!1s0x8428ae3bee21dccd:0x3dcaed55dff4c35f!8m2!3d20.6934845!4d-103.3750676!16s/g/11sgl64kdb?hl=en-US&amp;entry=ttu&amp;g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw==</a></div></figure><p id="1bafa82c-eceb-4dfa-917a-51f6aba870b4" class="">
+</p></div></div><p id="2959a3f1-7dc9-4d3c-8d0c-b8c416c684ea" class="">
+</p><figure id="461b71f0-e39f-4e57-aa0d-1821e8cb8fc7" class="link-to-page"><a href="MezTal%20Digital%20&amp;%20Referral%20Partner%20Strategy%20785517f9561848cf8ad5714ed0dd3034/Task%20Request%20Form%20461b71f0e39f4e57aa0d1821e8cb8fc7.html">Task Request Form</a></figure></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
