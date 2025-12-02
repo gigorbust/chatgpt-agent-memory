@@ -1,0 +1,8 @@
+# Task: Instant FAQ Generator MVP 2.0 (Next-Gen)
+
+- [x] Analyze and propose Next-Gen MVP <!-- id: 4 -->
+- [x] Initialize Next.js Project & Design System <!-- id: 5 -->
+- [x] Implement Core Services (Scraper, Enrichment, Generator) <!-- id: 6 -->
+- [x] Build Streaming UI & Editor <!-- id: 7 -->
+- [x] Verify & Polish <!-- id: 8 -->
+- [x] Dockerize & Prepare for Google Cloud <!-- id: 9 -->

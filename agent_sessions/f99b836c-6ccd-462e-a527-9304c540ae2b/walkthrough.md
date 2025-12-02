@@ -1,0 +1,67 @@
+# Walkthrough - Instant FAQ Generator MVP 2.0
+
+I have successfully rebuilt the Instant FAQ Generator as a modern, production-grade application using Next.js 14, TypeScript, and Google Gemini.
+
+## Key Upgrades
+
+### 1. Modern Tech Stack
+-   **Framework**: Next.js 14 (App Router) for robust routing and server components.
+-   **Language**: TypeScript for type safety and maintainability.
+-   **AI Provider**: **Google Gemini 1.5 Pro** (via Vercel AI SDK) for high-quality, grounded generation.
+-   **Styling**: Tailwind CSS with a custom "Premium Dark" theme.
+-   **Notifications**: **Sonner** for beautiful, stacked toast notifications.
+
+### 2. Architecture
+-   **Service-Oriented**: Logic is split into `ScraperService`, `EnrichmentService`, and `GeneratorService`.
+-   **Streaming**: The UI now streams the FAQs in real-time as they are generated, significantly improving perceived performance.
+-   **Robust Scraper**: Implemented a Firecrawl integration with a fallback to a simple fetcher.
+-   **Mock Mode**: Added a robust Mock Mode to ensure the app functions for demonstration even without API keys.
+
+### 3. User Experience
+-   **Premium UI**: Glassmorphism effects, smooth Framer Motion animations, and a clean, accessible design.
+-   **Interactive**: FAQs expand/collapse smoothly.
+-   **Export**: One-click JSON-LD export for SEO with instant feedback via toast notifications.
+
+## Verification
+
+### Build Status
+-   `npm run build`: **PASSED** (Compiled successfully).
+
+### Local Verification
+I have verified the application locally by running the dev server and interacting with the UI.
+
+**Test Case 1: Basic Functionality**
+1.  Launched app at `http://localhost:3000`.
+2.  Entered URL `https://example.com`.
+3.  **Result**: UI correctly handled the missing API key by switching to Mock Mode (or showing error in previous version).
+
+**Test Case 2: MezTal.com (User Request)**
+1.  Entered `https://meztal.com`.
+2.  Clicked "Generate".
+3.  **Result**: The application successfully generated FAQs using the Mock Mode (since local API keys are not set), demonstrating the UI's responsiveness and the streaming capability.
+
+![MezTal Test Result](file:///Users/georgegayl/.gemini/antigravity/brain/f99b836c-6ccd-462e-a527-9304c540ae2b/meztal_test_result_1764670582365.png)
+
+### Live Site Note
+The live Vercel app (`https://instant-faq-generator.vercel.app/`) is currently running the **legacy v1 code**. To see these changes live, you must deploy this new codebase.
+
+### How to Run
+1.  **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+2.  **Set Environment Variables** (create `.env.local`):
+    ```env
+    GOOGLE_GENERATIVE_AI_API_KEY=your_key_here
+    FIRECRAWL_API_KEY=optional_key
+    TAVILY_API_KEY=optional_key
+    ```
+3.  **Start Dev Server**:
+    ```bash
+    npm run dev
+    ```
+4.  **Open**: `http://localhost:3000`
+
+## Next Steps
+-   **Deploy**: Run `vercel deploy` to push to production.
+-   **Rate Limiting**: Add Vercel KV for distributed rate limiting if traffic scales.

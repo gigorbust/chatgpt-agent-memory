@@ -1,0 +1,68 @@
+# Analysis & Roadmap: Instant FAQ Generator 2.0
+
+## Executive Summary
+The current iteration of the Instant FAQ Generator is a functional prototype (MVP 1.0) built with vanilla technologies. While it works, it suffers from architectural limitations that hinder scalability, reliability, and the "premium" user experience expected of a high-end agency tool.
+
+This document outlines the weaknesses of the current system and proposes a complete rebuild (MVP 2.0) using a modern stack (Next.js, TypeScript) to achieve streaming responses, robust state management, and a truly reactive UI.
+
+## Deep Analysis
+
+### 1. Architectural Limitations
+*   **Monolithic Serverless Function**: The entire backend logic (scraping, searching, generation) lives in a single file (`api/generate-faqs.js`). This makes it brittle and hard to test.
+*   **Timeout Risks**: The current implementation waits for *everything* (scraping + Tavily + OpenAI) to finish before sending a byte. On Vercel, serverless functions have strict timeouts (often 10-60s). If a site is slow to scrape, the request fails.
+*   **In-Memory Rate Limiting**: The current rate limiter uses a simple JavaScript `Map`. In a serverless environment (AWS Lambda/Vercel), memory is not shared between instances. This means the rate limit is ineffective at scale.
+
+### 2. Frontend & UX Issues
+*   **Vanilla JS State Management**: Managing the list of FAQs, edit states, and loading states with `document.querySelector` is becoming unwieldy. As features grow, this will lead to "spaghetti code" and bugs.
+*   **Lack of Streaming**: The user stares at a spinner for 10-20 seconds. A premium experience requires **streaming UI**, where the answer types out in real-time.
+*   **Accessibility & Type Safety**: No TypeScript means higher risk of runtime errors.
+
+### 3. Proposed "Next-Gen" Stack
+*   **Framework**: **Next.js 14+ (App Router)**.
+    *   *Why*: Built-in API routes, easy deployment to Vercel, React Server Components for performance.
+*   **Language**: **TypeScript**.
+    *   *Why*: Critical for maintainability and preventing "undefined" errors.
+*   **AI Integration**: **Vercel AI SDK (Core)**.
+    *   *Why*: Native support for **streaming** LLM responses to the frontend.
+*   **Styling**: **CSS Modules** (keeping with the "Vanilla CSS" preference but scoped) or **Tailwind** (if approved for speed). *Recommendation: CSS Modules for strict control.*
+*   **State Management**: **React**.
+    *   *Why*: Declarative UI. "Edit", "Delete", and "Add" operations become trivial.
+*   **Rate Limiting**: **Vercel KV (Redis)** or **Upstash**.
+    *   *Why*: True distributed rate limiting.
+
+---
+
+## The "Self-Prompt"
+*Copy and paste the following prompt to kick off the rebuild:*
+
+***
+
+**Role**: Senior Full Stack Architect & UX Lead (Ogilvy-level standards).
+
+**Objective**: Rebuild the "Instant FAQ Generator" from scratch as a **Next-Gen MVP**.
+
+**Context**:
+The current prototype is a single-file vanilla JS app. It works but lacks scalability, type safety, and streaming capabilities. We need to elevate this to a production-grade application.
+
+**Core Requirements**:
+1.  **Tech Stack**:
+    *   **Next.js 14** (App Router) with **TypeScript**.
+    *   **Vercel AI SDK** for **streaming** responses (critical for UX).
+    *   **Zod** for schema validation (ensure the AI returns valid JSON).
+    *   **Styling**: Use **CSS Modules** with a "Premium Dark" aesthetic (Inter font, smooth Framer Motion animations, glassmorphism).
+2.  **Architecture**:
+    *   Split the monolithic API into services: `ScraperService` (Firecrawl), `EnrichmentService` (Tavily), `GeneratorService` (OpenAI).
+    *   Implement **Distributed Rate Limiting** (using Vercel KV or a robust fallback).
+3.  **Features**:
+    *   **Real-time Streaming**: Users must see the FAQs being generated token-by-token.
+    *   **Smart Scraper**: Fallback logic (Firecrawl -> Puppeteer/Cheerio).
+    *   **Interactive Editor**: A rich React-based UI to edit/delete/reorder FAQs.
+    *   **Export**: One-click copy for HTML, JSON-LD, and Markdown.
+4.  **Quality**:
+    *   Strict TypeScript types.
+    *   Component-driven architecture.
+
+**Immediate Task**:
+Initialize the new Next.js project structure, set up the design system tokens, and create the core API route for streaming generation.
+
+***

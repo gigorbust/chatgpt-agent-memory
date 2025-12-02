@@ -1,0 +1,72 @@
+# Implementation Plan - Instant FAQ Generator Professionalization
+
+The goal is to elevate the current prototype into a polished, professional-grade application suitable for a high-end agency portfolio. We will focus on code structure, "premium" UI/UX, and project maintainability.
+
+## User Review Required
+
+> [!IMPORTANT]
+> **Tech Stack Decision**: We will stick to **Vanilla HTML/CSS/JS** for the frontend to keep it lightweight and aligned with the current Vercel setup, but we will significantly upgrade the **Design System** to match "Ogilvy" standards (premium, dark mode, smooth animations).
+>
+> **Dependency Management**: We will introduce a [package.json](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/package.json) to manage tooling (Prettier, ESLint) even if the runtime dependencies are minimal.
+
+## Proposed Changes
+
+### Project Structure
+#### [NEW] [package.json](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/package.json)
+- Initialize project metadata.
+- Add scripts for local development (e.g., `vercel dev`).
+- Add `prettier` for code formatting.
+
+#### [NEW] [.gitignore](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/.gitignore)
+- Standard Node.js and Vercel ignores.
+
+### Frontend (Public)
+#### [MODIFY] [index.html](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/public/index.html)
+- **Visual Overhaul**: Implement a "Premium Dark" aesthetic.
+    - Typography: Inter or system-ui with tight tracking.
+    - Colors: Deep charcoal backgrounds, subtle borders, vibrant accent colors (Teal/Emerald).
+    - Interactions: Smooth transitions for FAQ expansion, hover states, and loading indicators.
+- **Code Organization**: Extract CSS to [styles.css](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/public/styles.css) and JS to [app.js](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/public/app.js) if the file grows too large, but for now, we can keep them inline if preferred for single-file portability, or split them for maintainability. *Recommendation: Split for maintainability.*
+
+#### [NEW] [public/styles.css](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/public/styles.css)
+- Extracted and enhanced styles.
+
+#### [NEW] [public/app.js](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/public/app.js)
+- Extracted frontend logic.
+
+### Backend (API)
+#### [MODIFY] [api/generate-faqs.js](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/api/generate-faqs.js)
+- Minor cleanup and formatting.
+- Ensure error messages are user-friendly.
+
+## Verification Plan
+
+### Automated Tests
+- We will run `npm run lint` (once added) to verify code style.
+
+### Manual Verification
+- **Local Dev**: Run `vercel dev` (if available) or serve locally to test the UI.
+- **Functional Testing**:
+    - Generate FAQs from a sample URL.
+    - Test "Edit" and "Remove" functionality.
+    - Test "Export HTML" and "Export JSON-LD".
+    - Verify responsive design on mobile/desktop.
+
+## Google Cloud Deployment (MVP 2.0)
+
+To "clone" the app into Google and avoid Vercel lock-in, we will deploy to **Google Cloud Run**.
+
+### Configuration
+#### [NEW] [Dockerfile](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/Dockerfile)
+- Multi-stage build optimized for Next.js standalone output.
+
+#### [NEW] [cloudbuild.yaml](file:///Users/georgegayl/.gemini/antigravity/scratch/instant-faq-generator/cloudbuild.yaml)
+- CI/CD configuration for Google Cloud Build.
+
+### Deployment Steps
+1.  **Containerize**: Build the Docker image.
+2.  **Push**: Upload to Google Artifact Registry.
+3.  **Deploy**: Run on Cloud Run (serverless container platform).
+
+> [!NOTE]
+> Since `gcloud` CLI is not installed in this environment, you can deploy by pushing this code to a GitHub repository and connecting it to **Google Cloud Build**, or by installing the Google Cloud SDK locally.
