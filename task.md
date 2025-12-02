@@ -18,3 +18,7 @@
     - [x] Generate `02_Competitor_Analysis.md` <!-- id: 14 -->
     - [x] Generate `03_Keyword_Research_Strategy.md` <!-- id: 15 -->
     - [x] Generate `05_Navigation_and_Internal_Linking.md` <!-- id: 16 -->
+
+- [ ] **Relume Project Analysis** <!-- id: 17 -->
+    - [ ] Access Relume and verify sitemap/wireframes <!-- id: 18 -->
+    - [ ] Compare Relume state with `MEZTAL_FULL_SITEMAP_TREE.md` <!-- id: 19 -->
