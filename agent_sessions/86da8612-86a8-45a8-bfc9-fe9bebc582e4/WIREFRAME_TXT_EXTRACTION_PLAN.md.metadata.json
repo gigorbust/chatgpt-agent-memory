@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Extraction plan documenting partial wireframe data captured from browser automation (MezTal IA partial specs showing detailed hero/component copy, MezTa 8 DOM revealing 'WORLD STAFFING SOLUTIONS' content, MezTal 5 timeout). Requests manual TXT exports from all 3 hierarchical projects to compare against documented prompts and identify which project was generated from the canonical content in MEZTAL_RELUME_PROMPT_FINAL.md and MezTal copy_1.csv. Includes comparison checklist for taglines, testimonials, industry/solution coverage, and prompt alignment.",
+  "updatedAt": "2025-11-30T20:01:33.597198Z"
+}

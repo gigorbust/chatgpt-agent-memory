@@ -1,0 +1,30 @@
+# Task: Install Terminal Extensions and Plugins
+
+- [ ] Install `huggingface-vscode-chat` <!-- id: 0 -->
+    - [x] Clone repository <!-- id: 1 -->
+    - [x] Install dependencies (`npm install`) <!-- id: 2 -->
+    - [x] Compile extension (`npm run compile`) <!-- id: 3 -->
+- [x] Research and propose other useful terminal plugins <!-- id: 4 -->
+- [/] Install approved additional plugins <!-- id: 5 -->
+    - [x] Install Oh My Zsh <!-- id: 6 -->
+    - [x] Install zsh-autosuggestions <!-- id: 7 -->
+    - [x] Install zsh-syntax-highlighting <!-- id: 8 -->
+    - [x] Install autojump (brew) <!-- id: 9 -->
+    - [x] Install fzf (brew) <!-- id: 10 -->
+    - [x] Install starship (brew) <!-- id: 11 -->
+    - [x] Configure .zshrc <!-- id: 12 -->
+
+- [x] Research additional tools (Marketing, Productivity, AI Efficiency) <!-- id: 13 -->
+- [x] Investigate Model Context Protocol (MCP) servers <!-- id: 14 -->
+- [x] Create implementation plan for new tools <!-- id: 15 -->
+- [x] Install approved tools <!-- id: 16 -->
+    - [x] Install productivity tools (bat, eza, ripgrep, lazygit, tldr, jq, btop) <!-- id: 17 -->
+    - [x] Install marketing/web tools (httpie, lighthouse) <!-- id: 18 -->
+    - [x] Install MCP reference servers <!-- id: 19 -->
+
+- [x] Research 'organize' tool and other basic utilities <!-- id: 20 -->
+- [x] Update implementation plan for Phase 3 <!-- id: 21 -->
+- [x] Install basic utilities <!-- id: 22 -->
+    - [x] Install pipx (brew) <!-- id: 23 -->
+    - [x] Install organize-tool (pipx) <!-- id: 24 -->
+    - [x] Install essential CLI utils (tree, wget, watch, ncdu, fd, procs, dust, sd) <!-- id: 25 -->

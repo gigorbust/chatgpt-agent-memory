@@ -1,0 +1,69 @@
+# Task: Install Terminal Extensions and Plugins
+
+- [ ] Install `huggingface-vscode-chat` <!-- id: 0 -->
+    - [x] Clone repository <!-- id: 1 -->
+    - [x] Install dependencies (`npm install`) <!-- id: 2 -->
+    - [x] Compile extension (`npm run compile`) <!-- id: 3 -->
+- [x] Research and propose other useful terminal plugins <!-- id: 4 -->
+- [/] Install approved additional plugins <!-- id: 5 -->
+    - [x] Install Oh My Zsh <!-- id: 6 -->
+    - [x] Install zsh-autosuggestions <!-- id: 7 -->
+    - [x] Install zsh-syntax-highlighting <!-- id: 8 -->
+    - [x] Install autojump (brew) <!-- id: 9 -->
+    - [x] Install fzf (brew) <!-- id: 10 -->
+    - [x] Install starship (brew) <!-- id: 11 -->
+    - [x] Configure .zshrc <!-- id: 12 -->
+
+- [x] Research additional tools (Marketing, Productivity, AI Efficiency) <!-- id: 13 -->
+- [x] Investigate Model Context Protocol (MCP) servers <!-- id: 14 -->
+- [x] Create implementation plan for new tools <!-- id: 15 -->
+- [x] Install approved tools <!-- id: 16 -->
+    - [x] Install productivity tools (bat, eza, ripgrep, lazygit, tldr, jq, btop) <!-- id: 17 -->
+    - [x] Install marketing/web tools (httpie, lighthouse) <!-- id: 18 -->
+    - [x] Install MCP reference servers <!-- id: 19 -->
+
+- [x] Research 'organize' tool and other basic utilities <!-- id: 20 -->
+- [x] Update implementation plan for Phase 3 <!-- id: 21 -->
+- [x] Install basic utilities <!-- id: 22 -->
+    - [x] Install pipx (brew) <!-- id: 23 -->
+    - [x] Install organize-tool (pipx) <!-- id: 24 -->
+    - [x] Install essential CLI utils (tree, wget, watch, ncdu, fd, procs, dust, sd) <!-- id: 25 -->
+
+- [x] Install Playwright <!-- id: 26 -->
+    - [x] Install Playwright globally <!-- id: 27 -->
+    - [x] Create Playwright workspace <!-- id: 28 -->
+    - [x] Install browser binaries <!-- id: 29 -->
+
+- [x] Install Final Polish tools (gh, ffmpeg, imagemagick, etc.) <!-- id: 30 -->
+    - [x] Install developer workflow tools (gh, thefuck, navi, yq) <!-- id: 32 -->
+    - [x] Install media & performance tools (ffmpeg, imagemagick, pandoc, hyperfine, duf) <!-- id: 33 -->
+- [x] Update walkthrough with all tools <!-- id: 31 -->
+
+- [x] Install Token Savers (mise, ctags, ruff) <!-- id: 34 -->
+    - [x] Install mise (brew) <!-- id: 36 -->
+    - [x] Install universal-ctags (brew) <!-- id: 37 -->
+    - [x] Install ruff (brew) <!-- id: 38 -->
+- [x] Update walkthrough with token savers <!-- id: 35 -->
+
+- [x] Install Ultimate Power Tools (Ollama, LLM CLI, Glow, Zellij, Yazi) <!-- id: 39 -->
+    - [x] Install Ollama (brew) <!-- id: 41 -->
+    - [x] Install Zellij, Yazi, Glow (brew) <!-- id: 42 -->
+    - [x] Install LLM CLI (pipx) <!-- id: 43 -->
+- [x] Update walkthrough with power tools <!-- id: 40 -->
+
+- [ ] Research Automation & Simplification tools (just, lazydocker, devbox) <!-- id: 44 -->
+- [ ] Update implementation plan for Phase 8 <!-- id: 45 -->
+- [x] Install Automation & Simplification tools <!-- id: 46 -->
+    - [x] Install just (brew) <!-- id: 47 -->
+    - [x] Install lazydocker (brew) <!-- id: 48 -->
+    - [ ] Install devbox (Manual/Skipped) <!-- id: 49 -->
+    - [x] Install hurl (brew) <!-- id: 50 -->
+    - [x] Install raycast (brew cask) <!-- id: 51 -->
+- [x] Update walkthrough with automation tools <!-- id: 52 -->
+
+- [x] Install Vibe Coding tools (aider) <!-- id: 53 -->
+    - [x] Install aider (pipx) <!-- id: 55 -->
+- [x] Update walkthrough with vibe coding <!-- id: 54 -->
+
+- [ ] Install Final Bangers (visidata, helix, ngrok, cmatrix) <!-- id: 56 -->
+- [ ] Update walkthrough with bangers <!-- id: 57 -->

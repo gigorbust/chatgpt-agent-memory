@@ -1,0 +1,46 @@
+# Install Terminal Extensions Plan
+
+## Goal Description
+Install `huggingface-vscode-chat` as requested by the user, and identify/install other useful terminal extensions/plugins to enhance the development environment.
+
+## User Review Required
+- None for the initial request.
+- Will request review for additional plugins found.
+
+## Proposed Changes
+
+### Extensions Setup
+#### [NEW] [huggingface-vscode-chat]
+- Clone to `/Users/georgegayl/.gemini/antigravity/scratch/extensions/huggingface-vscode-chat`
+- Run `npm install` and `npm run compile`
+
+### Additional Plugins
+#### [NEW] [Oh My Zsh](https://ohmyz.sh/)
+- Foundation for managing zsh configuration.
+- Install via curl.
+
+#### [NEW] [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- Suggests commands as you type based on history.
+- Install as Oh My Zsh custom plugin.
+
+#### [NEW] [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- Highlights commands in the terminal.
+- Install as Oh My Zsh custom plugin.
+
+#### [NEW] [autojump](https://github.com/wting/autojump)
+- A faster way to navigate your filesystem.
+- Install via Homebrew: `brew install autojump`.
+
+#### [NEW] [fzf](https://github.com/junegunn/fzf)
+- Command-line fuzzy finder.
+- Install via Homebrew: `brew install fzf`.
+
+#### [NEW] [Starship](https://starship.rs/)
+- Minimal, blazing-fast, and infinitely customizable prompt.
+- Install via Homebrew: `brew install starship`.
+
+
+## Verification Plan
+### Automated Tests
+- Check exit code of `npm run compile`.
+- Verify directory structure of cloned repo.

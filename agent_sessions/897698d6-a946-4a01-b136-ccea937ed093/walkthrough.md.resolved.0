@@ -1,0 +1,25 @@
+# Terminal Extensions Walkthrough
+
+## Installed Extensions
+- **huggingface-vscode-chat**: Installed in `~/.gemini/antigravity/scratch/extensions/huggingface-vscode-chat`.
+- **Oh My Zsh**: Installed in `~/.oh-my-zsh`.
+- **zsh-autosuggestions**: Installed in `~/.oh-my-zsh/custom/plugins/zsh-autosuggestions`.
+- **zsh-syntax-highlighting**: Installed in `~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting`.
+- **autojump**: Installed via Homebrew.
+- **fzf**: Installed via Homebrew.
+- **Starship**: Installed via Homebrew.
+
+## Verification
+To verify the installation, open a new terminal window or run `zsh`.
+
+### Expected Behavior
+1.  **Prompt**: You should see the Starship prompt (it might look different from the default).
+2.  **Autosuggestions**: Type a command you've used before (e.g., `git`), and you should see a gray suggestion. Press `Right Arrow` to accept.
+3.  **Syntax Highlighting**: Type a valid command (e.g., `ls`), it should be green. Type an invalid command (e.g., `lss`), it should be red.
+4.  **Autojump**: Type `j <dir>` to jump to a directory you've visited before (you might need to visit some directories first).
+5.  **Fzf**: Press `Ctrl+R` to search history using fzf. Press `Ctrl+T` to search files.
+
+### Manual Verification Steps
+1.  Run `source ~/.zshrc` to reload configuration.
+2.  Check plugins are loaded: `echo $plugins`. Should contain `git`, `zsh-autosuggestions`, `zsh-syntax-highlighting`.
+3.  Check starship: `starship --version`.

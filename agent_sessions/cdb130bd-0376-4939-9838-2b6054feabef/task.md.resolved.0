@@ -1,0 +1,7 @@
+# Uninstall Atlassian Software
+
+- [ ] Identify installed Atlassian software <!-- id: 0 -->
+- [ ] Stop running Atlassian processes <!-- id: 1 -->
+- [ ] Remove Application files <!-- id: 2 -->
+- [ ] Remove Library/Config files <!-- id: 3 -->
+- [ ] Verify uninstallation <!-- id: 4 -->

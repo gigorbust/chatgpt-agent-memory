@@ -1,0 +1,131 @@
+# Terminal Extensions Walkthrough
+
+## Installed Extensions
+- **huggingface-vscode-chat**: Installed in `~/.gemini/antigravity/scratch/extensions/huggingface-vscode-chat`.
+- **Oh My Zsh**: Installed in `~/.oh-my-zsh`.
+- **zsh-autosuggestions**: Installed in `~/.oh-my-zsh/custom/plugins/zsh-autosuggestions`.
+- **zsh-syntax-highlighting**: Installed in `~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting`.
+- **autojump**: Installed via Homebrew.
+- **fzf**: Installed via Homebrew.
+- **Starship**: Installed via Homebrew.
+
+## Verification
+To verify the installation, open a new terminal window or run `zsh`.
+
+### Expected Behavior
+1.  **Prompt**: You should see the Starship prompt (it might look different from the default).
+2.  **Autosuggestions**: Type a command you've used before (e.g., `git`), and you should see a gray suggestion. Press `Right Arrow` to accept.
+3.  **Syntax Highlighting**: Type a valid command (e.g., `ls`), it should be green. Type an invalid command (e.g., `lss`), it should be red.
+4.  **Autojump**: Type `j <dir>` to jump to a directory you've visited before (you might need to visit some directories first).
+5.  **Fzf**: Press `Ctrl+R` to search history using fzf. Press `Ctrl+T` to search files.
+
+### Manual Verification Steps
+1.  Run `source ~/.zshrc` to reload configuration.
+2.  Check plugins are loaded: `echo $plugins`. Should contain `git`, `zsh-autosuggestions`, `zsh-syntax-highlighting`.
+3.  Check starship: `starship --version`.
+
+## Phase 2: Productivity, Marketing & MCP Tools
+
+### Installed Tools
+- **Productivity**: `bat`, `eza`, `ripgrep` (`rg`), `lazygit`, `tldr`, `jq`, `btop`.
+- **Marketing/Web**: `httpie` (`http`), `lighthouse`.
+- **MCP**: Reference servers cloned to `~/mcp-servers/servers`.
+
+### Verification Steps
+1.  **Productivity Tools**:
+    - `bat <file>`: View a file with syntax highlighting.
+    - `eza -l`: List files with icons and details.
+    - `rg <pattern>`: Search for text in files.
+    - `lazygit`: Open the git terminal UI.
+    - `tldr <command>`: View simplified man page (e.g., `tldr tar`).
+    - `jq`: Process JSON (e.g., `echo '{"a": 1}' | jq .a`).
+    - `btop`: Open system monitor.
+
+2.  **Marketing/Web Tools**:
+    - `http <url>`: Make an HTTP request (e.g., `http example.com`).
+    - `lighthouse <url>`: Run a lighthouse audit (e.g., `lighthouse https://example.com`).
+
+3.  **MCP Servers**:
+    - Navigate to `~/mcp-servers/servers`.
+    - Run `npm install` (already done).
+    - Explore the `src` directory to see available servers (filesystem, git, memory, etc.).
+
+## Phase 3: Basic Utilities & Organization
+
+### Installed Tools
+- **Organization**: `organize-tool` (via `pipx`).
+- **Utilities**: `tree`, `wget`, `watch`, `ncdu`, `fd`, `procs`, `dust`, `sd`.
+
+### Verification Steps
+1.  **Organization**:
+    - `organize --version`: Check version.
+    - `organize new`: Create a new config file (optional).
+
+2.  **Utilities**:
+    - `tree -L 1`: List current directory structure (depth 1).
+    - `wget --version`: Check wget version.
+    - `watch echo "hello"`: Run a command periodically (Ctrl+C to exit).
+    - `ncdu`: Analyze disk usage of current directory (q to exit).
+    - `fd <pattern>`: Find files (faster than find).
+    - `procs`: View running processes (modern ps).
+    - `dust`: View disk usage (modern du).
+    - `dust`: View disk usage (modern du).
+    - `echo "hello world" | sd "world" "universe"`: Test find & replace.
+
+## Phase 4: Browser Automation
+
+### Installed Tools
+- **Playwright**: Installed globally and in `~/playwright-workspace`.
+
+### Verification Steps
+1.  **Playwright**:
+    - `npx playwright --version`: Check version.
+    - `cd ~/playwright-workspace && npx playwright test`: Run example tests (if any) or just check environment.
+    - `cd ~/playwright-workspace && npx playwright test`: Run example tests (if any) or just check environment.
+    - `npx playwright codegen wikipedia.org`: Launch the codegen tool to verify browser launch (close window to exit).
+
+## Phase 5: Final Polish & Power Tools
+
+### Installed Tools
+- **Workflow**: `gh`, `thefuck`, `navi`, `yq`.
+- **Media/Perf**: `ffmpeg`, `imagemagick` (`magick`), `pandoc`, `hyperfine`, `duf`.
+
+### Verification Steps
+1.  **Workflow**:
+    - `gh --version`: Check GitHub CLI.
+    - `thefuck --version`: Check thefuck.
+    - `navi --version`: Check navi.
+    - `yq --version`: Check yq.
+
+2.  **Media/Perf**:
+    - `ffmpeg -version`: Check ffmpeg.
+    - `magick -version`: Check ImageMagick.
+    - `pandoc --version`: Check pandoc.
+    - `hyperfine --version`: Check hyperfine.
+    - `hyperfine --version`: Check hyperfine.
+    - `duf`: Check disk usage.
+
+## Phase 6: Token Savers (Agent Efficiency)
+
+### Installed Tools
+- **Environment**: `mise` (replaces nvm/pyenv).
+- **Navigation**: `universal-ctags` (`ctags`).
+- **Linting**: `ruff`.
+
+### Verification Steps
+1.  **Environment**:
+    - `mise --version`: Check mise.
+    - `mise ls`: List installed runtimes (likely empty initially).
+
+2.  **Navigation**:
+    - `ctags --version`: Check Universal Ctags.
+    - `ctags -R .`: Generate tags for current directory (creates `tags` file).
+
+3.  **Linting**:
+    - `ruff --version`: Check ruff.
+    - `ruff check .`: Lint current directory (fast!).
+
+
+
+
+

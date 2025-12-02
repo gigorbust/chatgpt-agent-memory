@@ -1,0 +1,7 @@
+# Agent memory logging configuration
+log_directory: logs
+
+files:
+  error: logs/error-log.jsonl
+  learning: logs/learning-log.jsonl
+  actions: logs/actions.csv

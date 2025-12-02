@@ -1,0 +1,23 @@
+# Install Terminal Extensions Plan
+
+## Goal Description
+Install `huggingface-vscode-chat` as requested by the user, and identify/install other useful terminal extensions/plugins to enhance the development environment.
+
+## User Review Required
+- None for the initial request.
+- Will request review for additional plugins found.
+
+## Proposed Changes
+
+### Extensions Setup
+#### [NEW] [huggingface-vscode-chat]
+- Clone to `/Users/georgegayl/.gemini/antigravity/scratch/extensions/huggingface-vscode-chat`
+- Run `npm install` and `npm run compile`
+
+### Additional Plugins (To Be Researched)
+- Potential candidates: `zsh-autosuggestions`, `fzf`, `starship`.
+
+## Verification Plan
+### Automated Tests
+- Check exit code of `npm run compile`.
+- Verify directory structure of cloned repo.

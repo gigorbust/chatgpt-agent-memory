@@ -1,0 +1,29 @@
+MezTal 3 Export - MOST DETAILED HIERARCHICAL STRUCTURE
+
+Home (has sub-pages: Solutions, Talent & RPO, Industries, Why Mexico)
+
+Solutions Hub - very detailed with 9 sub-pages:
+- Augmented Workforce
+- Finance & Accounting  
+- IT Staffing & Software
+- Workflow Automation
+- HR
+- Call Center & Support
+- Marketing & Creative
+- Admin & Back Office
+- Employer of Record Mexico
+
+Industries Hub - 6 detailed industry pages:
+- Senior Living
+- AgeTech
+- Healthcare
+- B2B SaaS & Tech
+- FinTech
+- Real Estate & Property
+
+Why Mexico Hub:
+- Why Guadalajara
+- Immersion Trips
+
+Total: DEEPEST hierarchy of all projects, with detailed content for Solutions and Industries clusters.
+This appears to be the most complete structure.

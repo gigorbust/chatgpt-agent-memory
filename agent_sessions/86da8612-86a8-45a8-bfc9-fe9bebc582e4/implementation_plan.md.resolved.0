@@ -1,0 +1,40 @@
+# Implementation Plan: Relume Project Expansion (MezTal 5)
+
+## Goal Description
+The goal is to expand the "MezTal 5" Relume project to match the deep hierarchical structure (400+ pages) defined in the master sitemap (`MEZTAL_FULL_SITEMAP_TREE.md`) and inject the specific content and branding derived from `meztal.com`.
+
+## User Review Required
+> [!IMPORTANT]
+> **Approval Needed:** Confirm switch from "MezTa 8" to "MezTal 5" as the master project.
+> **Scope:** This plan focuses on the initial expansion of the "Staff Accountant" cluster as a pilot before scaling to all 400+ pages.
+
+## Proposed Changes
+
+### Relume Project Updates (via Browser Subagent)
+
+#### [MODIFY] MezTal 5 Project
+*   **Switch Project:** Set "MezTal 5" as the active working project.
+*   **Style Guide:** Update global style guide with MezTal brand colors:
+    *   Primary: `#F7931E` (Orange)
+    *   Secondary: `#2D5F8A` (Blue)
+*   **Home Page:** Update content with specific taglines ("Staffing like you've never seen", "We manage the messy stuff").
+
+#### [NEW] Staff Accountant Cluster
+*   **Generate Pages:** Systematically generate the missing leaf pages for the "Staff Accountant" cluster:
+    *   Staff Accountant Role Page
+    *   Staff Accountant Salary Guide
+    *   Staff Accountant Interview Questions
+    *   Staff Accountant Job Description
+*   **Content Injection:** Populate these pages with specific SEO content and cross-linking.
+
+#### [NEW] Referral Partner Section
+*   **Generate Pages:** Create the "Referral Partner" landing page and associated resource pages.
+
+## Verification Plan
+
+### Automated Verification
+*   **Sitemap Check:** Use browser subagent to capture the updated sitemap and verify the presence of the new "Staff Accountant" pages.
+*   **Content Check:** Use browser subagent to inspect the Home page and verify the correct taglines and colors are applied.
+
+### Manual Verification
+*   **User Review:** User to review the updated "MezTal 5" project link to confirm the structure and content meet expectations.

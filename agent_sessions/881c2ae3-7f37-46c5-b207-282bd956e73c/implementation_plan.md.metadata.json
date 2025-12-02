@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Plan to scan drives for 'meztal' files and archive them to a git repo.",
+  "updatedAt": "2025-11-27T14:21:08.847044Z"
+}

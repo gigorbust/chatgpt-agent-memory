@@ -1,0 +1,21 @@
+MezTal 1 Export - FLAT STRUCTURE
+
+Top-level pages:
+- Home
+- Solutions (has sub-page: Role Landing)
+- Industries
+- Why Mexico
+- Locations (has sub-page: Location Detail)
+- Comparison Hub (has sub-page: Comparison Detail)
+- Case Studies (has sub-page: Case Study)
+- Resources (has sub-page: Blog Post)
+- Author
+- Company
+- Careers
+- Social Hub
+- Hire Talent
+- Get a Quote
+- Thank You
+
+Total structure: Mostly flat with 15 top-level pages and a few sub-pages.
+NO cluster structure like Finance > Staff Accountant > Role Page

@@ -1,0 +1,24 @@
+# Cleanup Plan: Uninstall Atlassian Software
+
+## Goal Description
+The user wants to uninstall Atlassian software. I have identified that the only active components are `mcp-remote` processes running via `npx`. There are no native applications installed in standard locations.
+
+## User Review Required
+> [!NOTE]
+> I will kill the running `mcp-remote` processes and clear the `npx` cache.
+> I also found browser extension files for Jira/Confluence/Bitbucket. I recommend uninstalling these directly from your browser (Chrome/Edge/Comet) extensions page. I will not force delete these files to avoid corrupting browser profiles, unless explicitly requested.
+
+## Proposed Changes
+
+### System
+- Kill processes matching `mcp-remote` and `atlassian`.
+- Clear `~/.npm/_npx` cache to remove the cached Atlassian MCP server.
+
+### Files
+- None to delete in [/Applications](file:///Applications).
+- Browser extension files will be left for manual removal via browser UI.
+
+## Verification Plan
+### Automated Verification
+- Run `ps aux | grep -i atlassian` to ensure no processes are running.
+- Run `ps aux | grep -i mcp-remote` to ensure no MCP processes are running.

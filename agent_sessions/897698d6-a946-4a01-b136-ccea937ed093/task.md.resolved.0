@@ -1,0 +1,8 @@
+# Task: Install Terminal Extensions and Plugins
+
+- [ ] Install `huggingface-vscode-chat` <!-- id: 0 -->
+    - [ ] Clone repository <!-- id: 1 -->
+    - [ ] Install dependencies (`npm install`) <!-- id: 2 -->
+    - [ ] Compile extension (`npm run compile`) <!-- id: 3 -->
+- [ ] Research and propose other useful terminal plugins <!-- id: 4 -->
+- [ ] Install approved additional plugins <!-- id: 5 -->

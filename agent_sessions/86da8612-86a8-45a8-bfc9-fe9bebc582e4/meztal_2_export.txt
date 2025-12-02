@@ -1,0 +1,27 @@
+MezTal 2 Export - HIERARCHICAL STRUCTURE
+
+Home (plus sub-pages: Solutions, Industries, Why Mexico, Resources, Blog, Company, Hire Talent, Careers)
+
+Solutions Hub with detailed sub-pages:
+- Augmented Workforce Solutions
+- Finance & Accounting
+- IT Staffing & Software Development
+- Workflow Automation
+- HR & Talent / RPO
+- Call Center & Support
+- Marketing & Creative
+- Admin & Back Office
+
+Industries Hub:
+- Senior Living (detailed page)
+
+Why Mexico Hub:
+- Why Guadalajara (page exists but details empty)
+
+Resources Hub:
+- Case Study (template)
+
+Blog Hub:
+- Blog Post (template)
+
+Total: More hierarchical than MezTal 1, with proper clustering under Solutions and Industries.

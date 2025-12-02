@@ -1,0 +1,14 @@
+# Task: Scan Drives and Archive Meztal Files
+
+- [ ] Explore environment <!-- id: 0 -->
+    - [ ] List mounted volumes in `/Volumes` <!-- id: 1 -->
+    - [ ] Check for existing `logs` git repository <!-- id: 2 -->
+- [ ] Plan and Design Script <!-- id: 3 -->
+    - [ ] Create implementation plan <!-- id: 4 -->
+- [ ] Implement Scanning Script <!-- id: 5 -->
+    - [ ] Write Python script to scan drives <!-- id: 6 -->
+    - [ ] Implement filtering logic (name match, date exclusion, topic exclusion) <!-- id: 7 -->
+    - [ ] Implement file copying and git operations <!-- id: 8 -->
+- [ ] Verify and Execute <!-- id: 9 -->
+    - [ ] Run script in background/no-pause mode <!-- id: 10 -->
+    - [ ] Verify files are copied <!-- id: 11 -->

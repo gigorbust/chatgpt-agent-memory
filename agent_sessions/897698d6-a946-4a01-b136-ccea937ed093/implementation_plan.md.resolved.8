@@ -1,0 +1,267 @@
+# Install Terminal Extensions Plan
+
+## Goal Description
+Install `huggingface-vscode-chat` as requested by the user, and identify/install other useful terminal extensions/plugins to enhance the development environment.
+
+## User Review Required
+- None for the initial request.
+- Will request review for additional plugins found.
+
+## Proposed Changes
+
+### Extensions Setup
+#### [NEW] [huggingface-vscode-chat]
+- Clone to `/Users/georgegayl/.gemini/antigravity/scratch/extensions/huggingface-vscode-chat`
+- Run `npm install` and `npm run compile`
+
+### Additional Plugins
+#### [NEW] [Oh My Zsh](https://ohmyz.sh/)
+- Foundation for managing zsh configuration.
+- Install via curl.
+
+#### [NEW] [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- Suggests commands as you type based on history.
+- Install as Oh My Zsh custom plugin.
+
+#### [NEW] [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- Highlights commands in the terminal.
+- Install as Oh My Zsh custom plugin.
+
+#### [NEW] [autojump](https://github.com/wting/autojump)
+- A faster way to navigate your filesystem.
+- Install via Homebrew: `brew install autojump`.
+
+#### [NEW] [fzf](https://github.com/junegunn/fzf)
+- Command-line fuzzy finder.
+- Install via Homebrew: `brew install fzf`.
+
+#### [NEW] [Starship](https://starship.rs/)
+- Minimal, blazing-fast, and infinitely customizable prompt.
+- Install via Homebrew: `brew install starship`.
+
+
+## Verification Plan
+### Automated Tests
+- Check exit code of `npm run compile`.
+- Verify directory structure of cloned repo.
+
+## Phase 2: Productivity, Marketing & MCP
+
+### Productivity Tools (Homebrew)
+#### [NEW] [bat](https://github.com/sharkdp/bat)
+- A `cat` clone with syntax highlighting and Git integration.
+- `brew install bat`
+
+#### [NEW] [eza](https://github.com/eza-community/eza)
+- A modern, maintained replacement for `ls`.
+- `brew install eza`
+
+#### [NEW] [ripgrep](https://github.com/BurntSushi/ripgrep)
+- Line-oriented search tool that recursively searches the current directory.
+- `brew install ripgrep`
+
+#### [NEW] [lazygit](https://github.com/jesseduffield/lazygit)
+- Simple terminal UI for git commands.
+- `brew install lazygit`
+
+#### [NEW] [tldr](https://tldr.sh/)
+- Simplified and community-driven man pages.
+- `brew install tldr`
+
+#### [NEW] [jq](https://jqlang.github.io/jq/)
+- Lightweight and flexible command-line JSON processor.
+- `brew install jq`
+
+#### [NEW] [btop](https://github.com/aristocratos/btop)
+- Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+- `brew install btop`
+
+### Marketing & Web Tools
+#### [NEW] [httpie](https://httpie.io/)
+- User-friendly command-line HTTP client for the API era.
+- `brew install httpie`
+
+#### [NEW] [Lighthouse CLI](https://github.com/GoogleChrome/lighthouse)
+- Automated auditing, performance metrics, and best practices for the web.
+- `npm install -g lighthouse`
+
+### Model Context Protocol (MCP)
+#### [NEW] [MCP Reference Servers](https://github.com/modelcontextprotocol/servers)
+- Clone the official repository containing reference implementations (filesystem, git, memory, etc.).
+- Location: `~/mcp-servers`
+- `git clone https://github.com/modelcontextprotocol/servers.git`
+- `npm install` (in root to set up workspaces)
+
+## Phase 3: Basic Utilities & Organization
+
+### File Organization & Management
+#### [NEW] [organize-tool](https://github.com/tfeldmann/organize)
+- The file management automation tool.
+- Install via `pipx` (recommended) or `pip`.
+- Command: `organize`
+
+#### [NEW] [pipx](https://github.com/pypa/pipx)
+- Install and run Python applications in isolated environments.
+- `brew install pipx`
+
+### Essential CLI Utilities (Homebrew)
+#### [NEW] [tree](https://linux.die.net/man/1/tree)
+- Recursive directory listing command.
+- `brew install tree`
+
+#### [NEW] [wget](https://www.gnu.org/software/wget/)
+- Network utility to retrieve files from the Web.
+- `brew install wget`
+
+#### [NEW] [watch](https://linux.die.net/man/1/watch)
+- Execute a program periodically, showing output fullscreen.
+- `brew install watch`
+
+#### [NEW] [ncdu](https://dev.yorhel.nl/ncdu)
+- Disk usage analyzer with an ncurses interface.
+- `brew install ncdu`
+
+#### [NEW] [fd](https://github.com/sharkdp/fd)
+- A simple, fast and user-friendly alternative to 'find'.
+- `brew install fd`
+
+#### [NEW] [procs](https://github.com/dalance/procs)
+- A modern replacement for `ps`.
+- `brew install procs`
+
+#### [NEW] [dust](https://github.com/bootandy/dust)
+- A more intuitive version of `du`.
+- `brew install dust`
+
+#### [NEW] [sd](https://github.com/chmln/sd)
+- Intuitive find & replace CLI (sed alternative).
+- `brew install sd`
+
+## Phase 4: Browser Automation
+
+### Testing & Automation
+#### [NEW] [Playwright](https://playwright.dev/)
+- Reliable end-to-end testing for modern web apps. Also great for scraping and automation.
+- Install via npm (global or local). We'll do a global install of the CLI and a local setup in `~/playwright-workspace` for experimentation.
+- `npm install -g playwright`
+- `mkdir ~/playwright-workspace && cd ~/playwright-workspace && npm init -y && npm install playwright`
+- `npx playwright install` (to download browser binaries)
+
+## Phase 5: Final Polish & Power Tools
+
+### Developer Workflow
+#### [NEW] [gh](https://cli.github.com/)
+- GitHub’s official command line tool.
+- `brew install gh`
+
+#### [NEW] [thefuck](https://github.com/nvbn/thefuck)
+- Magnificent app which corrects your previous console command.
+- `brew install thefuck`
+
+#### [NEW] [navi](https://github.com/denisidoro/navi)
+- An interactive cheatsheet tool for the command-line.
+- `brew install navi`
+
+#### [NEW] [yq](https://github.com/mikefarah/yq)
+- Portable command-line YAML processor (like jq for YAML).
+- `brew install yq`
+
+### Media & Performance
+#### [NEW] [ffmpeg](https://ffmpeg.org/)
+- A complete, cross-platform solution to record, convert and stream audio and video.
+- `brew install ffmpeg`
+
+#### [NEW] [imagemagick](https://imagemagick.org/)
+- Create, edit, compose, or convert bitmap images.
+- `brew install imagemagick`
+
+#### [NEW] [pandoc](https://pandoc.org/)
+- Universal document converter.
+- `brew install pandoc`
+
+#### [NEW] [hyperfine](https://github.com/sharkdp/hyperfine)
+- A command-line benchmarking tool.
+- `brew install hyperfine`
+
+#### [NEW] [duf](https://github.com/murali-shreedass/duf)
+- Disk Usage/Free Utility - a better 'df'.
+- `brew install duf`
+
+## Phase 6: The "Token Savers" (Agent Efficiency)
+
+### Environment & Consistency
+#### [NEW] [mise](https://github.com/jdx/mise) (formerly rtx)
+- **Why it helps me**: I often burn tokens debugging "wrong node version" or "python not found" errors. `mise` ensures the environment is exactly what I expect, instantly.
+- `brew install mise`
+
+### Code Understanding & Navigation
+#### [NEW] [Universal Ctags](https://github.com/universal-ctags/ctags)
+- **Why it helps me**: Instead of reading a 1000-line file to find a function definition (expensive!), I can read a tiny `tags` file to find the exact line number. Massive token saver for large codebases.
+- `brew install universal-ctags`
+
+### Fast Linting
+#### [NEW] [Ruff](https://github.com/astral-sh/ruff)
+- **Why it helps me**: It's an extremely fast Python linter/formatter. It catches syntax errors and bugs *before* I run the code, preventing "fix error" loops that waste turns.
+- `brew install ruff`
+
+## Phase 7: Ultimate Power (AI & Modern UX)
+
+### Local AI & LLMs
+#### [NEW] [Ollama](https://ollama.com/)
+- Run large language models (Llama 3, Mistral, etc.) locally.
+- `brew install ollama`
+
+#### [NEW] [llm](https://llm.datasette.io/)
+- A CLI utility for interacting with LLMs (both local via Ollama and remote APIs).
+- `pipx install llm`
+
+### Modern Terminal UX
+#### [NEW] [Zellij](https://zellij.dev/)
+- A modern terminal multiplexer (easier and prettier than tmux).
+- `brew install zellij`
+
+#### [NEW] [Yazi](https://yazi-rs.github.io/)
+- Blazing fast terminal file manager written in Rust, with image previews.
+- `brew install yazi`
+
+#### [NEW] [Glow](https://github.com/charmbracelet/glow)
+- Render markdown on the CLI, with style. Great for reading documentation.
+- `brew install glow`
+
+## Phase 8: Automation & Simplification (The "Struggle" Solvers)
+
+### Workflow Automation
+#### [NEW] [Just](https://github.com/casey/just)
+- **The Struggle**: Remembering complex `make` commands or shell scripts.
+- **The Fix**: A handy command runner. Save your complex commands in a `justfile` and run them with `just build` or `just deploy`.
+- `brew install just`
+
+### Container & Env Simplification
+#### [NEW] [Lazydocker](https://github.com/jesseduffield/lazydocker)
+- **The Struggle**: Typing `docker ps`, `docker logs`, `docker exec` repeatedly.
+- **The Fix**: A simple terminal UI for Docker. Manage containers, view logs, and restart services with a keystroke.
+- `brew install lazydocker`
+
+#### [NEW] [Devbox](https://www.jetify.com/devbox)
+- **The Struggle**: "It works on my machine" or messing up your system Python/Node versions.
+- **The Fix**: Instant, isolated development environments without the complexity of Docker. Powered by Nix but easy to use.
+- `brew install devbox`
+
+### API Testing
+#### [NEW] [Hurl](https://hurl.dev/)
+- **The Struggle**: Writing complex `curl` commands or clicking around in Postman.
+- **The Fix**: Run HTTP requests defined in a simple plain text format. Great for testing APIs.
+- `brew install hurl`
+
+### Mac Productivity (GUI)
+#### [NEW] [Raycast](https://www.raycast.com/)
+- **The Struggle**: Clicking through menus, searching for files, doing math, converting units.
+- **The Fix**: An extendable launcher. It replaces Spotlight and does *everything* (clipboard history, window management, snippets).
+- `brew install --cask raycast`
+
+
+
+
+
+
+
